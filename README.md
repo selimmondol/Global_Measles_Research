@@ -92,3 +92,30 @@ Manuscript citation details will be updated following publication.
 ## License
 
 No software or data redistribution license has been assigned yet. Licensing will be finalized after reviewing source-data permissions and repository contents.
+
+## Verified independent-test reproduction
+
+The frozen independent-test evaluation was reproduced from a fresh GitHub clone using Python 3.12.2 and locally supplied original research datasets.
+
+The reproduction verified all 28 frozen-manifest file hashes and produced exact matches across five CSV files:
+
+- test_classification_metrics.csv
+- annual_decision_metrics.csv
+- pooled_decision_summary.csv
+- test_predictions.csv
+- selected_and_missed_test_rows.csv
+
+### Reproduction procedure
+
+1. Clone this repository.
+2. Create a Python 3.12.2 environment.
+3. Install dependencies using `pip install -r requirements.txt`.
+4. Obtain the required original research datasets.
+5. Place the datasets under `data/raw/` and `data/processed/`, preserving their original filenames.
+6. Preserve the original `results/independent_test_v1/` files as reference outputs.
+7. Run `python src/15_independent_test_evaluation.py` only in a separate reproduction copy where the script's protected output directory has been moved aside.
+8. Compare the newly generated CSV files against the preserved reference outputs.
+
+The independent-test script intentionally refuses to overwrite an existing output directory.
+
+Raw and processed datasets are not currently distributed through this repository. This verification therefore does not establish standalone reproduction from the public repository or independent reproduction of the complete raw-data preparation pipeline.
