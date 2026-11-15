@@ -1,0 +1,11 @@
+partition,approach,high_vax_rows,high_vax_events,high_vax_detected,high_vax_missed,recall_in_high_vax
+test,coverage_shortfall_rank,85,17,0,17,0.0
+test,vaccination_only,85,17,0,17,0.0
+test,combined,85,17,0,17,0.0
+test,rf_regularized,85,17,6,11,0.35294117647058826
+test,xgb_regularized,85,17,6,11,0.35294117647058826
+unseen_country_test,coverage_shortfall_rank,16,3,0,3,0.0
+unseen_country_test,vaccination_only,16,3,0,3,0.0
+unseen_country_test,combined,16,3,0,3,0.0
+unseen_country_test,rf_regularized,16,3,0,3,0.0
+unseen_country_test,xgb_regularized,16,3,0,3,0.0
