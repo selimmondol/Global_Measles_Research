@@ -1,0 +1,3 @@
+cohort,n,events,years,all_models_identical_country_year_labels
+matched_complete_vaccination,346,67,2019;2020;2021,True
+all_eligible_imputed_vaccination,396,87,2019;2020;2021,True

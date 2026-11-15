@@ -1,0 +1,17 @@
+STEP 17: POST-TEST EXPLORATORY OUTCOME ROBUSTNESS ONLY
+Frozen model predictions and frozen selection rule used; no models re-trained or tuned.
+This analysis occurs AFTER the primary held-out tests were opened at Step 15.
+Alternative labels must not be used to replace the primary endpoint or choose a new winner.
+Each alternative endpoint is compared on its outcome-evaluable rows; denominator
+and annual selection capacity may change when rows are excluded.
+For strict onset, only rows with an eligible observed consecutive preceding year
+are retained. Previous positive => continuation and target 0; previous negative
+and present C-positive => target 1. Missing prior labels are excluded, not negative.
+Zero-median exclusion removes those rows from numerator AND denominator.
+A/B, and threshold-2/10 definitions are researcher-defined annual incidence surges,
+NOT WHO-confirmed outbreaks. Equal annual selection capacity is within each endpoint's
+retained retrospective evaluation cohort. This is not a prospective deployment simulation.
+Vaccination national WUENIC is retrospectively revised; reporting is heterogeneous.
+Classification Brier score for alternate labels is descriptive, NOT recalibration.
+Country and annual shocks can produce dependence; no new independent validation implied.
+Do not alter 2022-2025 test predictions, frozen_protocol.json, or original data.

@@ -1,0 +1,7 @@
+split_1,split_2,country_overlap_count,design_expectation
+train,validation,145,Allowed (temporal split)
+train,test,140,Allowed (temporal split)
+train,unseen_country_test,0,ZERO (unseen country)
+validation,test,134,Allowed (temporal split)
+validation,unseen_country_test,0,ZERO (unseen country)
+test,unseen_country_test,0,ZERO (unseen country)

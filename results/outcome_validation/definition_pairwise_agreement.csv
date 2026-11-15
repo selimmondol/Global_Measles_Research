@@ -1,0 +1,7 @@
+Definition_1,Definition_2,N_eligible,Both_event,Only_definition_1,Only_definition_2,Neither_event,Disagreements,Jaccard_event_agreement
+surge_A_2x_1pm,surge_B_3x_1pm,3764,792,149,0,2823,149,0.84166
+surge_A_2x_1pm,surge_C_2x_5pm,3764,764,177,0,2823,177,0.8119
+surge_A_2x_1pm,surge_D_2x_5pm_2increase,3764,764,177,0,2823,177,0.8119
+surge_B_3x_1pm,surge_C_2x_5pm,3764,644,148,120,2852,268,0.70614
+surge_B_3x_1pm,surge_D_2x_5pm_2increase,3764,644,148,120,2852,268,0.70614
+surge_C_2x_5pm,surge_D_2x_5pm_2increase,3764,764,0,0,3000,0,1.0

@@ -1,0 +1,1512 @@
+Country,Definition,Start_year,End_year,Duration_years
+Afghanistan,surge_A_2x_1pm,2006,2006,1
+Afghanistan,surge_A_2x_1pm,2015,2015,1
+Afghanistan,surge_A_2x_1pm,2017,2017,1
+Afghanistan,surge_A_2x_1pm,2021,2022,2
+Afghanistan,surge_A_2x_1pm,2024,2025,2
+Afghanistan,surge_B_3x_1pm,2021,2022,2
+Afghanistan,surge_B_3x_1pm,2024,2025,2
+Afghanistan,surge_C_2x_5pm,2006,2006,1
+Afghanistan,surge_C_2x_5pm,2015,2015,1
+Afghanistan,surge_C_2x_5pm,2017,2017,1
+Afghanistan,surge_C_2x_5pm,2021,2022,2
+Afghanistan,surge_C_2x_5pm,2024,2025,2
+Albania,surge_A_2x_1pm,2006,2007,2
+Albania,surge_A_2x_1pm,2019,2019,1
+Albania,surge_B_3x_1pm,2006,2007,2
+Albania,surge_B_3x_1pm,2019,2019,1
+Albania,surge_C_2x_5pm,2006,2007,2
+Albania,surge_C_2x_5pm,2019,2019,1
+Algeria,surge_A_2x_1pm,2015,2015,1
+Algeria,surge_A_2x_1pm,2017,2019,3
+Algeria,surge_A_2x_1pm,2025,2025,1
+Algeria,surge_B_3x_1pm,2015,2015,1
+Algeria,surge_B_3x_1pm,2018,2019,2
+Algeria,surge_B_3x_1pm,2025,2025,1
+Algeria,surge_C_2x_5pm,2018,2019,2
+Algeria,surge_C_2x_5pm,2025,2025,1
+Angola,surge_A_2x_1pm,2006,2007,2
+Angola,surge_A_2x_1pm,2009,2009,1
+Angola,surge_A_2x_1pm,2012,2014,3
+Angola,surge_A_2x_1pm,2019,2020,2
+Angola,surge_A_2x_1pm,2022,2023,2
+Angola,surge_B_3x_1pm,2007,2007,1
+Angola,surge_B_3x_1pm,2009,2009,1
+Angola,surge_B_3x_1pm,2013,2013,1
+Angola,surge_B_3x_1pm,2019,2020,2
+Angola,surge_C_2x_5pm,2006,2007,2
+Angola,surge_C_2x_5pm,2009,2009,1
+Angola,surge_C_2x_5pm,2012,2014,3
+Angola,surge_C_2x_5pm,2019,2020,2
+Angola,surge_C_2x_5pm,2022,2023,2
+Antigua and Barbuda,surge_A_2x_1pm,2018,2018,1
+Antigua and Barbuda,surge_B_3x_1pm,2018,2018,1
+Antigua and Barbuda,surge_C_2x_5pm,2018,2018,1
+Argentina,surge_A_2x_1pm,2019,2020,2
+Argentina,surge_B_3x_1pm,2019,2020,2
+Armenia,surge_A_2x_1pm,2004,2005,2
+Armenia,surge_A_2x_1pm,2013,2015,3
+Armenia,surge_A_2x_1pm,2018,2019,2
+Armenia,surge_A_2x_1pm,2023,2024,2
+Armenia,surge_B_3x_1pm,2004,2005,2
+Armenia,surge_B_3x_1pm,2013,2015,3
+Armenia,surge_B_3x_1pm,2018,2019,2
+Armenia,surge_B_3x_1pm,2023,2024,2
+Armenia,surge_C_2x_5pm,2004,2005,2
+Armenia,surge_C_2x_5pm,2015,2015,1
+Armenia,surge_C_2x_5pm,2018,2018,1
+Armenia,surge_C_2x_5pm,2023,2024,2
+Australia,surge_A_2x_1pm,2011,2011,1
+Australia,surge_A_2x_1pm,2019,2019,1
+Australia,surge_A_2x_1pm,2024,2025,2
+Australia,surge_B_3x_1pm,2024,2025,2
+Australia,surge_C_2x_5pm,2011,2011,1
+Australia,surge_C_2x_5pm,2019,2019,1
+Australia,surge_C_2x_5pm,2025,2025,1
+Austria,surge_A_2x_1pm,2008,2009,2
+Austria,surge_A_2x_1pm,2023,2024,2
+Austria,surge_B_3x_1pm,2008,2008,1
+Austria,surge_B_3x_1pm,2023,2024,2
+Austria,surge_C_2x_5pm,2008,2009,2
+Austria,surge_C_2x_5pm,2023,2024,2
+Azerbaijan,surge_A_2x_1pm,2003,2003,1
+Azerbaijan,surge_A_2x_1pm,2013,2013,1
+Azerbaijan,surge_A_2x_1pm,2018,2019,2
+Azerbaijan,surge_A_2x_1pm,2023,2024,2
+Azerbaijan,surge_B_3x_1pm,2003,2003,1
+Azerbaijan,surge_B_3x_1pm,2013,2013,1
+Azerbaijan,surge_B_3x_1pm,2018,2019,2
+Azerbaijan,surge_B_3x_1pm,2023,2024,2
+Azerbaijan,surge_C_2x_5pm,2003,2003,1
+Azerbaijan,surge_C_2x_5pm,2013,2013,1
+Azerbaijan,surge_C_2x_5pm,2018,2019,2
+Azerbaijan,surge_C_2x_5pm,2023,2024,2
+Bahamas,surge_A_2x_1pm,2019,2019,1
+Bahamas,surge_B_3x_1pm,2019,2019,1
+Bahamas,surge_C_2x_5pm,2019,2019,1
+Bahrain,surge_A_2x_1pm,2019,2019,1
+Bahrain,surge_A_2x_1pm,2022,2023,2
+Bahrain,surge_A_2x_1pm,2025,2025,1
+Bahrain,surge_B_3x_1pm,2019,2019,1
+Bahrain,surge_B_3x_1pm,2022,2023,2
+Bahrain,surge_C_2x_5pm,2022,2022,1
+Bangladesh,surge_A_2x_1pm,2004,2005,2
+Bangladesh,surge_A_2x_1pm,2011,2012,2
+Bangladesh,surge_A_2x_1pm,2016,2019,4
+Bangladesh,surge_B_3x_1pm,2005,2005,1
+Bangladesh,surge_B_3x_1pm,2011,2011,1
+Bangladesh,surge_B_3x_1pm,2016,2017,2
+Bangladesh,surge_C_2x_5pm,2004,2005,2
+Bangladesh,surge_C_2x_5pm,2011,2012,2
+Bangladesh,surge_C_2x_5pm,2016,2019,4
+Belarus,surge_A_2x_1pm,2006,2006,1
+Belarus,surge_A_2x_1pm,2011,2012,2
+Belarus,surge_A_2x_1pm,2014,2014,1
+Belarus,surge_A_2x_1pm,2018,2019,2
+Belarus,surge_A_2x_1pm,2023,2024,2
+Belarus,surge_B_3x_1pm,2006,2006,1
+Belarus,surge_B_3x_1pm,2011,2012,2
+Belarus,surge_B_3x_1pm,2014,2014,1
+Belarus,surge_B_3x_1pm,2018,2019,2
+Belarus,surge_B_3x_1pm,2023,2024,2
+Belarus,surge_C_2x_5pm,2006,2006,1
+Belarus,surge_C_2x_5pm,2011,2011,1
+Belarus,surge_C_2x_5pm,2014,2014,1
+Belarus,surge_C_2x_5pm,2018,2019,2
+Belarus,surge_C_2x_5pm,2023,2024,2
+Belgium,surge_A_2x_1pm,2007,2008,2
+Belgium,surge_A_2x_1pm,2011,2012,2
+Belgium,surge_A_2x_1pm,2023,2025,3
+Belgium,surge_B_3x_1pm,2008,2008,1
+Belgium,surge_B_3x_1pm,2011,2011,1
+Belgium,surge_B_3x_1pm,2023,2025,3
+Belgium,surge_C_2x_5pm,2007,2008,2
+Belgium,surge_C_2x_5pm,2011,2012,2
+Belgium,surge_C_2x_5pm,2023,2025,3
+Belize,surge_A_2x_1pm,2025,2025,1
+Belize,surge_B_3x_1pm,2025,2025,1
+Belize,surge_C_2x_5pm,2025,2025,1
+Benin,surge_A_2x_1pm,2008,2009,2
+Benin,surge_A_2x_1pm,2018,2019,2
+Benin,surge_A_2x_1pm,2022,2023,2
+Benin,surge_B_3x_1pm,2008,2009,2
+Benin,surge_B_3x_1pm,2018,2019,2
+Benin,surge_B_3x_1pm,2022,2023,2
+Benin,surge_C_2x_5pm,2008,2009,2
+Benin,surge_C_2x_5pm,2018,2019,2
+Benin,surge_C_2x_5pm,2022,2023,2
+Bermuda,surge_A_2x_1pm,2024,2024,1
+Bermuda,surge_B_3x_1pm,2024,2024,1
+Bermuda,surge_C_2x_5pm,2024,2024,1
+Bhutan,surge_A_2x_1pm,2005,2005,1
+Bhutan,surge_A_2x_1pm,2007,2007,1
+Bhutan,surge_A_2x_1pm,2010,2010,1
+Bhutan,surge_A_2x_1pm,2015,2017,3
+Bhutan,surge_B_3x_1pm,2005,2005,1
+Bhutan,surge_B_3x_1pm,2007,2007,1
+Bhutan,surge_B_3x_1pm,2015,2017,3
+Bhutan,surge_C_2x_5pm,2005,2005,1
+Bhutan,surge_C_2x_5pm,2007,2007,1
+Bhutan,surge_C_2x_5pm,2010,2010,1
+Bhutan,surge_C_2x_5pm,2015,2017,3
+Bolivia (Plurinational State of),surge_A_2x_1pm,2025,2025,1
+Bolivia (Plurinational State of),surge_B_3x_1pm,2025,2025,1
+Bolivia (Plurinational State of),surge_C_2x_5pm,2025,2025,1
+Bosnia and Herzegovina,surge_A_2x_1pm,2007,2007,1
+Bosnia and Herzegovina,surge_A_2x_1pm,2010,2010,1
+Bosnia and Herzegovina,surge_A_2x_1pm,2019,2019,1
+Bosnia and Herzegovina,surge_A_2x_1pm,2025,2025,1
+Bosnia and Herzegovina,surge_B_3x_1pm,2007,2007,1
+Bosnia and Herzegovina,surge_B_3x_1pm,2019,2019,1
+Bosnia and Herzegovina,surge_B_3x_1pm,2025,2025,1
+Bosnia and Herzegovina,surge_C_2x_5pm,2007,2007,1
+Bosnia and Herzegovina,surge_C_2x_5pm,2010,2010,1
+Bosnia and Herzegovina,surge_C_2x_5pm,2019,2019,1
+Bosnia and Herzegovina,surge_C_2x_5pm,2025,2025,1
+Botswana,surge_A_2x_1pm,2003,2003,1
+Botswana,surge_A_2x_1pm,2009,2010,2
+Botswana,surge_A_2x_1pm,2020,2020,1
+Botswana,surge_A_2x_1pm,2023,2024,2
+Botswana,surge_B_3x_1pm,2003,2003,1
+Botswana,surge_B_3x_1pm,2009,2010,2
+Botswana,surge_B_3x_1pm,2020,2020,1
+Botswana,surge_B_3x_1pm,2023,2023,1
+Botswana,surge_C_2x_5pm,2003,2003,1
+Botswana,surge_C_2x_5pm,2009,2010,2
+Botswana,surge_C_2x_5pm,2023,2023,1
+Brazil,surge_A_2x_1pm,2013,2014,2
+Brazil,surge_B_3x_1pm,2013,2014,2
+Brunei Darussalam,surge_A_2x_1pm,2023,2023,1
+Brunei Darussalam,surge_B_3x_1pm,2023,2023,1
+Bulgaria,surge_A_2x_1pm,2009,2010,2
+Bulgaria,surge_A_2x_1pm,2017,2019,3
+Bulgaria,surge_A_2x_1pm,2024,2024,1
+Bulgaria,surge_B_3x_1pm,2009,2010,2
+Bulgaria,surge_B_3x_1pm,2017,2019,3
+Bulgaria,surge_B_3x_1pm,2024,2024,1
+Bulgaria,surge_C_2x_5pm,2009,2010,2
+Bulgaria,surge_C_2x_5pm,2017,2017,1
+Bulgaria,surge_C_2x_5pm,2019,2019,1
+Burkina Faso,surge_A_2x_1pm,2008,2010,3
+Burkina Faso,surge_A_2x_1pm,2012,2012,1
+Burkina Faso,surge_A_2x_1pm,2018,2020,3
+Burkina Faso,surge_A_2x_1pm,2025,2025,1
+Burkina Faso,surge_B_3x_1pm,2009,2010,2
+Burkina Faso,surge_B_3x_1pm,2018,2018,1
+Burkina Faso,surge_B_3x_1pm,2020,2020,1
+Burkina Faso,surge_B_3x_1pm,2025,2025,1
+Burkina Faso,surge_C_2x_5pm,2008,2010,3
+Burkina Faso,surge_C_2x_5pm,2012,2012,1
+Burkina Faso,surge_C_2x_5pm,2018,2020,3
+Burkina Faso,surge_C_2x_5pm,2025,2025,1
+Burundi,surge_A_2x_1pm,2006,2008,3
+Burundi,surge_A_2x_1pm,2010,2010,1
+Burundi,surge_A_2x_1pm,2016,2016,1
+Burundi,surge_A_2x_1pm,2019,2021,3
+Burundi,surge_A_2x_1pm,2023,2024,2
+Burundi,surge_B_3x_1pm,2006,2008,3
+Burundi,surge_B_3x_1pm,2016,2016,1
+Burundi,surge_B_3x_1pm,2019,2021,3
+Burundi,surge_B_3x_1pm,2023,2024,2
+Burundi,surge_C_2x_5pm,2006,2008,3
+Burundi,surge_C_2x_5pm,2010,2010,1
+Burundi,surge_C_2x_5pm,2019,2021,3
+Burundi,surge_C_2x_5pm,2023,2024,2
+Cambodia,surge_A_2x_1pm,2008,2009,2
+Cambodia,surge_A_2x_1pm,2016,2016,1
+Cambodia,surge_A_2x_1pm,2019,2020,2
+Cambodia,surge_A_2x_1pm,2024,2025,2
+Cambodia,surge_B_3x_1pm,2008,2009,2
+Cambodia,surge_B_3x_1pm,2016,2016,1
+Cambodia,surge_B_3x_1pm,2019,2020,2
+Cambodia,surge_B_3x_1pm,2024,2025,2
+Cambodia,surge_C_2x_5pm,2008,2009,2
+Cambodia,surge_C_2x_5pm,2019,2020,2
+Cambodia,surge_C_2x_5pm,2024,2025,2
+Cameroon,surge_A_2x_1pm,2008,2008,1
+Cameroon,surge_A_2x_1pm,2012,2012,1
+Cameroon,surge_A_2x_1pm,2015,2015,1
+Cameroon,surge_A_2x_1pm,2019,2019,1
+Cameroon,surge_A_2x_1pm,2022,2023,2
+Cameroon,surge_B_3x_1pm,2019,2019,1
+Cameroon,surge_B_3x_1pm,2023,2023,1
+Cameroon,surge_C_2x_5pm,2008,2008,1
+Cameroon,surge_C_2x_5pm,2012,2012,1
+Cameroon,surge_C_2x_5pm,2015,2015,1
+Cameroon,surge_C_2x_5pm,2019,2019,1
+Cameroon,surge_C_2x_5pm,2022,2023,2
+Canada,surge_A_2x_1pm,2007,2008,2
+Canada,surge_A_2x_1pm,2011,2011,1
+Canada,surge_A_2x_1pm,2014,2015,2
+Canada,surge_A_2x_1pm,2019,2019,1
+Canada,surge_A_2x_1pm,2024,2025,2
+Canada,surge_B_3x_1pm,2007,2008,2
+Canada,surge_B_3x_1pm,2011,2011,1
+Canada,surge_B_3x_1pm,2014,2014,1
+Canada,surge_B_3x_1pm,2019,2019,1
+Canada,surge_B_3x_1pm,2024,2025,2
+Canada,surge_C_2x_5pm,2011,2011,1
+Canada,surge_C_2x_5pm,2014,2015,2
+Canada,surge_C_2x_5pm,2025,2025,1
+Central African Republic,surge_A_2x_1pm,2011,2013,3
+Central African Republic,surge_A_2x_1pm,2017,2017,1
+Central African Republic,surge_A_2x_1pm,2019,2020,2
+Central African Republic,surge_A_2x_1pm,2023,2023,1
+Central African Republic,surge_A_2x_1pm,2025,2025,1
+Central African Republic,surge_B_3x_1pm,2011,2013,3
+Central African Republic,surge_B_3x_1pm,2017,2017,1
+Central African Republic,surge_B_3x_1pm,2019,2020,2
+Central African Republic,surge_B_3x_1pm,2023,2023,1
+Central African Republic,surge_B_3x_1pm,2025,2025,1
+Central African Republic,surge_C_2x_5pm,2011,2013,3
+Central African Republic,surge_C_2x_5pm,2017,2017,1
+Central African Republic,surge_C_2x_5pm,2019,2020,2
+Central African Republic,surge_C_2x_5pm,2023,2023,1
+Central African Republic,surge_C_2x_5pm,2025,2025,1
+Chad,surge_A_2x_1pm,2003,2003,1
+Chad,surge_A_2x_1pm,2011,2011,1
+Chad,surge_A_2x_1pm,2014,2014,1
+Chad,surge_A_2x_1pm,2018,2019,2
+Chad,surge_A_2x_1pm,2023,2024,2
+Chad,surge_B_3x_1pm,2011,2011,1
+Chad,surge_B_3x_1pm,2014,2014,1
+Chad,surge_B_3x_1pm,2018,2019,2
+Chad,surge_B_3x_1pm,2023,2023,1
+Chad,surge_C_2x_5pm,2003,2003,1
+Chad,surge_C_2x_5pm,2011,2011,1
+Chad,surge_C_2x_5pm,2014,2014,1
+Chad,surge_C_2x_5pm,2018,2019,2
+Chad,surge_C_2x_5pm,2023,2024,2
+Chile,surge_A_2x_1pm,2018,2018,1
+Chile,surge_B_3x_1pm,2018,2018,1
+China,surge_A_2x_1pm,2013,2014,2
+China,surge_A_2x_1pm,2025,2025,1
+China,surge_B_3x_1pm,2014,2014,1
+China,surge_C_2x_5pm,2013,2014,2
+"China, Hong Kong SAR",surge_A_2x_1pm,2014,2015,2
+"China, Hong Kong SAR",surge_A_2x_1pm,2019,2019,1
+"China, Hong Kong SAR",surge_A_2x_1pm,2024,2025,2
+"China, Hong Kong SAR",surge_B_3x_1pm,2014,2014,1
+"China, Hong Kong SAR",surge_B_3x_1pm,2019,2019,1
+"China, Hong Kong SAR",surge_C_2x_5pm,2014,2014,1
+"China, Hong Kong SAR",surge_C_2x_5pm,2019,2019,1
+"China, Macao SAR",surge_A_2x_1pm,2018,2019,2
+"China, Macao SAR",surge_B_3x_1pm,2018,2019,2
+"China, Macao SAR",surge_C_2x_5pm,2019,2019,1
+Colombia,surge_A_2x_1pm,2018,2019,2
+Colombia,surge_B_3x_1pm,2018,2019,2
+Comoros,surge_A_2x_1pm,2005,2006,2
+Comoros,surge_A_2x_1pm,2009,2009,1
+Comoros,surge_A_2x_1pm,2011,2011,1
+Comoros,surge_A_2x_1pm,2019,2019,1
+Comoros,surge_A_2x_1pm,2022,2024,3
+Comoros,surge_B_3x_1pm,2005,2006,2
+Comoros,surge_B_3x_1pm,2009,2009,1
+Comoros,surge_B_3x_1pm,2011,2011,1
+Comoros,surge_B_3x_1pm,2019,2019,1
+Comoros,surge_B_3x_1pm,2022,2024,3
+Comoros,surge_C_2x_5pm,2005,2006,2
+Comoros,surge_C_2x_5pm,2019,2019,1
+Comoros,surge_C_2x_5pm,2023,2024,2
+Congo,surge_A_2x_1pm,2011,2012,2
+Congo,surge_A_2x_1pm,2015,2017,3
+Congo,surge_A_2x_1pm,2021,2023,3
+Congo,surge_B_3x_1pm,2011,2012,2
+Congo,surge_B_3x_1pm,2015,2015,1
+Congo,surge_B_3x_1pm,2017,2017,1
+Congo,surge_B_3x_1pm,2021,2022,2
+Congo,surge_C_2x_5pm,2011,2012,2
+Congo,surge_C_2x_5pm,2015,2017,3
+Congo,surge_C_2x_5pm,2021,2023,3
+Costa Rica,surge_A_2x_1pm,2019,2019,1
+Costa Rica,surge_B_3x_1pm,2019,2019,1
+Croatia,surge_A_2x_1pm,2003,2004,2
+Croatia,surge_A_2x_1pm,2008,2008,1
+Croatia,surge_A_2x_1pm,2010,2010,1
+Croatia,surge_A_2x_1pm,2018,2019,2
+Croatia,surge_A_2x_1pm,2024,2025,2
+Croatia,surge_B_3x_1pm,2004,2004,1
+Croatia,surge_B_3x_1pm,2008,2008,1
+Croatia,surge_B_3x_1pm,2010,2010,1
+Croatia,surge_B_3x_1pm,2018,2019,2
+Croatia,surge_B_3x_1pm,2024,2024,1
+Croatia,surge_C_2x_5pm,2004,2004,1
+Croatia,surge_C_2x_5pm,2008,2008,1
+Croatia,surge_C_2x_5pm,2018,2019,2
+Croatia,surge_C_2x_5pm,2024,2024,1
+Cyprus,surge_A_2x_1pm,2010,2010,1
+Cyprus,surge_A_2x_1pm,2014,2014,1
+Cyprus,surge_A_2x_1pm,2017,2018,2
+Cyprus,surge_A_2x_1pm,2024,2025,2
+Cyprus,surge_B_3x_1pm,2010,2010,1
+Cyprus,surge_B_3x_1pm,2014,2014,1
+Cyprus,surge_B_3x_1pm,2017,2018,2
+Cyprus,surge_B_3x_1pm,2024,2025,2
+Cyprus,surge_C_2x_5pm,2010,2010,1
+Cyprus,surge_C_2x_5pm,2014,2014,1
+Cyprus,surge_C_2x_5pm,2018,2018,1
+Cyprus,surge_C_2x_5pm,2024,2025,2
+Czechia,surge_A_2x_1pm,2003,2004,2
+Czechia,surge_A_2x_1pm,2011,2012,2
+Czechia,surge_A_2x_1pm,2014,2014,1
+Czechia,surge_A_2x_1pm,2017,2019,3
+Czechia,surge_A_2x_1pm,2024,2025,2
+Czechia,surge_B_3x_1pm,2003,2003,1
+Czechia,surge_B_3x_1pm,2011,2012,2
+Czechia,surge_B_3x_1pm,2014,2014,1
+Czechia,surge_B_3x_1pm,2017,2019,3
+Czechia,surge_B_3x_1pm,2024,2025,2
+Czechia,surge_C_2x_5pm,2014,2014,1
+Czechia,surge_C_2x_5pm,2017,2019,3
+Côte d'Ivoire,surge_A_2x_1pm,2009,2011,3
+Côte d'Ivoire,surge_A_2x_1pm,2017,2019,3
+Côte d'Ivoire,surge_A_2x_1pm,2021,2022,2
+Côte d'Ivoire,surge_B_3x_1pm,2009,2011,3
+Côte d'Ivoire,surge_B_3x_1pm,2018,2018,1
+Côte d'Ivoire,surge_B_3x_1pm,2021,2021,1
+Côte d'Ivoire,surge_C_2x_5pm,2009,2011,3
+Côte d'Ivoire,surge_C_2x_5pm,2017,2019,3
+Côte d'Ivoire,surge_C_2x_5pm,2021,2022,2
+Democratic People's Republic of Korea,surge_A_2x_1pm,2007,2007,1
+Democratic People's Republic of Korea,surge_B_3x_1pm,2007,2007,1
+Democratic People's Republic of Korea,surge_C_2x_5pm,2007,2007,1
+Democratic Republic of the Congo,surge_A_2x_1pm,2003,2003,1
+Democratic Republic of the Congo,surge_A_2x_1pm,2005,2005,1
+Democratic Republic of the Congo,surge_A_2x_1pm,2011,2012,2
+Democratic Republic of the Congo,surge_A_2x_1pm,2017,2019,3
+Democratic Republic of the Congo,surge_A_2x_1pm,2023,2023,1
+Democratic Republic of the Congo,surge_B_3x_1pm,2005,2005,1
+Democratic Republic of the Congo,surge_B_3x_1pm,2011,2012,2
+Democratic Republic of the Congo,surge_B_3x_1pm,2017,2019,3
+Democratic Republic of the Congo,surge_B_3x_1pm,2023,2023,1
+Democratic Republic of the Congo,surge_C_2x_5pm,2003,2003,1
+Democratic Republic of the Congo,surge_C_2x_5pm,2005,2005,1
+Democratic Republic of the Congo,surge_C_2x_5pm,2011,2012,2
+Democratic Republic of the Congo,surge_C_2x_5pm,2017,2019,3
+Democratic Republic of the Congo,surge_C_2x_5pm,2023,2023,1
+Denmark,surge_A_2x_1pm,2006,2006,1
+Denmark,surge_A_2x_1pm,2008,2008,1
+Denmark,surge_A_2x_1pm,2011,2011,1
+Denmark,surge_A_2x_1pm,2013,2013,1
+Denmark,surge_A_2x_1pm,2019,2019,1
+Denmark,surge_A_2x_1pm,2023,2024,2
+Denmark,surge_B_3x_1pm,2006,2006,1
+Denmark,surge_B_3x_1pm,2008,2008,1
+Denmark,surge_B_3x_1pm,2011,2011,1
+Denmark,surge_B_3x_1pm,2013,2013,1
+Denmark,surge_B_3x_1pm,2019,2019,1
+Denmark,surge_B_3x_1pm,2023,2024,2
+Denmark,surge_C_2x_5pm,2011,2011,1
+Djibouti,surge_A_2x_1pm,2005,2005,1
+Djibouti,surge_A_2x_1pm,2008,2008,1
+Djibouti,surge_A_2x_1pm,2012,2012,1
+Djibouti,surge_A_2x_1pm,2018,2018,1
+Djibouti,surge_B_3x_1pm,2005,2005,1
+Djibouti,surge_B_3x_1pm,2012,2012,1
+Djibouti,surge_B_3x_1pm,2018,2018,1
+Djibouti,surge_C_2x_5pm,2005,2005,1
+Djibouti,surge_C_2x_5pm,2008,2008,1
+Djibouti,surge_C_2x_5pm,2012,2012,1
+Djibouti,surge_C_2x_5pm,2018,2018,1
+Ecuador,surge_A_2x_1pm,2011,2012,2
+Ecuador,surge_A_2x_1pm,2018,2018,1
+Ecuador,surge_B_3x_1pm,2011,2012,2
+Ecuador,surge_B_3x_1pm,2018,2018,1
+Ecuador,surge_C_2x_5pm,2011,2011,1
+Egypt,surge_A_2x_1pm,2006,2007,2
+Egypt,surge_A_2x_1pm,2012,2015,4
+Egypt,surge_A_2x_1pm,2023,2023,1
+Egypt,surge_B_3x_1pm,2006,2007,2
+Egypt,surge_B_3x_1pm,2012,2015,4
+Egypt,surge_B_3x_1pm,2023,2023,1
+Egypt,surge_C_2x_5pm,2006,2007,2
+Egypt,surge_C_2x_5pm,2014,2015,2
+Equatorial Guinea,surge_A_2x_1pm,2009,2009,1
+Equatorial Guinea,surge_A_2x_1pm,2012,2013,2
+Equatorial Guinea,surge_A_2x_1pm,2015,2016,2
+Equatorial Guinea,surge_A_2x_1pm,2020,2021,2
+Equatorial Guinea,surge_A_2x_1pm,2023,2024,2
+Equatorial Guinea,surge_B_3x_1pm,2009,2009,1
+Equatorial Guinea,surge_B_3x_1pm,2012,2013,2
+Equatorial Guinea,surge_B_3x_1pm,2015,2016,2
+Equatorial Guinea,surge_B_3x_1pm,2020,2021,2
+Equatorial Guinea,surge_B_3x_1pm,2023,2024,2
+Equatorial Guinea,surge_C_2x_5pm,2009,2009,1
+Equatorial Guinea,surge_C_2x_5pm,2012,2013,2
+Equatorial Guinea,surge_C_2x_5pm,2015,2016,2
+Equatorial Guinea,surge_C_2x_5pm,2020,2021,2
+Equatorial Guinea,surge_C_2x_5pm,2023,2024,2
+Eritrea,surge_A_2x_1pm,2006,2007,2
+Eritrea,surge_A_2x_1pm,2012,2012,1
+Eritrea,surge_A_2x_1pm,2014,2014,1
+Eritrea,surge_A_2x_1pm,2017,2017,1
+Eritrea,surge_A_2x_1pm,2021,2023,3
+Eritrea,surge_B_3x_1pm,2006,2006,1
+Eritrea,surge_B_3x_1pm,2012,2012,1
+Eritrea,surge_B_3x_1pm,2017,2017,1
+Eritrea,surge_C_2x_5pm,2006,2007,2
+Eritrea,surge_C_2x_5pm,2012,2012,1
+Eritrea,surge_C_2x_5pm,2014,2014,1
+Eritrea,surge_C_2x_5pm,2017,2017,1
+Eritrea,surge_C_2x_5pm,2021,2023,3
+Estonia,surge_A_2x_1pm,2005,2006,2
+Estonia,surge_A_2x_1pm,2011,2012,2
+Estonia,surge_A_2x_1pm,2015,2015,1
+Estonia,surge_A_2x_1pm,2018,2019,2
+Estonia,surge_A_2x_1pm,2023,2025,3
+Estonia,surge_B_3x_1pm,2005,2006,2
+Estonia,surge_B_3x_1pm,2011,2012,2
+Estonia,surge_B_3x_1pm,2018,2019,2
+Estonia,surge_B_3x_1pm,2023,2024,2
+Estonia,surge_C_2x_5pm,2006,2006,1
+Estonia,surge_C_2x_5pm,2011,2011,1
+Estonia,surge_C_2x_5pm,2018,2019,2
+Estonia,surge_C_2x_5pm,2025,2025,1
+Eswatini,surge_A_2x_1pm,2003,2003,1
+Eswatini,surge_A_2x_1pm,2009,2010,2
+Eswatini,surge_A_2x_1pm,2022,2023,2
+Eswatini,surge_B_3x_1pm,2003,2003,1
+Eswatini,surge_B_3x_1pm,2009,2010,2
+Eswatini,surge_B_3x_1pm,2022,2023,2
+Eswatini,surge_C_2x_5pm,2003,2003,1
+Eswatini,surge_C_2x_5pm,2009,2010,2
+Eswatini,surge_C_2x_5pm,2022,2022,1
+Ethiopia,surge_A_2x_1pm,2006,2008,3
+Ethiopia,surge_A_2x_1pm,2010,2010,1
+Ethiopia,surge_A_2x_1pm,2014,2015,2
+Ethiopia,surge_A_2x_1pm,2022,2024,3
+Ethiopia,surge_B_3x_1pm,2006,2007,2
+Ethiopia,surge_B_3x_1pm,2015,2015,1
+Ethiopia,surge_B_3x_1pm,2022,2024,3
+Ethiopia,surge_C_2x_5pm,2006,2008,3
+Ethiopia,surge_C_2x_5pm,2010,2010,1
+Ethiopia,surge_C_2x_5pm,2014,2015,2
+Ethiopia,surge_C_2x_5pm,2022,2024,3
+Fiji,surge_A_2x_1pm,2009,2009,1
+Fiji,surge_B_3x_1pm,2009,2009,1
+Finland,surge_A_2x_1pm,2011,2011,1
+Finland,surge_A_2x_1pm,2018,2018,1
+Finland,surge_B_3x_1pm,2011,2011,1
+Finland,surge_B_3x_1pm,2018,2018,1
+Finland,surge_C_2x_5pm,2011,2011,1
+France,surge_A_2x_1pm,2008,2011,4
+France,surge_A_2x_1pm,2017,2019,3
+France,surge_A_2x_1pm,2023,2025,3
+France,surge_B_3x_1pm,2008,2011,4
+France,surge_B_3x_1pm,2017,2019,3
+France,surge_B_3x_1pm,2023,2025,3
+France,surge_C_2x_5pm,2008,2011,4
+France,surge_C_2x_5pm,2017,2019,3
+France,surge_C_2x_5pm,2024,2025,2
+Gabon,surge_A_2x_1pm,2008,2008,1
+Gabon,surge_A_2x_1pm,2013,2014,2
+Gabon,surge_A_2x_1pm,2016,2017,2
+Gabon,surge_A_2x_1pm,2020,2023,4
+Gabon,surge_B_3x_1pm,2008,2008,1
+Gabon,surge_B_3x_1pm,2013,2014,2
+Gabon,surge_B_3x_1pm,2016,2017,2
+Gabon,surge_B_3x_1pm,2020,2023,4
+Gabon,surge_C_2x_5pm,2013,2014,2
+Gabon,surge_C_2x_5pm,2016,2017,2
+Gabon,surge_C_2x_5pm,2021,2023,3
+Gambia,surge_A_2x_1pm,2010,2010,1
+Gambia,surge_A_2x_1pm,2015,2016,2
+Gambia,surge_B_3x_1pm,2010,2010,1
+Gambia,surge_B_3x_1pm,2015,2016,2
+Gambia,surge_C_2x_5pm,2015,2016,2
+Georgia,surge_A_2x_1pm,2003,2005,3
+Georgia,surge_A_2x_1pm,2011,2011,1
+Georgia,surge_A_2x_1pm,2013,2014,2
+Georgia,surge_A_2x_1pm,2018,2019,2
+Georgia,surge_A_2x_1pm,2023,2025,3
+Georgia,surge_B_3x_1pm,2003,2005,3
+Georgia,surge_B_3x_1pm,2013,2014,2
+Georgia,surge_B_3x_1pm,2018,2019,2
+Georgia,surge_B_3x_1pm,2023,2025,3
+Georgia,surge_C_2x_5pm,2003,2005,3
+Georgia,surge_C_2x_5pm,2011,2011,1
+Georgia,surge_C_2x_5pm,2013,2014,2
+Georgia,surge_C_2x_5pm,2018,2019,2
+Georgia,surge_C_2x_5pm,2023,2025,3
+Germany,surge_A_2x_1pm,2006,2006,1
+Germany,surge_A_2x_1pm,2011,2011,1
+Germany,surge_A_2x_1pm,2013,2013,1
+Germany,surge_A_2x_1pm,2015,2015,1
+Germany,surge_A_2x_1pm,2017,2017,1
+Germany,surge_A_2x_1pm,2024,2025,2
+Germany,surge_B_3x_1pm,2015,2015,1
+Germany,surge_B_3x_1pm,2024,2024,1
+Germany,surge_C_2x_5pm,2006,2006,1
+Germany,surge_C_2x_5pm,2011,2011,1
+Germany,surge_C_2x_5pm,2013,2013,1
+Germany,surge_C_2x_5pm,2015,2015,1
+Germany,surge_C_2x_5pm,2017,2017,1
+Germany,surge_C_2x_5pm,2024,2024,1
+Ghana,surge_A_2x_1pm,2010,2010,1
+Ghana,surge_A_2x_1pm,2012,2012,1
+Ghana,surge_A_2x_1pm,2019,2020,2
+Ghana,surge_A_2x_1pm,2022,2024,3
+Ghana,surge_B_3x_1pm,2010,2010,1
+Ghana,surge_B_3x_1pm,2012,2012,1
+Ghana,surge_B_3x_1pm,2019,2019,1
+Ghana,surge_B_3x_1pm,2022,2024,3
+Ghana,surge_C_2x_5pm,2010,2010,1
+Ghana,surge_C_2x_5pm,2012,2012,1
+Ghana,surge_C_2x_5pm,2019,2019,1
+Ghana,surge_C_2x_5pm,2022,2024,3
+Greece,surge_A_2x_1pm,2010,2011,2
+Greece,surge_A_2x_1pm,2017,2018,2
+Greece,surge_A_2x_1pm,2024,2024,1
+Greece,surge_B_3x_1pm,2010,2011,2
+Greece,surge_B_3x_1pm,2017,2018,2
+Greece,surge_B_3x_1pm,2024,2024,1
+Greece,surge_C_2x_5pm,2010,2010,1
+Greece,surge_C_2x_5pm,2017,2018,2
+Guam,surge_A_2x_1pm,2011,2011,1
+Guam,surge_B_3x_1pm,2011,2011,1
+Guam,surge_C_2x_5pm,2011,2011,1
+Guinea,surge_A_2x_1pm,2008,2009,2
+Guinea,surge_A_2x_1pm,2013,2015,3
+Guinea,surge_A_2x_1pm,2017,2017,1
+Guinea,surge_A_2x_1pm,2019,2019,1
+Guinea,surge_B_3x_1pm,2008,2009,2
+Guinea,surge_B_3x_1pm,2013,2015,3
+Guinea,surge_B_3x_1pm,2017,2017,1
+Guinea,surge_B_3x_1pm,2019,2019,1
+Guinea,surge_C_2x_5pm,2008,2009,2
+Guinea,surge_C_2x_5pm,2014,2015,2
+Guinea,surge_C_2x_5pm,2017,2017,1
+Guinea,surge_C_2x_5pm,2019,2019,1
+Guinea-Bissau,surge_A_2x_1pm,2004,2004,1
+Guinea-Bissau,surge_A_2x_1pm,2008,2008,1
+Guinea-Bissau,surge_A_2x_1pm,2010,2010,1
+Guinea-Bissau,surge_A_2x_1pm,2015,2015,1
+Guinea-Bissau,surge_A_2x_1pm,2017,2019,3
+Guinea-Bissau,surge_B_3x_1pm,2004,2004,1
+Guinea-Bissau,surge_B_3x_1pm,2008,2008,1
+Guinea-Bissau,surge_B_3x_1pm,2010,2010,1
+Guinea-Bissau,surge_B_3x_1pm,2015,2015,1
+Guinea-Bissau,surge_B_3x_1pm,2017,2017,1
+Guinea-Bissau,surge_B_3x_1pm,2019,2019,1
+Guinea-Bissau,surge_C_2x_5pm,2004,2004,1
+Guinea-Bissau,surge_C_2x_5pm,2008,2008,1
+Guinea-Bissau,surge_C_2x_5pm,2010,2010,1
+Guinea-Bissau,surge_C_2x_5pm,2015,2015,1
+Guinea-Bissau,surge_C_2x_5pm,2017,2019,3
+Hungary,surge_A_2x_1pm,2017,2018,2
+Hungary,surge_A_2x_1pm,2024,2024,1
+Hungary,surge_B_3x_1pm,2017,2018,2
+Hungary,surge_B_3x_1pm,2024,2024,1
+Iceland,surge_A_2x_1pm,2016,2017,2
+Iceland,surge_A_2x_1pm,2019,2019,1
+Iceland,surge_A_2x_1pm,2024,2024,1
+Iceland,surge_B_3x_1pm,2016,2017,2
+Iceland,surge_B_3x_1pm,2019,2019,1
+Iceland,surge_B_3x_1pm,2024,2024,1
+Iceland,surge_C_2x_5pm,2017,2017,1
+Iceland,surge_C_2x_5pm,2019,2019,1
+Iceland,surge_C_2x_5pm,2024,2024,1
+India,surge_A_2x_1pm,2014,2015,2
+India,surge_A_2x_1pm,2022,2023,2
+India,surge_B_3x_1pm,2014,2015,2
+India,surge_B_3x_1pm,2022,2023,2
+India,surge_C_2x_5pm,2014,2015,2
+India,surge_C_2x_5pm,2022,2023,2
+Indonesia,surge_A_2x_1pm,2003,2003,1
+Indonesia,surge_A_2x_1pm,2022,2023,2
+Indonesia,surge_A_2x_1pm,2025,2025,1
+Indonesia,surge_B_3x_1pm,2003,2003,1
+Indonesia,surge_B_3x_1pm,2022,2023,2
+Indonesia,surge_B_3x_1pm,2025,2025,1
+Indonesia,surge_C_2x_5pm,2003,2003,1
+Indonesia,surge_C_2x_5pm,2022,2023,2
+Indonesia,surge_C_2x_5pm,2025,2025,1
+Iran (Islamic Republic of),surge_A_2x_1pm,2006,2007,2
+Iran (Islamic Republic of),surge_A_2x_1pm,2010,2010,1
+Iran (Islamic Republic of),surge_A_2x_1pm,2015,2015,1
+Iran (Islamic Republic of),surge_A_2x_1pm,2018,2018,1
+Iran (Islamic Republic of),surge_A_2x_1pm,2021,2023,3
+Iran (Islamic Republic of),surge_A_2x_1pm,2025,2025,1
+Iran (Islamic Republic of),surge_B_3x_1pm,2006,2007,2
+Iran (Islamic Republic of),surge_B_3x_1pm,2010,2010,1
+Iran (Islamic Republic of),surge_B_3x_1pm,2015,2015,1
+Iran (Islamic Republic of),surge_B_3x_1pm,2021,2023,3
+Iran (Islamic Republic of),surge_C_2x_5pm,2010,2010,1
+Iran (Islamic Republic of),surge_C_2x_5pm,2015,2015,1
+Iran (Islamic Republic of),surge_C_2x_5pm,2023,2023,1
+Iran (Islamic Republic of),surge_C_2x_5pm,2025,2025,1
+Iraq,surge_A_2x_1pm,2008,2009,2
+Iraq,surge_A_2x_1pm,2013,2015,3
+Iraq,surge_A_2x_1pm,2018,2019,2
+Iraq,surge_A_2x_1pm,2024,2024,1
+Iraq,surge_B_3x_1pm,2008,2009,2
+Iraq,surge_B_3x_1pm,2013,2014,2
+Iraq,surge_B_3x_1pm,2018,2019,2
+Iraq,surge_B_3x_1pm,2024,2024,1
+Iraq,surge_C_2x_5pm,2008,2009,2
+Iraq,surge_C_2x_5pm,2013,2015,3
+Iraq,surge_C_2x_5pm,2018,2019,2
+Iraq,surge_C_2x_5pm,2024,2024,1
+Ireland,surge_A_2x_1pm,2009,2010,2
+Ireland,surge_A_2x_1pm,2018,2018,1
+Ireland,surge_A_2x_1pm,2024,2025,2
+Ireland,surge_B_3x_1pm,2010,2010,1
+Ireland,surge_B_3x_1pm,2024,2025,2
+Ireland,surge_C_2x_5pm,2009,2010,2
+Ireland,surge_C_2x_5pm,2018,2018,1
+Ireland,surge_C_2x_5pm,2024,2025,2
+Israel,surge_A_2x_1pm,2003,2004,2
+Israel,surge_A_2x_1pm,2007,2008,2
+Israel,surge_A_2x_1pm,2011,2012,2
+Israel,surge_A_2x_1pm,2017,2019,3
+Israel,surge_B_3x_1pm,2003,2004,2
+Israel,surge_B_3x_1pm,2007,2008,2
+Israel,surge_B_3x_1pm,2012,2012,1
+Israel,surge_B_3x_1pm,2017,2019,3
+Israel,surge_C_2x_5pm,2003,2004,2
+Israel,surge_C_2x_5pm,2007,2008,2
+Israel,surge_C_2x_5pm,2011,2012,2
+Israel,surge_C_2x_5pm,2018,2019,2
+Italy,surge_A_2x_1pm,2008,2008,1
+Italy,surge_A_2x_1pm,2011,2011,1
+Italy,surge_A_2x_1pm,2024,2025,2
+Italy,surge_B_3x_1pm,2008,2008,1
+Italy,surge_B_3x_1pm,2011,2011,1
+Italy,surge_B_3x_1pm,2024,2025,2
+Italy,surge_C_2x_5pm,2008,2008,1
+Italy,surge_C_2x_5pm,2011,2011,1
+Italy,surge_C_2x_5pm,2024,2025,2
+Japan,surge_A_2x_1pm,2014,2014,1
+Japan,surge_A_2x_1pm,2019,2019,1
+Japan,surge_B_3x_1pm,2019,2019,1
+Japan,surge_C_2x_5pm,2019,2019,1
+Jordan,surge_A_2x_1pm,2003,2003,1
+Jordan,surge_A_2x_1pm,2013,2014,2
+Jordan,surge_A_2x_1pm,2019,2019,1
+Jordan,surge_B_3x_1pm,2013,2014,2
+Jordan,surge_B_3x_1pm,2019,2019,1
+Jordan,surge_C_2x_5pm,2003,2003,1
+Jordan,surge_C_2x_5pm,2013,2013,1
+Kazakhstan,surge_A_2x_1pm,2004,2005,2
+Kazakhstan,surge_A_2x_1pm,2011,2012,2
+Kazakhstan,surge_A_2x_1pm,2014,2015,2
+Kazakhstan,surge_A_2x_1pm,2018,2020,3
+Kazakhstan,surge_A_2x_1pm,2023,2024,2
+Kazakhstan,surge_B_3x_1pm,2004,2005,2
+Kazakhstan,surge_B_3x_1pm,2011,2012,2
+Kazakhstan,surge_B_3x_1pm,2014,2015,2
+Kazakhstan,surge_B_3x_1pm,2018,2020,3
+Kazakhstan,surge_B_3x_1pm,2023,2024,2
+Kazakhstan,surge_C_2x_5pm,2004,2005,2
+Kazakhstan,surge_C_2x_5pm,2011,2011,1
+Kazakhstan,surge_C_2x_5pm,2014,2015,2
+Kazakhstan,surge_C_2x_5pm,2018,2020,3
+Kazakhstan,surge_C_2x_5pm,2023,2024,2
+Kenya,surge_A_2x_1pm,2005,2007,3
+Kenya,surge_A_2x_1pm,2018,2019,2
+Kenya,surge_A_2x_1pm,2022,2022,1
+Kenya,surge_B_3x_1pm,2006,2007,2
+Kenya,surge_B_3x_1pm,2018,2019,2
+Kenya,surge_B_3x_1pm,2022,2022,1
+Kenya,surge_C_2x_5pm,2006,2007,2
+Kenya,surge_C_2x_5pm,2018,2019,2
+Kenya,surge_C_2x_5pm,2022,2022,1
+Kiribati,surge_A_2x_1pm,2021,2021,1
+Kiribati,surge_B_3x_1pm,2021,2021,1
+Kiribati,surge_C_2x_5pm,2021,2021,1
+Kuwait,surge_A_2x_1pm,2013,2013,1
+Kuwait,surge_A_2x_1pm,2018,2018,1
+Kuwait,surge_C_2x_5pm,2013,2013,1
+Kuwait,surge_C_2x_5pm,2018,2018,1
+Kyrgyzstan,surge_A_2x_1pm,2005,2006,2
+Kyrgyzstan,surge_A_2x_1pm,2011,2011,1
+Kyrgyzstan,surge_A_2x_1pm,2014,2015,2
+Kyrgyzstan,surge_A_2x_1pm,2018,2019,2
+Kyrgyzstan,surge_B_3x_1pm,2005,2006,2
+Kyrgyzstan,surge_B_3x_1pm,2011,2011,1
+Kyrgyzstan,surge_B_3x_1pm,2014,2015,2
+Kyrgyzstan,surge_B_3x_1pm,2018,2019,2
+Kyrgyzstan,surge_C_2x_5pm,2005,2006,2
+Kyrgyzstan,surge_C_2x_5pm,2011,2011,1
+Kyrgyzstan,surge_C_2x_5pm,2014,2015,2
+Kyrgyzstan,surge_C_2x_5pm,2018,2019,2
+Lao People's Democratic Republic,surge_A_2x_1pm,2003,2003,1
+Lao People's Democratic Republic,surge_A_2x_1pm,2007,2007,1
+Lao People's Democratic Republic,surge_A_2x_1pm,2014,2014,1
+Lao People's Democratic Republic,surge_A_2x_1pm,2019,2020,2
+Lao People's Democratic Republic,surge_A_2x_1pm,2025,2025,1
+Lao People's Democratic Republic,surge_B_3x_1pm,2003,2003,1
+Lao People's Democratic Republic,surge_B_3x_1pm,2007,2007,1
+Lao People's Democratic Republic,surge_B_3x_1pm,2014,2014,1
+Lao People's Democratic Republic,surge_B_3x_1pm,2019,2020,2
+Lao People's Democratic Republic,surge_B_3x_1pm,2025,2025,1
+Lao People's Democratic Republic,surge_C_2x_5pm,2003,2003,1
+Lao People's Democratic Republic,surge_C_2x_5pm,2007,2007,1
+Lao People's Democratic Republic,surge_C_2x_5pm,2014,2014,1
+Lao People's Democratic Republic,surge_C_2x_5pm,2019,2020,2
+Lao People's Democratic Republic,surge_C_2x_5pm,2025,2025,1
+Latvia,surge_A_2x_1pm,2012,2012,1
+Latvia,surge_A_2x_1pm,2014,2014,1
+Latvia,surge_A_2x_1pm,2018,2019,2
+Latvia,surge_B_3x_1pm,2012,2012,1
+Latvia,surge_B_3x_1pm,2014,2014,1
+Latvia,surge_B_3x_1pm,2018,2019,2
+Latvia,surge_C_2x_5pm,2014,2014,1
+Latvia,surge_C_2x_5pm,2018,2018,1
+Lebanon,surge_A_2x_1pm,2003,2005,3
+Lebanon,surge_A_2x_1pm,2013,2014,2
+Lebanon,surge_A_2x_1pm,2017,2019,3
+Lebanon,surge_B_3x_1pm,2003,2004,2
+Lebanon,surge_B_3x_1pm,2013,2014,2
+Lebanon,surge_B_3x_1pm,2018,2019,2
+Lebanon,surge_C_2x_5pm,2003,2005,3
+Lebanon,surge_C_2x_5pm,2013,2014,2
+Lebanon,surge_C_2x_5pm,2017,2019,3
+Lesotho,surge_A_2x_1pm,2004,2004,1
+Lesotho,surge_A_2x_1pm,2010,2011,2
+Lesotho,surge_A_2x_1pm,2013,2013,1
+Lesotho,surge_A_2x_1pm,2018,2021,4
+Lesotho,surge_A_2x_1pm,2025,2025,1
+Lesotho,surge_B_3x_1pm,2004,2004,1
+Lesotho,surge_B_3x_1pm,2010,2011,2
+Lesotho,surge_B_3x_1pm,2018,2021,4
+Lesotho,surge_C_2x_5pm,2004,2004,1
+Lesotho,surge_C_2x_5pm,2010,2011,2
+Lesotho,surge_C_2x_5pm,2013,2013,1
+Lesotho,surge_C_2x_5pm,2019,2021,3
+Liberia,surge_A_2x_1pm,2006,2006,1
+Liberia,surge_A_2x_1pm,2009,2011,3
+Liberia,surge_A_2x_1pm,2015,2016,2
+Liberia,surge_A_2x_1pm,2018,2018,1
+Liberia,surge_A_2x_1pm,2022,2023,2
+Liberia,surge_B_3x_1pm,2009,2011,3
+Liberia,surge_B_3x_1pm,2015,2016,2
+Liberia,surge_B_3x_1pm,2018,2018,1
+Liberia,surge_B_3x_1pm,2022,2023,2
+Liberia,surge_C_2x_5pm,2006,2006,1
+Liberia,surge_C_2x_5pm,2010,2011,2
+Liberia,surge_C_2x_5pm,2015,2016,2
+Liberia,surge_C_2x_5pm,2018,2018,1
+Liberia,surge_C_2x_5pm,2022,2023,2
+Libya,surge_A_2x_1pm,2009,2009,1
+Libya,surge_A_2x_1pm,2018,2019,2
+Libya,surge_B_3x_1pm,2009,2009,1
+Libya,surge_B_3x_1pm,2018,2019,2
+Libya,surge_C_2x_5pm,2009,2009,1
+Libya,surge_C_2x_5pm,2018,2019,2
+Lithuania,surge_A_2x_1pm,2011,2011,1
+Lithuania,surge_A_2x_1pm,2013,2013,1
+Lithuania,surge_A_2x_1pm,2015,2015,1
+Lithuania,surge_A_2x_1pm,2019,2019,1
+Lithuania,surge_A_2x_1pm,2023,2025,3
+Lithuania,surge_B_3x_1pm,2011,2011,1
+Lithuania,surge_B_3x_1pm,2013,2013,1
+Lithuania,surge_B_3x_1pm,2015,2015,1
+Lithuania,surge_B_3x_1pm,2019,2019,1
+Lithuania,surge_B_3x_1pm,2023,2025,3
+Lithuania,surge_C_2x_5pm,2013,2013,1
+Lithuania,surge_C_2x_5pm,2015,2015,1
+Lithuania,surge_C_2x_5pm,2019,2019,1
+Lithuania,surge_C_2x_5pm,2024,2024,1
+Luxembourg,surge_A_2x_1pm,2011,2012,2
+Luxembourg,surge_A_2x_1pm,2018,2019,2
+Luxembourg,surge_A_2x_1pm,2024,2025,2
+Luxembourg,surge_B_3x_1pm,2011,2012,2
+Luxembourg,surge_B_3x_1pm,2018,2019,2
+Luxembourg,surge_B_3x_1pm,2024,2025,2
+Luxembourg,surge_C_2x_5pm,2011,2011,1
+Luxembourg,surge_C_2x_5pm,2018,2019,2
+Madagascar,surge_A_2x_1pm,2003,2004,2
+Madagascar,surge_A_2x_1pm,2018,2019,2
+Madagascar,surge_A_2x_1pm,2023,2023,1
+Madagascar,surge_A_2x_1pm,2025,2025,1
+Madagascar,surge_B_3x_1pm,2003,2004,2
+Madagascar,surge_B_3x_1pm,2018,2019,2
+Madagascar,surge_B_3x_1pm,2023,2023,1
+Madagascar,surge_B_3x_1pm,2025,2025,1
+Madagascar,surge_C_2x_5pm,2003,2004,2
+Madagascar,surge_C_2x_5pm,2018,2019,2
+Madagascar,surge_C_2x_5pm,2023,2023,1
+Madagascar,surge_C_2x_5pm,2025,2025,1
+Malawi,surge_A_2x_1pm,2004,2004,1
+Malawi,surge_A_2x_1pm,2010,2010,1
+Malawi,surge_A_2x_1pm,2020,2020,1
+Malawi,surge_A_2x_1pm,2023,2025,3
+Malawi,surge_B_3x_1pm,2004,2004,1
+Malawi,surge_B_3x_1pm,2010,2010,1
+Malawi,surge_B_3x_1pm,2020,2020,1
+Malawi,surge_B_3x_1pm,2023,2025,3
+Malawi,surge_C_2x_5pm,2004,2004,1
+Malawi,surge_C_2x_5pm,2010,2010,1
+Malawi,surge_C_2x_5pm,2023,2025,3
+Malaysia,surge_A_2x_1pm,2004,2005,2
+Malaysia,surge_A_2x_1pm,2011,2012,2
+Malaysia,surge_A_2x_1pm,2015,2016,2
+Malaysia,surge_A_2x_1pm,2023,2024,2
+Malaysia,surge_B_3x_1pm,2004,2004,1
+Malaysia,surge_B_3x_1pm,2011,2012,2
+Malaysia,surge_B_3x_1pm,2015,2016,2
+Malaysia,surge_B_3x_1pm,2023,2024,2
+Malaysia,surge_C_2x_5pm,2004,2005,2
+Malaysia,surge_C_2x_5pm,2011,2012,2
+Malaysia,surge_C_2x_5pm,2015,2016,2
+Malaysia,surge_C_2x_5pm,2023,2024,2
+Maldives,surge_A_2x_1pm,2003,2003,1
+Maldives,surge_A_2x_1pm,2005,2005,1
+Maldives,surge_A_2x_1pm,2017,2018,2
+Maldives,surge_A_2x_1pm,2020,2020,1
+Maldives,surge_A_2x_1pm,2023,2024,2
+Maldives,surge_B_3x_1pm,2003,2003,1
+Maldives,surge_B_3x_1pm,2005,2005,1
+Maldives,surge_B_3x_1pm,2017,2018,2
+Maldives,surge_B_3x_1pm,2020,2020,1
+Maldives,surge_B_3x_1pm,2023,2024,2
+Maldives,surge_C_2x_5pm,2003,2003,1
+Maldives,surge_C_2x_5pm,2005,2005,1
+Maldives,surge_C_2x_5pm,2020,2020,1
+Maldives,surge_C_2x_5pm,2023,2023,1
+Mali,surge_A_2x_1pm,2008,2010,3
+Mali,surge_A_2x_1pm,2018,2019,2
+Mali,surge_A_2x_1pm,2021,2021,1
+Mali,surge_B_3x_1pm,2009,2010,2
+Mali,surge_B_3x_1pm,2018,2019,2
+Mali,surge_B_3x_1pm,2021,2021,1
+Mali,surge_C_2x_5pm,2008,2010,3
+Mali,surge_C_2x_5pm,2018,2019,2
+Mali,surge_C_2x_5pm,2021,2021,1
+Malta,surge_A_2x_1pm,2011,2011,1
+Malta,surge_A_2x_1pm,2018,2019,2
+Malta,surge_A_2x_1pm,2024,2024,1
+Malta,surge_B_3x_1pm,2018,2019,2
+Malta,surge_B_3x_1pm,2024,2024,1
+Malta,surge_C_2x_5pm,2011,2011,1
+Malta,surge_C_2x_5pm,2018,2019,2
+Malta,surge_C_2x_5pm,2024,2024,1
+Marshall Islands,surge_A_2x_1pm,2003,2003,1
+Marshall Islands,surge_B_3x_1pm,2003,2003,1
+Marshall Islands,surge_C_2x_5pm,2003,2003,1
+Mauritania,surge_A_2x_1pm,2004,2004,1
+Mauritania,surge_A_2x_1pm,2009,2010,2
+Mauritania,surge_A_2x_1pm,2017,2019,3
+Mauritania,surge_A_2x_1pm,2021,2021,1
+Mauritania,surge_A_2x_1pm,2023,2024,2
+Mauritania,surge_B_3x_1pm,2004,2004,1
+Mauritania,surge_B_3x_1pm,2009,2010,2
+Mauritania,surge_B_3x_1pm,2017,2018,2
+Mauritania,surge_B_3x_1pm,2023,2024,2
+Mauritania,surge_C_2x_5pm,2004,2004,1
+Mauritania,surge_C_2x_5pm,2009,2010,2
+Mauritania,surge_C_2x_5pm,2017,2019,3
+Mauritania,surge_C_2x_5pm,2021,2021,1
+Mauritania,surge_C_2x_5pm,2023,2024,2
+Mexico,surge_A_2x_1pm,2020,2020,1
+Mexico,surge_A_2x_1pm,2025,2025,1
+Mexico,surge_B_3x_1pm,2020,2020,1
+Mexico,surge_B_3x_1pm,2025,2025,1
+Mexico,surge_C_2x_5pm,2025,2025,1
+Micronesia (Federated States of),surge_A_2x_1pm,2014,2014,1
+Micronesia (Federated States of),surge_B_3x_1pm,2014,2014,1
+Micronesia (Federated States of),surge_C_2x_5pm,2014,2014,1
+Mongolia,surge_A_2x_1pm,2006,2008,3
+Mongolia,surge_A_2x_1pm,2015,2016,2
+Mongolia,surge_A_2x_1pm,2025,2025,1
+Mongolia,surge_B_3x_1pm,2006,2007,2
+Mongolia,surge_B_3x_1pm,2015,2016,2
+Mongolia,surge_B_3x_1pm,2025,2025,1
+Mongolia,surge_C_2x_5pm,2006,2006,1
+Mongolia,surge_C_2x_5pm,2008,2008,1
+Mongolia,surge_C_2x_5pm,2015,2016,2
+Mongolia,surge_C_2x_5pm,2025,2025,1
+Montenegro,surge_A_2x_1pm,2010,2011,2
+Montenegro,surge_A_2x_1pm,2024,2025,2
+Montenegro,surge_B_3x_1pm,2010,2011,2
+Montenegro,surge_B_3x_1pm,2024,2025,2
+Montenegro,surge_C_2x_5pm,2010,2011,2
+Montenegro,surge_C_2x_5pm,2024,2025,2
+Mozambique,surge_A_2x_1pm,2003,2003,1
+Mozambique,surge_A_2x_1pm,2010,2011,2
+Mozambique,surge_A_2x_1pm,2015,2015,1
+Mozambique,surge_A_2x_1pm,2020,2022,3
+Mozambique,surge_B_3x_1pm,2003,2003,1
+Mozambique,surge_B_3x_1pm,2010,2010,1
+Mozambique,surge_B_3x_1pm,2015,2015,1
+Mozambique,surge_B_3x_1pm,2020,2021,2
+Mozambique,surge_C_2x_5pm,2003,2003,1
+Mozambique,surge_C_2x_5pm,2010,2011,2
+Mozambique,surge_C_2x_5pm,2020,2022,3
+Myanmar,surge_A_2x_1pm,2011,2012,2
+Myanmar,surge_A_2x_1pm,2016,2019,4
+Myanmar,surge_B_3x_1pm,2011,2012,2
+Myanmar,surge_B_3x_1pm,2017,2019,3
+Myanmar,surge_C_2x_5pm,2011,2012,2
+Myanmar,surge_C_2x_5pm,2016,2019,4
+Namibia,surge_A_2x_1pm,2007,2007,1
+Namibia,surge_A_2x_1pm,2009,2010,2
+Namibia,surge_A_2x_1pm,2013,2014,2
+Namibia,surge_A_2x_1pm,2022,2023,2
+Namibia,surge_A_2x_1pm,2025,2025,1
+Namibia,surge_B_3x_1pm,2007,2007,1
+Namibia,surge_B_3x_1pm,2009,2010,2
+Namibia,surge_B_3x_1pm,2013,2014,2
+Namibia,surge_B_3x_1pm,2022,2023,2
+Namibia,surge_B_3x_1pm,2025,2025,1
+Namibia,surge_C_2x_5pm,2007,2007,1
+Namibia,surge_C_2x_5pm,2009,2010,2
+Namibia,surge_C_2x_5pm,2013,2014,2
+Namibia,surge_C_2x_5pm,2022,2023,2
+Namibia,surge_C_2x_5pm,2025,2025,1
+Nepal,surge_A_2x_1pm,2011,2012,2
+Nepal,surge_A_2x_1pm,2023,2023,1
+Nepal,surge_B_3x_1pm,2011,2012,2
+Nepal,surge_B_3x_1pm,2023,2023,1
+Nepal,surge_C_2x_5pm,2011,2012,2
+Nepal,surge_C_2x_5pm,2023,2023,1
+Netherlands (Kingdom of the),surge_A_2x_1pm,2008,2008,1
+Netherlands (Kingdom of the),surge_A_2x_1pm,2011,2011,1
+Netherlands (Kingdom of the),surge_A_2x_1pm,2013,2014,2
+Netherlands (Kingdom of the),surge_A_2x_1pm,2018,2019,2
+Netherlands (Kingdom of the),surge_A_2x_1pm,2024,2025,2
+Netherlands (Kingdom of the),surge_B_3x_1pm,2008,2008,1
+Netherlands (Kingdom of the),surge_B_3x_1pm,2011,2011,1
+Netherlands (Kingdom of the),surge_B_3x_1pm,2013,2013,1
+Netherlands (Kingdom of the),surge_B_3x_1pm,2018,2019,2
+Netherlands (Kingdom of the),surge_B_3x_1pm,2024,2025,2
+Netherlands (Kingdom of the),surge_C_2x_5pm,2008,2008,1
+Netherlands (Kingdom of the),surge_C_2x_5pm,2013,2014,2
+Netherlands (Kingdom of the),surge_C_2x_5pm,2024,2025,2
+New Zealand,surge_A_2x_1pm,2014,2014,1
+New Zealand,surge_A_2x_1pm,2016,2016,1
+New Zealand,surge_A_2x_1pm,2019,2019,1
+New Zealand,surge_B_3x_1pm,2014,2014,1
+New Zealand,surge_B_3x_1pm,2016,2016,1
+New Zealand,surge_B_3x_1pm,2019,2019,1
+New Zealand,surge_C_2x_5pm,2014,2014,1
+New Zealand,surge_C_2x_5pm,2016,2016,1
+New Zealand,surge_C_2x_5pm,2019,2019,1
+Niger,surge_A_2x_1pm,2008,2009,2
+Niger,surge_A_2x_1pm,2013,2013,1
+Niger,surge_A_2x_1pm,2015,2015,1
+Niger,surge_A_2x_1pm,2018,2019,2
+Niger,surge_A_2x_1pm,2025,2025,1
+Niger,surge_B_3x_1pm,2008,2008,1
+Niger,surge_B_3x_1pm,2015,2015,1
+Niger,surge_B_3x_1pm,2018,2019,2
+Niger,surge_B_3x_1pm,2025,2025,1
+Niger,surge_C_2x_5pm,2008,2009,2
+Niger,surge_C_2x_5pm,2013,2013,1
+Niger,surge_C_2x_5pm,2015,2015,1
+Niger,surge_C_2x_5pm,2018,2019,2
+Niger,surge_C_2x_5pm,2025,2025,1
+Nigeria,surge_A_2x_1pm,2005,2005,1
+Nigeria,surge_A_2x_1pm,2008,2008,1
+Nigeria,surge_A_2x_1pm,2010,2011,2
+Nigeria,surge_A_2x_1pm,2013,2013,1
+Nigeria,surge_A_2x_1pm,2019,2019,1
+Nigeria,surge_A_2x_1pm,2022,2022,1
+Nigeria,surge_B_3x_1pm,2008,2008,1
+Nigeria,surge_B_3x_1pm,2013,2013,1
+Nigeria,surge_C_2x_5pm,2005,2005,1
+Nigeria,surge_C_2x_5pm,2008,2008,1
+Nigeria,surge_C_2x_5pm,2010,2011,2
+Nigeria,surge_C_2x_5pm,2013,2013,1
+Nigeria,surge_C_2x_5pm,2019,2019,1
+Nigeria,surge_C_2x_5pm,2022,2022,1
+North Macedonia,surge_A_2x_1pm,2008,2008,1
+North Macedonia,surge_A_2x_1pm,2010,2011,2
+North Macedonia,surge_A_2x_1pm,2014,2014,1
+North Macedonia,surge_A_2x_1pm,2017,2019,3
+North Macedonia,surge_A_2x_1pm,2024,2024,1
+North Macedonia,surge_B_3x_1pm,2008,2008,1
+North Macedonia,surge_B_3x_1pm,2010,2011,2
+North Macedonia,surge_B_3x_1pm,2014,2014,1
+North Macedonia,surge_B_3x_1pm,2017,2019,3
+North Macedonia,surge_C_2x_5pm,2008,2008,1
+North Macedonia,surge_C_2x_5pm,2010,2011,2
+North Macedonia,surge_C_2x_5pm,2014,2014,1
+North Macedonia,surge_C_2x_5pm,2017,2019,3
+Norway,surge_A_2x_1pm,2011,2011,1
+Norway,surge_A_2x_1pm,2015,2015,1
+Norway,surge_A_2x_1pm,2018,2019,2
+Norway,surge_A_2x_1pm,2024,2024,1
+Norway,surge_B_3x_1pm,2011,2011,1
+Norway,surge_B_3x_1pm,2015,2015,1
+Norway,surge_B_3x_1pm,2018,2019,2
+Norway,surge_B_3x_1pm,2024,2024,1
+Norway,surge_C_2x_5pm,2011,2011,1
+Oman,surge_A_2x_1pm,2004,2005,2
+Oman,surge_A_2x_1pm,2012,2012,1
+Oman,surge_A_2x_1pm,2020,2020,1
+Oman,surge_A_2x_1pm,2022,2024,3
+Oman,surge_B_3x_1pm,2004,2005,2
+Oman,surge_B_3x_1pm,2020,2020,1
+Oman,surge_B_3x_1pm,2022,2023,2
+Oman,surge_C_2x_5pm,2004,2005,2
+Pakistan,surge_A_2x_1pm,2010,2011,2
+Pakistan,surge_A_2x_1pm,2017,2018,2
+Pakistan,surge_A_2x_1pm,2021,2024,4
+Pakistan,surge_B_3x_1pm,2010,2011,2
+Pakistan,surge_B_3x_1pm,2017,2018,2
+Pakistan,surge_B_3x_1pm,2021,2021,1
+Pakistan,surge_C_2x_5pm,2010,2011,2
+Pakistan,surge_C_2x_5pm,2017,2018,2
+Pakistan,surge_C_2x_5pm,2021,2024,4
+Panama,surge_A_2x_1pm,2011,2011,1
+Panama,surge_B_3x_1pm,2011,2011,1
+Papua New Guinea,surge_A_2x_1pm,2013,2015,3
+Papua New Guinea,surge_A_2x_1pm,2018,2018,1
+Papua New Guinea,surge_A_2x_1pm,2023,2024,2
+Papua New Guinea,surge_B_3x_1pm,2013,2015,3
+Papua New Guinea,surge_B_3x_1pm,2023,2024,2
+Papua New Guinea,surge_C_2x_5pm,2014,2014,1
+Paraguay,surge_A_2x_1pm,2025,2025,1
+Paraguay,surge_B_3x_1pm,2025,2025,1
+Paraguay,surge_C_2x_5pm,2025,2025,1
+Peru,surge_A_2x_1pm,2018,2018,1
+Peru,surge_B_3x_1pm,2018,2018,1
+Philippines,surge_A_2x_1pm,2007,2011,5
+Philippines,surge_A_2x_1pm,2014,2014,1
+Philippines,surge_A_2x_1pm,2017,2019,3
+Philippines,surge_A_2x_1pm,2023,2024,2
+Philippines,surge_B_3x_1pm,2007,2007,1
+Philippines,surge_B_3x_1pm,2009,2011,3
+Philippines,surge_B_3x_1pm,2014,2014,1
+Philippines,surge_B_3x_1pm,2017,2019,3
+Philippines,surge_B_3x_1pm,2023,2024,2
+Philippines,surge_C_2x_5pm,2007,2007,1
+Philippines,surge_C_2x_5pm,2009,2011,3
+Philippines,surge_C_2x_5pm,2014,2014,1
+Philippines,surge_C_2x_5pm,2017,2019,3
+Philippines,surge_C_2x_5pm,2023,2024,2
+Poland,surge_A_2x_1pm,2006,2007,2
+Poland,surge_A_2x_1pm,2019,2019,1
+Poland,surge_A_2x_1pm,2024,2025,2
+Poland,surge_B_3x_1pm,2006,2007,2
+Poland,surge_B_3x_1pm,2019,2019,1
+Poland,surge_B_3x_1pm,2024,2025,2
+Poland,surge_C_2x_5pm,2019,2019,1
+Poland,surge_C_2x_5pm,2024,2024,1
+Portugal,surge_A_2x_1pm,2012,2012,1
+Portugal,surge_A_2x_1pm,2018,2018,1
+Portugal,surge_A_2x_1pm,2024,2025,2
+Portugal,surge_B_3x_1pm,2012,2012,1
+Portugal,surge_B_3x_1pm,2018,2018,1
+Portugal,surge_B_3x_1pm,2024,2025,2
+Portugal,surge_C_2x_5pm,2018,2018,1
+Qatar,surge_A_2x_1pm,2005,2007,3
+Qatar,surge_A_2x_1pm,2023,2024,2
+Qatar,surge_B_3x_1pm,2006,2007,2
+Qatar,surge_B_3x_1pm,2023,2024,2
+Qatar,surge_C_2x_5pm,2005,2007,3
+Qatar,surge_C_2x_5pm,2023,2024,2
+Republic of Korea,surge_A_2x_1pm,2007,2007,1
+Republic of Korea,surge_A_2x_1pm,2010,2010,1
+Republic of Korea,surge_A_2x_1pm,2013,2014,2
+Republic of Korea,surge_A_2x_1pm,2019,2019,1
+Republic of Korea,surge_B_3x_1pm,2007,2007,1
+Republic of Korea,surge_B_3x_1pm,2010,2010,1
+Republic of Korea,surge_B_3x_1pm,2014,2014,1
+Republic of Korea,surge_B_3x_1pm,2019,2019,1
+Republic of Korea,surge_C_2x_5pm,2014,2014,1
+Republic of Moldova,surge_A_2x_1pm,2006,2006,1
+Republic of Moldova,surge_A_2x_1pm,2012,2013,2
+Republic of Moldova,surge_A_2x_1pm,2018,2019,2
+Republic of Moldova,surge_B_3x_1pm,2006,2006,1
+Republic of Moldova,surge_B_3x_1pm,2012,2013,2
+Republic of Moldova,surge_B_3x_1pm,2018,2019,2
+Republic of Moldova,surge_C_2x_5pm,2006,2006,1
+Republic of Moldova,surge_C_2x_5pm,2013,2013,1
+Republic of Moldova,surge_C_2x_5pm,2018,2019,2
+Romania,surge_A_2x_1pm,2004,2006,3
+Romania,surge_A_2x_1pm,2010,2012,3
+Romania,surge_A_2x_1pm,2016,2018,3
+Romania,surge_A_2x_1pm,2023,2024,2
+Romania,surge_B_3x_1pm,2004,2006,3
+Romania,surge_B_3x_1pm,2010,2012,3
+Romania,surge_B_3x_1pm,2016,2017,2
+Romania,surge_B_3x_1pm,2023,2024,2
+Romania,surge_C_2x_5pm,2004,2006,3
+Romania,surge_C_2x_5pm,2010,2012,3
+Romania,surge_C_2x_5pm,2016,2018,3
+Romania,surge_C_2x_5pm,2023,2024,2
+Russian Federation,surge_A_2x_1pm,2011,2014,4
+Russian Federation,surge_A_2x_1pm,2018,2019,2
+Russian Federation,surge_A_2x_1pm,2023,2024,2
+Russian Federation,surge_B_3x_1pm,2011,2013,3
+Russian Federation,surge_B_3x_1pm,2018,2019,2
+Russian Federation,surge_B_3x_1pm,2023,2024,2
+Russian Federation,surge_C_2x_5pm,2012,2014,3
+Russian Federation,surge_C_2x_5pm,2018,2019,2
+Russian Federation,surge_C_2x_5pm,2023,2024,2
+Rwanda,surge_A_2x_1pm,2010,2012,3
+Rwanda,surge_A_2x_1pm,2016,2019,4
+Rwanda,surge_A_2x_1pm,2023,2023,1
+Rwanda,surge_A_2x_1pm,2025,2025,1
+Rwanda,surge_B_3x_1pm,2010,2011,2
+Rwanda,surge_B_3x_1pm,2016,2017,2
+Rwanda,surge_B_3x_1pm,2019,2019,1
+Rwanda,surge_B_3x_1pm,2025,2025,1
+Rwanda,surge_C_2x_5pm,2010,2010,1
+Rwanda,surge_C_2x_5pm,2012,2012,1
+Rwanda,surge_C_2x_5pm,2016,2019,4
+Rwanda,surge_C_2x_5pm,2023,2023,1
+Rwanda,surge_C_2x_5pm,2025,2025,1
+Samoa,surge_A_2x_1pm,2012,2012,1
+Samoa,surge_A_2x_1pm,2020,2020,1
+Samoa,surge_B_3x_1pm,2012,2012,1
+Samoa,surge_B_3x_1pm,2020,2020,1
+Samoa,surge_C_2x_5pm,2012,2012,1
+Samoa,surge_C_2x_5pm,2020,2020,1
+San Marino,surge_A_2x_1pm,2012,2012,1
+San Marino,surge_A_2x_1pm,2019,2019,1
+San Marino,surge_A_2x_1pm,2024,2024,1
+San Marino,surge_B_3x_1pm,2012,2012,1
+San Marino,surge_B_3x_1pm,2019,2019,1
+San Marino,surge_B_3x_1pm,2024,2024,1
+San Marino,surge_C_2x_5pm,2012,2012,1
+San Marino,surge_C_2x_5pm,2019,2019,1
+San Marino,surge_C_2x_5pm,2024,2024,1
+Sao Tome and Principe,surge_A_2x_1pm,2015,2015,1
+Sao Tome and Principe,surge_B_3x_1pm,2015,2015,1
+Sao Tome and Principe,surge_C_2x_5pm,2015,2015,1
+Saudi Arabia,surge_A_2x_1pm,2004,2004,1
+Saudi Arabia,surge_A_2x_1pm,2007,2007,1
+Saudi Arabia,surge_A_2x_1pm,2010,2011,2
+Saudi Arabia,surge_A_2x_1pm,2013,2013,1
+Saudi Arabia,surge_A_2x_1pm,2017,2019,3
+Saudi Arabia,surge_A_2x_1pm,2023,2024,2
+Saudi Arabia,surge_B_3x_1pm,2004,2004,1
+Saudi Arabia,surge_B_3x_1pm,2007,2007,1
+Saudi Arabia,surge_B_3x_1pm,2013,2013,1
+Saudi Arabia,surge_B_3x_1pm,2018,2018,1
+Saudi Arabia,surge_B_3x_1pm,2023,2024,2
+Saudi Arabia,surge_C_2x_5pm,2004,2004,1
+Saudi Arabia,surge_C_2x_5pm,2007,2007,1
+Saudi Arabia,surge_C_2x_5pm,2010,2011,2
+Saudi Arabia,surge_C_2x_5pm,2013,2013,1
+Saudi Arabia,surge_C_2x_5pm,2017,2019,3
+Saudi Arabia,surge_C_2x_5pm,2023,2024,2
+Senegal,surge_A_2x_1pm,2009,2010,2
+Senegal,surge_A_2x_1pm,2016,2016,1
+Senegal,surge_A_2x_1pm,2019,2020,2
+Senegal,surge_A_2x_1pm,2022,2023,2
+Senegal,surge_B_3x_1pm,2009,2010,2
+Senegal,surge_B_3x_1pm,2016,2016,1
+Senegal,surge_B_3x_1pm,2019,2020,2
+Senegal,surge_C_2x_5pm,2009,2010,2
+Senegal,surge_C_2x_5pm,2016,2016,1
+Senegal,surge_C_2x_5pm,2019,2020,2
+Senegal,surge_C_2x_5pm,2022,2023,2
+Serbia,surge_A_2x_1pm,2007,2007,1
+Serbia,surge_A_2x_1pm,2010,2011,2
+Serbia,surge_A_2x_1pm,2014,2015,2
+Serbia,surge_A_2x_1pm,2017,2018,2
+Serbia,surge_A_2x_1pm,2023,2025,3
+Serbia,surge_B_3x_1pm,2007,2007,1
+Serbia,surge_B_3x_1pm,2010,2011,2
+Serbia,surge_B_3x_1pm,2014,2015,2
+Serbia,surge_B_3x_1pm,2017,2018,2
+Serbia,surge_B_3x_1pm,2023,2025,3
+Serbia,surge_C_2x_5pm,2007,2007,1
+Serbia,surge_C_2x_5pm,2011,2011,1
+Serbia,surge_C_2x_5pm,2014,2015,2
+Serbia,surge_C_2x_5pm,2017,2018,2
+Serbia,surge_C_2x_5pm,2023,2025,3
+Seychelles,surge_A_2x_1pm,2006,2007,2
+Seychelles,surge_A_2x_1pm,2024,2024,1
+Seychelles,surge_B_3x_1pm,2006,2007,2
+Seychelles,surge_B_3x_1pm,2024,2024,1
+Seychelles,surge_C_2x_5pm,2006,2007,2
+Seychelles,surge_C_2x_5pm,2024,2024,1
+Sierra Leone,surge_A_2x_1pm,2010,2011,2
+Sierra Leone,surge_A_2x_1pm,2021,2023,3
+Sierra Leone,surge_B_3x_1pm,2010,2011,2
+Sierra Leone,surge_B_3x_1pm,2021,2023,3
+Sierra Leone,surge_C_2x_5pm,2010,2011,2
+Sierra Leone,surge_C_2x_5pm,2021,2023,3
+Singapore,surge_A_2x_1pm,2010,2011,2
+Singapore,surge_A_2x_1pm,2013,2013,1
+Singapore,surge_B_3x_1pm,2010,2011,2
+Singapore,surge_C_2x_5pm,2010,2011,2
+Singapore,surge_C_2x_5pm,2013,2013,1
+Slovakia,surge_A_2x_1pm,2017,2019,3
+Slovakia,surge_A_2x_1pm,2023,2023,1
+Slovakia,surge_B_3x_1pm,2017,2019,3
+Slovakia,surge_B_3x_1pm,2023,2023,1
+Slovakia,surge_C_2x_5pm,2018,2019,2
+Slovenia,surge_A_2x_1pm,2011,2011,1
+Slovenia,surge_A_2x_1pm,2014,2015,2
+Slovenia,surge_A_2x_1pm,2019,2019,1
+Slovenia,surge_A_2x_1pm,2024,2025,2
+Slovenia,surge_B_3x_1pm,2011,2011,1
+Slovenia,surge_B_3x_1pm,2014,2015,2
+Slovenia,surge_B_3x_1pm,2019,2019,1
+Slovenia,surge_B_3x_1pm,2024,2024,1
+Slovenia,surge_C_2x_5pm,2011,2011,1
+Slovenia,surge_C_2x_5pm,2014,2015,2
+Slovenia,surge_C_2x_5pm,2019,2019,1
+Slovenia,surge_C_2x_5pm,2024,2024,1
+Somalia,surge_A_2x_1pm,2011,2012,2
+Somalia,surge_A_2x_1pm,2017,2017,1
+Somalia,surge_A_2x_1pm,2021,2022,2
+Somalia,surge_B_3x_1pm,2011,2012,2
+Somalia,surge_B_3x_1pm,2022,2022,1
+Somalia,surge_C_2x_5pm,2011,2012,2
+Somalia,surge_C_2x_5pm,2017,2017,1
+Somalia,surge_C_2x_5pm,2021,2022,2
+South Africa,surge_A_2x_1pm,2009,2010,2
+South Africa,surge_A_2x_1pm,2017,2018,2
+South Africa,surge_A_2x_1pm,2022,2025,4
+South Africa,surge_B_3x_1pm,2009,2010,2
+South Africa,surge_B_3x_1pm,2017,2018,2
+South Africa,surge_B_3x_1pm,2022,2023,2
+South Africa,surge_C_2x_5pm,2009,2010,2
+South Africa,surge_C_2x_5pm,2022,2025,4
+South Sudan,surge_A_2x_1pm,2019,2020,2
+South Sudan,surge_B_3x_1pm,2019,2019,1
+South Sudan,surge_C_2x_5pm,2019,2020,2
+Spain,surge_A_2x_1pm,2006,2007,2
+Spain,surge_A_2x_1pm,2011,2012,2
+Spain,surge_A_2x_1pm,2024,2025,2
+Spain,surge_B_3x_1pm,2006,2007,2
+Spain,surge_B_3x_1pm,2011,2012,2
+Spain,surge_B_3x_1pm,2024,2025,2
+Spain,surge_C_2x_5pm,2006,2007,2
+Spain,surge_C_2x_5pm,2011,2012,2
+Spain,surge_C_2x_5pm,2025,2025,1
+Sri Lanka,surge_A_2x_1pm,2007,2008,2
+Sri Lanka,surge_A_2x_1pm,2010,2010,1
+Sri Lanka,surge_A_2x_1pm,2013,2014,2
+Sri Lanka,surge_A_2x_1pm,2019,2019,1
+Sri Lanka,surge_B_3x_1pm,2007,2008,2
+Sri Lanka,surge_B_3x_1pm,2013,2014,2
+Sri Lanka,surge_B_3x_1pm,2019,2019,1
+Sri Lanka,surge_C_2x_5pm,2013,2014,2
+Sudan,surge_A_2x_1pm,2004,2004,1
+Sudan,surge_A_2x_1pm,2010,2012,3
+Sudan,surge_A_2x_1pm,2018,2018,1
+Sudan,surge_A_2x_1pm,2025,2025,1
+Sudan,surge_B_3x_1pm,2010,2012,3
+Sudan,surge_B_3x_1pm,2025,2025,1
+Sudan,surge_C_2x_5pm,2004,2004,1
+Sudan,surge_C_2x_5pm,2010,2012,3
+Sudan,surge_C_2x_5pm,2018,2018,1
+Sudan,surge_C_2x_5pm,2025,2025,1
+Sweden,surge_A_2x_1pm,2005,2006,2
+Sweden,surge_A_2x_1pm,2011,2012,2
+Sweden,surge_A_2x_1pm,2023,2024,2
+Sweden,surge_B_3x_1pm,2006,2006,1
+Sweden,surge_B_3x_1pm,2011,2012,2
+Sweden,surge_B_3x_1pm,2024,2024,1
+Switzerland,surge_A_2x_1pm,2013,2013,1
+Switzerland,surge_A_2x_1pm,2017,2017,1
+Switzerland,surge_A_2x_1pm,2019,2019,1
+Switzerland,surge_A_2x_1pm,2023,2024,2
+Switzerland,surge_B_3x_1pm,2019,2019,1
+Switzerland,surge_B_3x_1pm,2023,2024,2
+Switzerland,surge_C_2x_5pm,2013,2013,1
+Switzerland,surge_C_2x_5pm,2017,2017,1
+Switzerland,surge_C_2x_5pm,2019,2019,1
+Switzerland,surge_C_2x_5pm,2023,2024,2
+Syrian Arab Republic,surge_A_2x_1pm,2003,2003,1
+Syrian Arab Republic,surge_A_2x_1pm,2013,2014,2
+Syrian Arab Republic,surge_A_2x_1pm,2017,2018,2
+Syrian Arab Republic,surge_A_2x_1pm,2022,2023,2
+Syrian Arab Republic,surge_B_3x_1pm,2013,2014,2
+Syrian Arab Republic,surge_B_3x_1pm,2017,2018,2
+Syrian Arab Republic,surge_B_3x_1pm,2022,2023,2
+Syrian Arab Republic,surge_C_2x_5pm,2003,2003,1
+Syrian Arab Republic,surge_C_2x_5pm,2013,2014,2
+Syrian Arab Republic,surge_C_2x_5pm,2017,2018,2
+Syrian Arab Republic,surge_C_2x_5pm,2022,2023,2
+Tajikistan,surge_A_2x_1pm,2003,2003,1
+Tajikistan,surge_A_2x_1pm,2012,2012,1
+Tajikistan,surge_A_2x_1pm,2016,2017,2
+Tajikistan,surge_A_2x_1pm,2020,2020,1
+Tajikistan,surge_A_2x_1pm,2022,2022,1
+Tajikistan,surge_A_2x_1pm,2025,2025,1
+Tajikistan,surge_B_3x_1pm,2003,2003,1
+Tajikistan,surge_B_3x_1pm,2012,2012,1
+Tajikistan,surge_B_3x_1pm,2016,2017,2
+Tajikistan,surge_B_3x_1pm,2020,2020,1
+Tajikistan,surge_B_3x_1pm,2022,2022,1
+Tajikistan,surge_B_3x_1pm,2025,2025,1
+Tajikistan,surge_C_2x_5pm,2003,2003,1
+Tajikistan,surge_C_2x_5pm,2016,2017,2
+Tajikistan,surge_C_2x_5pm,2020,2020,1
+Tajikistan,surge_C_2x_5pm,2022,2022,1
+Tajikistan,surge_C_2x_5pm,2025,2025,1
+Thailand,surge_A_2x_1pm,2008,2008,1
+Thailand,surge_A_2x_1pm,2018,2019,2
+Thailand,surge_A_2x_1pm,2025,2025,1
+Thailand,surge_B_3x_1pm,2018,2018,1
+Thailand,surge_B_3x_1pm,2025,2025,1
+Thailand,surge_C_2x_5pm,2008,2008,1
+Thailand,surge_C_2x_5pm,2018,2019,2
+Thailand,surge_C_2x_5pm,2025,2025,1
+Timor-Leste,surge_A_2x_1pm,2005,2005,1
+Timor-Leste,surge_A_2x_1pm,2009,2011,3
+Timor-Leste,surge_A_2x_1pm,2014,2015,2
+Timor-Leste,surge_A_2x_1pm,2019,2020,2
+Timor-Leste,surge_B_3x_1pm,2005,2005,1
+Timor-Leste,surge_B_3x_1pm,2009,2011,3
+Timor-Leste,surge_B_3x_1pm,2019,2020,2
+Timor-Leste,surge_C_2x_5pm,2005,2005,1
+Timor-Leste,surge_C_2x_5pm,2009,2011,3
+Timor-Leste,surge_C_2x_5pm,2014,2015,2
+Timor-Leste,surge_C_2x_5pm,2019,2019,1
+Togo,surge_A_2x_1pm,2008,2009,2
+Togo,surge_A_2x_1pm,2013,2014,2
+Togo,surge_A_2x_1pm,2017,2017,1
+Togo,surge_A_2x_1pm,2022,2023,2
+Togo,surge_B_3x_1pm,2008,2009,2
+Togo,surge_B_3x_1pm,2022,2023,2
+Togo,surge_C_2x_5pm,2008,2009,2
+Togo,surge_C_2x_5pm,2013,2014,2
+Togo,surge_C_2x_5pm,2017,2017,1
+Togo,surge_C_2x_5pm,2022,2023,2
+Tonga,surge_A_2x_1pm,2019,2019,1
+Tonga,surge_B_3x_1pm,2019,2019,1
+Tonga,surge_C_2x_5pm,2019,2019,1
+Tunisia,surge_A_2x_1pm,2011,2012,2
+Tunisia,surge_A_2x_1pm,2019,2019,1
+Tunisia,surge_B_3x_1pm,2011,2012,2
+Tunisia,surge_B_3x_1pm,2019,2019,1
+Tunisia,surge_C_2x_5pm,2019,2019,1
+Turkmenistan,surge_A_2x_1pm,2006,2007,2
+Turkmenistan,surge_B_3x_1pm,2006,2007,2
+Turkmenistan,surge_C_2x_5pm,2006,2007,2
+Turks and Caicos Islands,surge_A_2x_1pm,2024,2024,1
+Turks and Caicos Islands,surge_B_3x_1pm,2024,2024,1
+Turks and Caicos Islands,surge_C_2x_5pm,2024,2024,1
+Türkiye,surge_A_2x_1pm,2011,2013,3
+Türkiye,surge_A_2x_1pm,2018,2019,2
+Türkiye,surge_B_3x_1pm,2011,2013,3
+Türkiye,surge_B_3x_1pm,2018,2019,2
+Türkiye,surge_C_2x_5pm,2013,2013,1
+Türkiye,surge_C_2x_5pm,2018,2019,2
+Uganda,surge_A_2x_1pm,2006,2007,2
+Uganda,surge_A_2x_1pm,2011,2011,1
+Uganda,surge_A_2x_1pm,2013,2013,1
+Uganda,surge_A_2x_1pm,2017,2018,2
+Uganda,surge_A_2x_1pm,2024,2025,2
+Uganda,surge_B_3x_1pm,2006,2007,2
+Uganda,surge_B_3x_1pm,2013,2013,1
+Uganda,surge_B_3x_1pm,2018,2018,1
+Uganda,surge_B_3x_1pm,2024,2025,2
+Uganda,surge_C_2x_5pm,2006,2007,2
+Uganda,surge_C_2x_5pm,2011,2011,1
+Uganda,surge_C_2x_5pm,2013,2013,1
+Uganda,surge_C_2x_5pm,2017,2018,2
+Uganda,surge_C_2x_5pm,2024,2025,2
+Ukraine,surge_A_2x_1pm,2005,2006,2
+Ukraine,surge_A_2x_1pm,2018,2019,2
+Ukraine,surge_A_2x_1pm,2023,2025,3
+Ukraine,surge_B_3x_1pm,2005,2006,2
+Ukraine,surge_B_3x_1pm,2018,2019,2
+Ukraine,surge_B_3x_1pm,2023,2025,3
+Ukraine,surge_C_2x_5pm,2005,2006,2
+Ukraine,surge_C_2x_5pm,2018,2019,2
+Ukraine,surge_C_2x_5pm,2024,2025,2
+United Arab Emirates,surge_A_2x_1pm,2023,2024,2
+United Arab Emirates,surge_B_3x_1pm,2023,2024,2
+United Arab Emirates,surge_C_2x_5pm,2023,2024,2
+United Kingdom of Great Britain and Northern Ireland,surge_A_2x_1pm,2003,2003,1
+United Kingdom of Great Britain and Northern Ireland,surge_A_2x_1pm,2006,2007,2
+United Kingdom of Great Britain and Northern Ireland,surge_A_2x_1pm,2016,2018,3
+United Kingdom of Great Britain and Northern Ireland,surge_A_2x_1pm,2023,2025,3
+United Kingdom of Great Britain and Northern Ireland,surge_B_3x_1pm,2003,2003,1
+United Kingdom of Great Britain and Northern Ireland,surge_B_3x_1pm,2006,2007,2
+United Kingdom of Great Britain and Northern Ireland,surge_B_3x_1pm,2016,2016,1
+United Kingdom of Great Britain and Northern Ireland,surge_B_3x_1pm,2018,2018,1
+United Kingdom of Great Britain and Northern Ireland,surge_B_3x_1pm,2023,2024,2
+United Kingdom of Great Britain and Northern Ireland,surge_C_2x_5pm,2003,2003,1
+United Kingdom of Great Britain and Northern Ireland,surge_C_2x_5pm,2006,2007,2
+United Kingdom of Great Britain and Northern Ireland,surge_C_2x_5pm,2016,2018,3
+United Kingdom of Great Britain and Northern Ireland,surge_C_2x_5pm,2023,2025,3
+United Republic of Tanzania,surge_A_2x_1pm,2007,2007,1
+United Republic of Tanzania,surge_A_2x_1pm,2017,2018,2
+United Republic of Tanzania,surge_A_2x_1pm,2022,2023,2
+United Republic of Tanzania,surge_B_3x_1pm,2007,2007,1
+United Republic of Tanzania,surge_B_3x_1pm,2017,2017,1
+United Republic of Tanzania,surge_B_3x_1pm,2022,2023,2
+United Republic of Tanzania,surge_C_2x_5pm,2007,2007,1
+United Republic of Tanzania,surge_C_2x_5pm,2017,2017,1
+United Republic of Tanzania,surge_C_2x_5pm,2022,2023,2
+United States of America,surge_A_2x_1pm,2014,2014,1
+United States of America,surge_A_2x_1pm,2018,2018,1
+United States of America,surge_B_3x_1pm,2014,2014,1
+United States of America,surge_B_3x_1pm,2018,2018,1
+Uruguay,surge_A_2x_1pm,2019,2019,1
+Uruguay,surge_A_2x_1pm,2025,2025,1
+Uruguay,surge_B_3x_1pm,2019,2019,1
+Uruguay,surge_B_3x_1pm,2025,2025,1
+Uzbekistan,surge_A_2x_1pm,2003,2006,4
+Uzbekistan,surge_A_2x_1pm,2010,2011,2
+Uzbekistan,surge_A_2x_1pm,2019,2020,2
+Uzbekistan,surge_A_2x_1pm,2023,2024,2
+Uzbekistan,surge_B_3x_1pm,2003,2003,1
+Uzbekistan,surge_B_3x_1pm,2005,2006,2
+Uzbekistan,surge_B_3x_1pm,2010,2011,2
+Uzbekistan,surge_B_3x_1pm,2019,2020,2
+Uzbekistan,surge_B_3x_1pm,2023,2024,2
+Uzbekistan,surge_C_2x_5pm,2005,2006,2
+Uzbekistan,surge_C_2x_5pm,2011,2011,1
+Uzbekistan,surge_C_2x_5pm,2019,2020,2
+Uzbekistan,surge_C_2x_5pm,2023,2024,2
+Vanuatu,surge_A_2x_1pm,2003,2003,1
+Vanuatu,surge_A_2x_1pm,2014,2015,2
+Vanuatu,surge_B_3x_1pm,2003,2003,1
+Vanuatu,surge_B_3x_1pm,2014,2015,2
+Vanuatu,surge_C_2x_5pm,2003,2003,1
+Vanuatu,surge_C_2x_5pm,2014,2015,2
+Venezuela (Bolivarian Republic of),surge_A_2x_1pm,2006,2007,2
+Venezuela (Bolivarian Republic of),surge_A_2x_1pm,2017,2018,2
+Venezuela (Bolivarian Republic of),surge_B_3x_1pm,2006,2007,2
+Venezuela (Bolivarian Republic of),surge_B_3x_1pm,2017,2018,2
+Venezuela (Bolivarian Republic of),surge_C_2x_5pm,2017,2018,2
+Viet Nam,surge_A_2x_1pm,2006,2006,1
+Viet Nam,surge_A_2x_1pm,2009,2010,2
+Viet Nam,surge_A_2x_1pm,2014,2014,1
+Viet Nam,surge_A_2x_1pm,2018,2019,2
+Viet Nam,surge_A_2x_1pm,2024,2025,2
+Viet Nam,surge_B_3x_1pm,2006,2006,1
+Viet Nam,surge_B_3x_1pm,2009,2010,2
+Viet Nam,surge_B_3x_1pm,2014,2014,1
+Viet Nam,surge_B_3x_1pm,2018,2019,2
+Viet Nam,surge_B_3x_1pm,2024,2025,2
+Viet Nam,surge_C_2x_5pm,2006,2006,1
+Viet Nam,surge_C_2x_5pm,2009,2010,2
+Viet Nam,surge_C_2x_5pm,2014,2014,1
+Viet Nam,surge_C_2x_5pm,2018,2019,2
+Viet Nam,surge_C_2x_5pm,2024,2025,2
+Yemen,surge_A_2x_1pm,2004,2004,1
+Yemen,surge_A_2x_1pm,2009,2012,4
+Yemen,surge_A_2x_1pm,2018,2019,2
+Yemen,surge_A_2x_1pm,2021,2023,3
+Yemen,surge_B_3x_1pm,2004,2004,1
+Yemen,surge_B_3x_1pm,2009,2012,4
+Yemen,surge_B_3x_1pm,2018,2018,1
+Yemen,surge_B_3x_1pm,2021,2023,3
+Yemen,surge_C_2x_5pm,2004,2004,1
+Yemen,surge_C_2x_5pm,2009,2012,4
+Yemen,surge_C_2x_5pm,2018,2019,2
+Yemen,surge_C_2x_5pm,2021,2023,3
+Zambia,surge_A_2x_1pm,2006,2007,2
+Zambia,surge_A_2x_1pm,2010,2011,2
+Zambia,surge_A_2x_1pm,2020,2023,4
+Zambia,surge_B_3x_1pm,2006,2007,2
+Zambia,surge_B_3x_1pm,2010,2011,2
+Zambia,surge_B_3x_1pm,2020,2023,4
+Zambia,surge_C_2x_5pm,2006,2007,2
+Zambia,surge_C_2x_5pm,2010,2011,2
+Zambia,surge_C_2x_5pm,2020,2020,1
+Zambia,surge_C_2x_5pm,2022,2023,2
+Zimbabwe,surge_A_2x_1pm,2009,2010,2
+Zimbabwe,surge_A_2x_1pm,2021,2023,3
+Zimbabwe,surge_B_3x_1pm,2009,2010,2
+Zimbabwe,surge_B_3x_1pm,2021,2023,3
+Zimbabwe,surge_C_2x_5pm,2009,2010,2
+Zimbabwe,surge_C_2x_5pm,2021,2023,3
+"occupied Palestinian territory, including east Jerusalem",surge_A_2x_1pm,2020,2020,1
+"occupied Palestinian territory, including east Jerusalem",surge_B_3x_1pm,2020,2020,1
+"occupied Palestinian territory, including east Jerusalem",surge_C_2x_5pm,2020,2020,1

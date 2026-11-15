@@ -1,0 +1,21 @@
+partition,approach,capacity_pct,evaluated,selected,events,detected,missed,false_alarms,recall,precision,false_alarm_share,method_display
+test,combined,10,505,53,143,19,124,34,0.13286713,0.35849057,0.64150943,Combined LR
+test,combined,20,505,104,143,42,101,62,0.29370629,0.40384615,0.59615385,Combined LR
+test,coverage_shortfall_rank,10,505,53,143,19,124,34,0.13286713,0.35849057,0.64150943,Coverage-shortfall ranking
+test,coverage_shortfall_rank,20,505,104,143,31,112,73,0.21678322,0.29807692,0.70192308,Coverage-shortfall ranking
+test,rf_regularized,10,505,53,143,43,100,10,0.3006993,0.81132075,0.18867925,Random Forest
+test,rf_regularized,20,505,104,143,68,75,36,0.47552448,0.65384615,0.34615385,Random Forest
+test,vaccination_only,10,505,53,143,20,123,33,0.13986014,0.37735849,0.62264151,Vaccination-only LR
+test,vaccination_only,20,505,104,143,35,108,69,0.24475524,0.33653846,0.66346154,Vaccination-only LR
+test,xgb_regularized,10,505,53,143,43,100,10,0.3006993,0.81132075,0.18867925,XGBoost
+test,xgb_regularized,20,505,104,143,69,74,35,0.48251748,0.66346154,0.33653846,XGBoost
+unseen_country_test,combined,10,119,13,33,8,25,5,0.24242424,0.61538462,0.38461538,Combined LR
+unseen_country_test,combined,20,119,25,33,9,24,16,0.27272727,0.36,0.64,Combined LR
+unseen_country_test,coverage_shortfall_rank,10,119,13,33,5,28,8,0.15151515,0.38461538,0.61538462,Coverage-shortfall ranking
+unseen_country_test,coverage_shortfall_rank,20,119,25,33,8,25,17,0.24242424,0.32,0.68,Coverage-shortfall ranking
+unseen_country_test,rf_regularized,10,119,13,33,8,25,5,0.24242424,0.61538462,0.38461538,Random Forest
+unseen_country_test,rf_regularized,20,119,25,33,14,19,11,0.42424242,0.56,0.44,Random Forest
+unseen_country_test,vaccination_only,10,119,13,33,5,28,8,0.15151515,0.38461538,0.61538462,Vaccination-only LR
+unseen_country_test,vaccination_only,20,119,25,33,9,24,16,0.27272727,0.36,0.64,Vaccination-only LR
+unseen_country_test,xgb_regularized,10,119,13,33,8,25,5,0.24242424,0.61538462,0.38461538,XGBoost
+unseen_country_test,xgb_regularized,20,119,25,33,15,18,10,0.45454545,0.6,0.4,XGBoost

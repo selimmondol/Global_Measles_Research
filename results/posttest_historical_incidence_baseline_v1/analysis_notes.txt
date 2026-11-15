@@ -1,0 +1,10 @@
+EXPLORATORY POST-TEST ANALYSIS, not new independent validation.
+Historical score source: data/processed/Measles_Model_Features.csv
+Two separately reported simple baselines: prior-year incidence and prior-three-year median.
+No fitting, tuning, threshold search, refitting, or protocol modification.
+Target-year incidence never enters ranking scores.
+Outcome itself uses historical incidence median: potential mechanical advantage to history-based ranking.
+200 paired country-cluster bootstrap replicates per capacity/partition, fixed seed.
+Confidence intervals do not account for shared global calendar-year shocks.
+Only retrospectively outcome-evaluable country-years were ranked.
+Do not select whichever historical rule looks best on the held-out test.

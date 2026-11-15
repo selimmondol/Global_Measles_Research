@@ -1,0 +1,12 @@
+FEATURE ENGINEERING AUDIT (NO MODEL TRAINING)
+Outcome: researcher-defined annual reported-incidence surge candidates, NOT WHO-confirmed outbreaks.
+For predicting target-year t, all predictive features originate from t-1 or earlier.
+Historical WUENIC values are current-revision estimates; historical real-time vintages are unverified.
+NO scaling, imputation, encoding or feature selection fitted across the full dataset.
+Country/Year/ISO3 are identifiers and NOT part of the numeric feature list.
+Current-year measles cases, incidence, vaccination coverage and population are excluded from predictive features.
+Some features (historical incidence median) are also used in the researcher-defined target rule.
+This is not future-outcome leakage but may favor the historical-incidence baseline; benchmark fairly.
+Missing values were preserved. Models must fit imputers and scalers on training folds only.
+Do not interpret national vaccination coverage as individual immunity.
+Pre-specify time splits and held-out-country testing BEFORE fitting any models.

@@ -1,0 +1,54 @@
+# Python environments and caches
+.venv/
+.venv_repro_test/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# macOS and temporary files
+.DS_Store
+._*
+~$*
+*.tmp
+*.log
+
+# Backup and compressed archives
+*.zip
+results_repro_backup/
+
+# External projects and exploratory copies
+bangladesh-measles-2026-main/
+District-Level-Measles-Outbreak-Bangladesh-main/
+Measles_Experiment_A_Files/
+
+# Locally stored source data (redistribution review pending)
+Data/raw/
+
+# Historical processed data (review before publication)
+Data/processed/
+
+# Locally saved HTML export
+paper/Measles.html
+paper/Measles_files/
+
+# Old manuscript drafts
+paper/Global_Measles_Original_Revised_With_References.docx
+
+# Local spreadsheet working files
+Tables.xlsx
+
+# Additional local working copies
+/24_fair_comparator_sensitivity.py
+/Measles reported cases and incidence 2026-10-11 10-36 UTC.xlsx
+/Measles_Supplementary_Table_S6.docx
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+secrets.json

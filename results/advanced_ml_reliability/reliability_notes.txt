@@ -1,0 +1,13 @@
+STEP 11: ADVANCED ML VALIDATION RELIABILITY AUDIT
+Only 2019–2021 validation predictions loaded; no test partitions evaluated.
+Models: combined Logistic Regression; four prespecified RF/XGBoost configurations.
+All models aligned to identical Country-Year and observed outcome for each cohort.
+Paired percentile confidence intervals use 500 country-cluster bootstrap draws.
+Country clustering does not account fully for global calendar-year shocks.
+Repeated comparison and configuration selection on validation induces optimism.
+Top 10% is a country-YEAR ranking, not annual distinct-country prioritization.
+Calibration bins may be sparsely populated; check n before interpreting curves.
+High vaccination is NATIONAL lagged WUENIC >=95% for both doses, not immunity.
+Historical WUENIC revisions are not historical real-time data vintages.
+Surge C is a provisional researcher-defined reported-incidence outcome, NOT a WHO outbreak.
+No model refitting, feature selection, test-set evaluation or raw data overwrite.

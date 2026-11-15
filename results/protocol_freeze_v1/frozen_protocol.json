@@ -1,0 +1,217 @@
+{
+  "created_utc": "2026-11-10T20:30:49.530105+00:00",
+  "protocol": {
+    "status": "FROZEN_BEFORE_INDEPENDENT_TEST",
+    "study": "Beyond Vaccination Coverage: Evaluating Machine Learning Early-Warning Systems for Missed Measles Resurgence Across Countries",
+    "research_design": "Retrospective one-year-ahead country-year reported-incidence surge prediction",
+    "not_preregistered": true,
+    "target": {
+      "column": "surge_C_2x_5pm",
+      "operational_label": "Annual reported measles incidence surge (NOT WHO-confirmed outbreak)",
+      "eligibility": "Current incidence and all 3 consecutive earlier-year incidences observed",
+      "definition": "incidence per million >=5, >=2x prior-3y median, and increase >=0.5 per million",
+      "zero_median": "No division by zero: ratio criterion is incidence >= 2*median; retain zero-median rows in primary analysis",
+      "secondary_target": "Strict new-onset label, analysis contingent on known previous-year negative",
+      "sensitivity_targets": [
+        "surge_A_2x_1pm",
+        "surge_B_3x_1pm",
+        "C excluding zero-median rows",
+        "higher incidence thresholds"
+      ]
+    },
+    "cohort": "all_eligible_imputed_vaccination",
+    "train_years": [
+      2003,
+      2018
+    ],
+    "validation_years": [
+      2019,
+      2021
+    ],
+    "locked_future_years": [
+      2022,
+      2025
+    ],
+    "held_out_country_count": 40,
+    "models": {
+      "primary": "rf_regularized",
+      "secondary": "xgb_regularized",
+      "statistical_baseline": "combined",
+      "policy_baseline": "coverage_shortfall_rank",
+      "model_configs_source": "src/10_advanced_ml_models.py and results/advanced_ml_models/configuration_manifest.csv",
+      "seed": 42
+    },
+    "preprocessing": "Training-only median imputation; training-only scaling for Logistic Regression; no test-driven feature engineering or tuning",
+    "features": [
+      "mcv1_lag1",
+      "mcv2_lag1",
+      "incidence_lag1",
+      "incidence_median_3y",
+      "incidence_std_3y"
+    ],
+    "decision_rule": "For each prediction year, rank eligible observed-outcome country-year rows by descending risk; tie-break ascending country name; select ceil(0.10*n)",
+    "primary_metric": "Pooled annual event recall at 10% selection capacity",
+    "secondary_capacity": 0.2,
+    "secondary_metrics": [
+      "precision at capacity",
+      "false alarms",
+      "AUROC",
+      "average precision",
+      "Brier score",
+      "calibration"
+    ],
+    "comparison_uncertainty": "Country-cluster bootstrap; shared global-year shocks incompletely quantified",
+    "critical_limitations": [
+      "Eligibility for annual decision ranking is determined retrospectively from observable outcomes; real deployment may not know outcome availability",
+      "WHO reported cases are not all true infections",
+      "WUENIC latest historical revision is NOT a sequence of real-time prediction vintages",
+      "National vaccination coverage is not actual district/local immunity",
+      "Country-year records within countries are dependent",
+      "Definition C was chosen after exploratory development analysis; this freeze is NOT preregistration"
+    ],
+    "no_test_tuning": true,
+    "draft_fields_at_freeze": {
+      "script": "13_decision_reliability.py",
+      "prediction_years": [
+        2019,
+        2020,
+        2021
+      ],
+      "cohort": "all_eligible_imputed_vaccination",
+      "primary_operating_capacity_pct": 10,
+      "secondary_capacity_pct": 20,
+      "primary_model": "rf_regularized",
+      "secondary_model": "xgb_regularized",
+      "statistical_baseline": "combined",
+      "conventional_comparator": "coverage_shortfall_rank",
+      "primary_metric": "pooled annual recall at 10% per-year selected countries",
+      "selection_rule": "Per year ceil(10% of eligible countries), descending score; country ascending on ties",
+      "endpoint": "Provisional reported annual measles incidence surge Definition C; not WHO outbreak",
+      "bootstrap": "500 country-cluster draws; calendar shocks not independently captured",
+      "test_rule": "Do not access 2022-2025 future or unseen-country test until protocol frozen",
+      "caution": "WUENIC revised current-vintage estimates are retrospective; no real-time performance claim"
+    }
+  },
+  "software_versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "scipy": "1.18.1"
+  },
+  "input_and_code_sha256": {
+    "data/processed/Measles_Master_Rebuilt.csv": {
+      "sha256": "babdf17219548ba31a3483da57cc1959efd25149b79c2b337667ff7f804ad1b6",
+      "bytes": 448428
+    },
+    "data/processed/Measles_Model_Features.csv": {
+      "sha256": "d89ceb6eb34c73606a4c1d3b0e3c6dc3d877d8402eec92813c39760efee93aef",
+      "bytes": 1049972
+    },
+    "data/processed/Measles_Resurgence_Candidates.csv": {
+      "sha256": "79b734929db7671998962362bbd0b3998ba501e4b6dc96d7b1029d355c9e8e20",
+      "bytes": 920133
+    },
+    "data/raw/API_SP.POP.TOTL_DS2_EN_csv_v2_26.zip": {
+      "sha256": "1394e53bf01256fb9d51e32965c9bcb5c1443edd56534a78f7b8b0e07fba8667",
+      "bytes": 90124
+    },
+    "data/raw/Measles reported cases and incidence 2026-07-11 04-08 UTC.xlsx": {
+      "sha256": "b44cbcd9006a1a12e3a0c9853559b025727f4c2c7199c4bd50529f7c4b200e58",
+      "bytes": 41974
+    },
+    "data/raw/Measles vaccination coverage 2026-07-11 05-02 UTC.xlsx": {
+      "sha256": "655a361ebc21e34f0bdf9f618dc8c633d13b8fde46404abe3949638540d1fa5f",
+      "bytes": 1405398
+    },
+    "results/advanced_ml_models/configuration_manifest.csv": {
+      "sha256": "50e9123c3d64fa4509e341e6add1fb9739a64c3cd5cee7eee18154a5232706c1",
+      "bytes": 2112
+    },
+    "results/advanced_ml_models/validation_predictions.csv": {
+      "sha256": "9b9a2fe9503588730061f5512e8e3744b00bf67eae634e592616e11e55359f44",
+      "bytes": 243830
+    },
+    "results/baseline_models/validation_predictions.csv": {
+      "sha256": "6c990dd3b4748d62d75c7832d13cb19f7d2e115c486079852a4165afe03e1f73",
+      "bytes": 185564
+    },
+    "results/decision_reliability/paired_decision_bootstrap.csv": {
+      "sha256": "8ebd135e2c8e0e3bd9e125cf92a9889286caca45964b66f7e34a4ab27bd776f2",
+      "bytes": 3351
+    },
+    "results/decision_reliability/pooled_decision_summary_checked.csv": {
+      "sha256": "1fd04e0c8bbd9aba85385c50232bfd3a0035137f2aedd9699f5f2b729a7b40eb",
+      "bytes": 1285
+    },
+    "results/decision_reliability/protocol_lock_draft.json": {
+      "sha256": "2defb4dd01b4f3b644654aca84cb5f704ab7cd1b44a98bdf7bc71c0a2637ed28",
+      "bytes": 971
+    },
+    "results/validation_design/country_holdout.csv": {
+      "sha256": "3dbfbc0c97f1f2393a27bb5e4939f83e16403f2197678db6a0f265d1a8d352a8",
+      "bytes": 6797
+    },
+    "results/validation_design/split_assignments.csv": {
+      "sha256": "514e090048a77db67c6350fd9dd2027ae865f1dc2a1110ab236902da17768d26",
+      "bytes": 308064
+    },
+    "src/01_data_preparation.py": {
+      "sha256": "e7c65d2952d4eea32ecceb3520552b55ad8e819a2bcc289be08c5903728ada29",
+      "bytes": 6643
+    },
+    "src/02_data_quality.py": {
+      "sha256": "42b196bc72dee7036320ad13d53240a51725323ac45b6467d1284db30af4243b",
+      "bytes": 8048
+    },
+    "src/03_resurgence_definition.py": {
+      "sha256": "a3b02eb310f87a0ee235e783d2b56738b9196d1e9c6847df021491181c36a504",
+      "bytes": 7032
+    },
+    "src/04_outcome_validation.py": {
+      "sha256": "036aeb73cebb6c6713bf2b77675d49f0a155903c5d8b7559dac83e7f587c0780",
+      "bytes": 8203
+    },
+    "src/05_target_robustness.py": {
+      "sha256": "d03a17e170384be591f84d58e6d271e492a0bda78d719a012930f3ff568fd594",
+      "bytes": 8971
+    },
+    "src/06_feature_engineering.py": {
+      "sha256": "5c6f13bec1b37b53aa988f40ac4c0f2102d4aade830430e5570529ab561289eb",
+      "bytes": 11070
+    },
+    "src/07_validation_design.py": {
+      "sha256": "10492e000e08d1cee4fe6e9c11c6cca495951eb0ae48fcb7efc569c20c4a840a",
+      "bytes": 10497
+    },
+    "src/08_baseline_models.py": {
+      "sha256": "eb4edcbbc17dfc3c891ffd9d4ad0ba5cb9084ad75486ca4330fed0e751a792bd",
+      "bytes": 10276
+    },
+    "src/09_baseline_reliability.py": {
+      "sha256": "e397d8a3e19eab9ceadb15c2d13dc9897a8546ef821ae3b2a626815a2a15f394",
+      "bytes": 12818
+    },
+    "src/10_advanced_ml_models.py": {
+      "sha256": "8a9ef37963bc601938836cfe81856a86c359aa6e092a24e193910d74f844d504",
+      "bytes": 12495
+    },
+    "src/11_advanced_ml_reliability.py": {
+      "sha256": "03e4cc3c4fcddfb094d28995f6acaea49b1be14cb8236201d2e57e78d1c5c367",
+      "bytes": 13805
+    },
+    "src/12_decision_evaluation.py": {
+      "sha256": "d5e89fd19fdfbc1dd4b71c2b0d600c842ff7d48948387e086521bb29464da2b4",
+      "bytes": 14806
+    },
+    "src/13_decision_reliability.py": {
+      "sha256": "7dd191d9c718e82d3681ae833428fd5508d578e4edd8aa96e1a6f0b3b588df2d",
+      "bytes": 12272
+    },
+    "src/14_protocol_freeze.py": {
+      "sha256": "65a4b76f58534400f1f396ff7497a61ab9f0bfd31631394c1b6409e1c5c9e040",
+      "bytes": 11178
+    }
+  }
+}

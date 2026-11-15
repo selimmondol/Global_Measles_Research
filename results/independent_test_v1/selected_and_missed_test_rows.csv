@@ -1,0 +1,2258 @@
+Country,Year,y,rank_within_year,selected,ranking_score,partition,approach,capacity_pct
+Côte d'Ivoire,2022,1,1,True,99.0,test,coverage_shortfall_rank,10
+Somalia,2022,1,2,True,97.0,test,coverage_shortfall_rank,10
+Equatorial Guinea,2022,0,3,True,83.0,test,coverage_shortfall_rank,10
+Montenegro,2022,0,4,True,82.0,test,coverage_shortfall_rank,10
+Comoros,2022,0,5,True,81.0,test,coverage_shortfall_rank,10
+Papua New Guinea,2022,0,6,True,80.0,test,coverage_shortfall_rank,10
+Nigeria,2022,1,7,True,77.0,test,coverage_shortfall_rank,10
+Cameroon,2022,1,8,True,72.0,test,coverage_shortfall_rank,10
+Congo,2022,1,9,True,69.0,test,coverage_shortfall_rank,10
+Mali,2022,0,10,True,67.0,test,coverage_shortfall_rank,10
+Liberia,2022,1,11,True,65.0,test,coverage_shortfall_rank,10
+Afghanistan,2022,1,12,True,63.0,test,coverage_shortfall_rank,10
+Haiti,2022,0,13,True,63.0,test,coverage_shortfall_rank,10
+Mozambique,2022,1,15,False,62.0,test,coverage_shortfall_rank,10
+Yemen,2022,1,16,False,59.0,test,coverage_shortfall_rank,10
+Ethiopia,2022,1,21,False,48.0,test,coverage_shortfall_rank,10
+Togo,2022,1,23,False,48.0,test,coverage_shortfall_rank,10
+Namibia,2022,1,25,False,44.0,test,coverage_shortfall_rank,10
+United Republic of Tanzania,2022,1,28,False,40.0,test,coverage_shortfall_rank,10
+Senegal,2022,1,30,False,36.0,test,coverage_shortfall_rank,10
+Syrian Arab Republic,2022,1,31,False,36.0,test,coverage_shortfall_rank,10
+Zambia,2022,1,37,False,31.0,test,coverage_shortfall_rank,10
+Kenya,2022,1,40,False,29.0,test,coverage_shortfall_rank,10
+Zimbabwe,2022,1,45,False,24.0,test,coverage_shortfall_rank,10
+Pakistan,2022,1,48,False,21.0,test,coverage_shortfall_rank,10
+Tajikistan,2022,1,49,False,21.0,test,coverage_shortfall_rank,10
+India,2022,1,54,False,18.0,test,coverage_shortfall_rank,10
+South Africa,2022,1,56,False,18.0,test,coverage_shortfall_rank,10
+Ghana,2022,1,60,False,17.0,test,coverage_shortfall_rank,10
+Eritrea,2022,1,64,False,15.0,test,coverage_shortfall_rank,10
+Gabon,2022,1,119,False,-inf,test,coverage_shortfall_rank,10
+Chad,2023,1,1,True,98.0,test,coverage_shortfall_rank,10
+Guinea,2023,0,2,True,97.0,test,coverage_shortfall_rank,10
+Somalia,2023,0,3,True,94.0,test,coverage_shortfall_rank,10
+Equatorial Guinea,2023,1,4,True,87.0,test,coverage_shortfall_rank,10
+Côte d'Ivoire,2023,0,5,True,85.0,test,coverage_shortfall_rank,10
+Papua New Guinea,2023,0,6,True,75.0,test,coverage_shortfall_rank,10
+Nigeria,2023,0,7,True,70.0,test,coverage_shortfall_rank,10
+Venezuela (Bolivarian Republic of),2023,0,8,True,70.0,test,coverage_shortfall_rank,10
+Montenegro,2023,0,9,True,67.0,test,coverage_shortfall_rank,10
+Congo,2023,1,10,True,66.0,test,coverage_shortfall_rank,10
+Cameroon,2023,1,11,True,64.0,test,coverage_shortfall_rank,10
+Mali,2023,0,12,True,64.0,test,coverage_shortfall_rank,10
+Mozambique,2023,0,13,True,62.0,test,coverage_shortfall_rank,10
+Yemen,2023,1,16,False,58.0,test,coverage_shortfall_rank,10
+Syrian Arab Republic,2023,1,19,False,51.0,test,coverage_shortfall_rank,10
+Liberia,2023,1,25,False,41.0,test,coverage_shortfall_rank,10
+Togo,2023,1,26,False,41.0,test,coverage_shortfall_rank,10
+Malawi,2023,1,27,False,40.0,test,coverage_shortfall_rank,10
+Ethiopia,2023,1,28,False,39.0,test,coverage_shortfall_rank,10
+Kazakhstan,2023,1,30,False,36.0,test,coverage_shortfall_rank,10
+Philippines,2023,1,32,False,36.0,test,coverage_shortfall_rank,10
+Senegal,2023,1,36,False,31.0,test,coverage_shortfall_rank,10
+Zambia,2023,1,39,False,30.0,test,coverage_shortfall_rank,10
+Comoros,2023,1,40,False,29.0,test,coverage_shortfall_rank,10
+Romania,2023,1,43,False,29.0,test,coverage_shortfall_rank,10
+United Republic of Tanzania,2023,1,45,False,26.0,test,coverage_shortfall_rank,10
+Botswana,2023,1,48,False,23.0,test,coverage_shortfall_rank,10
+Zimbabwe,2023,1,49,False,23.0,test,coverage_shortfall_rank,10
+Georgia,2023,1,50,False,22.0,test,coverage_shortfall_rank,10
+Namibia,2023,1,52,False,21.0,test,coverage_shortfall_rank,10
+Pakistan,2023,1,53,False,21.0,test,coverage_shortfall_rank,10
+Belgium,2023,1,59,False,17.0,test,coverage_shortfall_rank,10
+Ghana,2023,1,64,False,16.0,test,coverage_shortfall_rank,10
+Burundi,2023,1,65,False,15.0,test,coverage_shortfall_rank,10
+Eritrea,2023,1,66,False,15.0,test,coverage_shortfall_rank,10
+South Africa,2023,1,71,False,14.0,test,coverage_shortfall_rank,10
+Nepal,2023,1,74,False,13.0,test,coverage_shortfall_rank,10
+United Kingdom of Great Britain and Northern Ireland,2023,1,75,False,13.0,test,coverage_shortfall_rank,10
+India,2023,1,77,False,10.0,test,coverage_shortfall_rank,10
+Rwanda,2023,1,80,False,9.0,test,coverage_shortfall_rank,10
+United Arab Emirates,2023,1,82,False,9.0,test,coverage_shortfall_rank,10
+Armenia,2023,1,89,False,6.0,test,coverage_shortfall_rank,10
+Malaysia,2023,1,98,False,4.0,test,coverage_shortfall_rank,10
+Russian Federation,2023,1,102,False,3.0,test,coverage_shortfall_rank,10
+Belarus,2023,1,103,False,2.0,test,coverage_shortfall_rank,10
+Iran (Islamic Republic of),2023,1,104,False,2.0,test,coverage_shortfall_rank,10
+Maldives,2023,1,105,False,2.0,test,coverage_shortfall_rank,10
+Qatar,2023,1,112,False,1.0,test,coverage_shortfall_rank,10
+Uzbekistan,2023,1,113,False,1.0,test,coverage_shortfall_rank,10
+Central African Republic,2023,1,116,False,-inf,test,coverage_shortfall_rank,10
+Democratic Republic of the Congo,2023,1,118,False,-inf,test,coverage_shortfall_rank,10
+Gabon,2023,1,120,False,-inf,test,coverage_shortfall_rank,10
+Mauritania,2023,1,121,False,-inf,test,coverage_shortfall_rank,10
+Democratic Republic of the Congo,2024,0,1,True,82.0,test,coverage_shortfall_rank,10
+Somalia,2024,0,2,True,82.0,test,coverage_shortfall_rank,10
+Uganda,2024,1,3,True,79.0,test,coverage_shortfall_rank,10
+Mauritania,2024,1,4,True,76.0,test,coverage_shortfall_rank,10
+Montenegro,2024,1,5,True,76.0,test,coverage_shortfall_rank,10
+Guinea,2024,0,6,True,74.0,test,coverage_shortfall_rank,10
+Equatorial Guinea,2024,1,7,True,72.0,test,coverage_shortfall_rank,10
+Côte d'Ivoire,2024,0,8,True,68.0,test,coverage_shortfall_rank,10
+Nigeria,2024,0,9,True,67.0,test,coverage_shortfall_rank,10
+Congo,2024,0,10,True,66.0,test,coverage_shortfall_rank,10
+Chad,2024,1,11,True,65.0,test,coverage_shortfall_rank,10
+Venezuela (Bolivarian Republic of),2024,0,12,True,61.0,test,coverage_shortfall_rank,10
+Yemen,2024,0,13,True,61.0,test,coverage_shortfall_rank,10
+Afghanistan,2024,1,16,False,58.0,test,coverage_shortfall_rank,10
+Ethiopia,2024,1,25,False,38.0,test,coverage_shortfall_rank,10
+Romania,2024,1,27,False,38.0,test,coverage_shortfall_rank,10
+Cambodia,2024,1,28,False,36.0,test,coverage_shortfall_rank,10
+Malawi,2024,1,31,False,35.0,test,coverage_shortfall_rank,10
+Kazakhstan,2024,1,34,False,33.0,test,coverage_shortfall_rank,10
+Philippines,2024,1,37,False,31.0,test,coverage_shortfall_rank,10
+Comoros,2024,1,39,False,30.0,test,coverage_shortfall_rank,10
+Poland,2024,1,55,False,21.0,test,coverage_shortfall_rank,10
+San Marino,2024,1,56,False,21.0,test,coverage_shortfall_rank,10
+Burundi,2024,1,57,False,20.0,test,coverage_shortfall_rank,10
+Cyprus,2024,1,58,False,20.0,test,coverage_shortfall_rank,10
+Pakistan,2024,1,59,False,20.0,test,coverage_shortfall_rank,10
+South Africa,2024,1,60,False,20.0,test,coverage_shortfall_rank,10
+Belgium,2024,1,62,False,18.0,test,coverage_shortfall_rank,10
+Ghana,2024,1,63,False,18.0,test,coverage_shortfall_rank,10
+Viet Nam,2024,1,64,False,18.0,test,coverage_shortfall_rank,10
+Iraq,2024,1,66,False,17.0,test,coverage_shortfall_rank,10
+Malta,2024,1,69,False,16.0,test,coverage_shortfall_rank,10
+Italy,2024,1,71,False,15.0,test,coverage_shortfall_rank,10
+United Kingdom of Great Britain and Northern Ireland,2024,1,72,False,15.0,test,coverage_shortfall_rank,10
+Georgia,2024,1,74,False,14.0,test,coverage_shortfall_rank,10
+Lithuania,2024,1,75,False,14.0,test,coverage_shortfall_rank,10
+Ukraine,2024,1,77,False,13.0,test,coverage_shortfall_rank,10
+Iceland,2024,1,80,False,11.0,test,coverage_shortfall_rank,10
+Seychelles,2024,1,83,False,11.0,test,coverage_shortfall_rank,10
+Slovenia,2024,1,84,False,11.0,test,coverage_shortfall_rank,10
+Germany,2024,1,88,False,9.0,test,coverage_shortfall_rank,10
+France,2024,1,96,False,7.0,test,coverage_shortfall_rank,10
+United Arab Emirates,2024,1,101,False,6.0,test,coverage_shortfall_rank,10
+Belarus,2024,1,102,False,5.0,test,coverage_shortfall_rank,10
+Malaysia,2024,1,105,False,5.0,test,coverage_shortfall_rank,10
+Russian Federation,2024,1,107,False,5.0,test,coverage_shortfall_rank,10
+Armenia,2024,1,109,False,4.0,test,coverage_shortfall_rank,10
+Qatar,2024,1,118,False,1.0,test,coverage_shortfall_rank,10
+Uzbekistan,2024,1,120,False,1.0,test,coverage_shortfall_rank,10
+Bermuda,2024,1,121,False,-inf,test,coverage_shortfall_rank,10
+Montenegro,2025,1,1,True,77.0,test,coverage_shortfall_rank,10
+Papua New Guinea,2025,0,2,True,74.0,test,coverage_shortfall_rank,10
+Equatorial Guinea,2025,0,3,True,69.0,test,coverage_shortfall_rank,10
+Somalia,2025,0,4,True,68.0,test,coverage_shortfall_rank,10
+Nigeria,2025,0,5,True,65.0,test,coverage_shortfall_rank,10
+Sudan,2025,1,6,True,64.0,test,coverage_shortfall_rank,10
+Yemen,2025,0,7,True,60.0,test,coverage_shortfall_rank,10
+Chad,2025,0,8,True,57.0,test,coverage_shortfall_rank,10
+Afghanistan,2025,1,9,True,56.0,test,coverage_shortfall_rank,10
+Mozambique,2025,0,10,True,56.0,test,coverage_shortfall_rank,10
+Guinea,2025,0,11,True,55.0,test,coverage_shortfall_rank,10
+Mali,2025,0,12,True,53.0,test,coverage_shortfall_rank,10
+Côte d'Ivoire,2025,0,13,True,52.0,test,coverage_shortfall_rank,10
+Cameroon,2025,0,14,True,51.0,test,coverage_shortfall_rank,10
+Uganda,2025,1,16,False,50.0,test,coverage_shortfall_rank,10
+Lao People's Democratic Republic,2025,1,21,False,46.0,test,coverage_shortfall_rank,10
+Namibia,2025,1,29,False,34.0,test,coverage_shortfall_rank,10
+Bosnia and Herzegovina,2025,1,35,False,31.0,test,coverage_shortfall_rank,10
+Cambodia,2025,1,36,False,31.0,test,coverage_shortfall_rank,10
+Malawi,2025,1,37,False,31.0,test,coverage_shortfall_rank,10
+Mexico,2025,1,38,False,31.0,test,coverage_shortfall_rank,10
+Paraguay,2025,1,39,False,31.0,test,coverage_shortfall_rank,10
+Estonia,2025,1,46,False,26.0,test,coverage_shortfall_rank,10
+South Africa,2025,1,51,False,24.0,test,coverage_shortfall_rank,10
+Niger,2025,1,53,False,23.0,test,coverage_shortfall_rank,10
+Canada,2025,1,55,False,21.0,test,coverage_shortfall_rank,10
+Tajikistan,2025,1,58,False,21.0,test,coverage_shortfall_rank,10
+Georgia,2025,1,61,False,19.0,test,coverage_shortfall_rank,10
+Belgium,2025,1,64,False,18.0,test,coverage_shortfall_rank,10
+Belize,2025,1,68,False,17.0,test,coverage_shortfall_rank,10
+Ukraine,2025,1,70,False,17.0,test,coverage_shortfall_rank,10
+Italy,2025,1,71,False,16.0,test,coverage_shortfall_rank,10
+United Kingdom of Great Britain and Northern Ireland,2025,1,74,False,15.0,test,coverage_shortfall_rank,10
+Thailand,2025,1,79,False,13.0,test,coverage_shortfall_rank,10
+Australia,2025,1,85,False,8.0,test,coverage_shortfall_rank,10
+Spain,2025,1,89,False,8.0,test,coverage_shortfall_rank,10
+France,2025,1,94,False,7.0,test,coverage_shortfall_rank,10
+Rwanda,2025,1,99,False,7.0,test,coverage_shortfall_rank,10
+Mongolia,2025,1,107,False,5.0,test,coverage_shortfall_rank,10
+Viet Nam,2025,1,110,False,5.0,test,coverage_shortfall_rank,10
+Cyprus,2025,1,117,False,3.0,test,coverage_shortfall_rank,10
+Iran (Islamic Republic of),2025,1,125,False,1.0,test,coverage_shortfall_rank,10
+Central African Republic,2025,1,132,False,-inf,test,coverage_shortfall_rank,10
+Côte d'Ivoire,2022,1,1,True,99.0,test,coverage_shortfall_rank,20
+Somalia,2022,1,2,True,97.0,test,coverage_shortfall_rank,20
+Equatorial Guinea,2022,0,3,True,83.0,test,coverage_shortfall_rank,20
+Montenegro,2022,0,4,True,82.0,test,coverage_shortfall_rank,20
+Comoros,2022,0,5,True,81.0,test,coverage_shortfall_rank,20
+Papua New Guinea,2022,0,6,True,80.0,test,coverage_shortfall_rank,20
+Nigeria,2022,1,7,True,77.0,test,coverage_shortfall_rank,20
+Cameroon,2022,1,8,True,72.0,test,coverage_shortfall_rank,20
+Congo,2022,1,9,True,69.0,test,coverage_shortfall_rank,20
+Mali,2022,0,10,True,67.0,test,coverage_shortfall_rank,20
+Liberia,2022,1,11,True,65.0,test,coverage_shortfall_rank,20
+Afghanistan,2022,1,12,True,63.0,test,coverage_shortfall_rank,20
+Haiti,2022,0,13,True,63.0,test,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2022,0,14,True,63.0,test,coverage_shortfall_rank,20
+Mozambique,2022,1,15,True,62.0,test,coverage_shortfall_rank,20
+Yemen,2022,1,16,True,59.0,test,coverage_shortfall_rank,20
+Myanmar,2022,0,17,True,58.0,test,coverage_shortfall_rank,20
+Suriname,2022,0,18,True,57.0,test,coverage_shortfall_rank,20
+Brazil,2022,0,19,True,54.0,test,coverage_shortfall_rank,20
+Samoa,2022,0,20,True,50.0,test,coverage_shortfall_rank,20
+Ethiopia,2022,1,21,True,48.0,test,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2022,0,22,True,48.0,test,coverage_shortfall_rank,20
+Togo,2022,1,23,True,48.0,test,coverage_shortfall_rank,20
+Philippines,2022,0,24,True,45.0,test,coverage_shortfall_rank,20
+Namibia,2022,1,25,True,44.0,test,coverage_shortfall_rank,20
+United Republic of Tanzania,2022,1,28,False,40.0,test,coverage_shortfall_rank,20
+Senegal,2022,1,30,False,36.0,test,coverage_shortfall_rank,20
+Syrian Arab Republic,2022,1,31,False,36.0,test,coverage_shortfall_rank,20
+Zambia,2022,1,37,False,31.0,test,coverage_shortfall_rank,20
+Kenya,2022,1,40,False,29.0,test,coverage_shortfall_rank,20
+Zimbabwe,2022,1,45,False,24.0,test,coverage_shortfall_rank,20
+Pakistan,2022,1,48,False,21.0,test,coverage_shortfall_rank,20
+Tajikistan,2022,1,49,False,21.0,test,coverage_shortfall_rank,20
+India,2022,1,54,False,18.0,test,coverage_shortfall_rank,20
+South Africa,2022,1,56,False,18.0,test,coverage_shortfall_rank,20
+Ghana,2022,1,60,False,17.0,test,coverage_shortfall_rank,20
+Eritrea,2022,1,64,False,15.0,test,coverage_shortfall_rank,20
+Gabon,2022,1,119,False,-inf,test,coverage_shortfall_rank,20
+Chad,2023,1,1,True,98.0,test,coverage_shortfall_rank,20
+Guinea,2023,0,2,True,97.0,test,coverage_shortfall_rank,20
+Somalia,2023,0,3,True,94.0,test,coverage_shortfall_rank,20
+Equatorial Guinea,2023,1,4,True,87.0,test,coverage_shortfall_rank,20
+Côte d'Ivoire,2023,0,5,True,85.0,test,coverage_shortfall_rank,20
+Papua New Guinea,2023,0,6,True,75.0,test,coverage_shortfall_rank,20
+Nigeria,2023,0,7,True,70.0,test,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2023,0,8,True,70.0,test,coverage_shortfall_rank,20
+Montenegro,2023,0,9,True,67.0,test,coverage_shortfall_rank,20
+Congo,2023,1,10,True,66.0,test,coverage_shortfall_rank,20
+Cameroon,2023,1,11,True,64.0,test,coverage_shortfall_rank,20
+Mali,2023,0,12,True,64.0,test,coverage_shortfall_rank,20
+Mozambique,2023,0,13,True,62.0,test,coverage_shortfall_rank,20
+Afghanistan,2023,0,14,True,58.0,test,coverage_shortfall_rank,20
+Niger,2023,0,15,True,58.0,test,coverage_shortfall_rank,20
+Yemen,2023,1,16,True,58.0,test,coverage_shortfall_rank,20
+Samoa,2023,0,17,True,55.0,test,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2023,0,18,True,51.0,test,coverage_shortfall_rank,20
+Syrian Arab Republic,2023,1,19,True,51.0,test,coverage_shortfall_rank,20
+Uganda,2023,0,20,True,51.0,test,coverage_shortfall_rank,20
+Suriname,2023,0,21,True,49.0,test,coverage_shortfall_rank,20
+Paraguay,2023,0,22,True,47.0,test,coverage_shortfall_rank,20
+Peru,2023,0,23,True,46.0,test,coverage_shortfall_rank,20
+Brazil,2023,0,24,True,42.0,test,coverage_shortfall_rank,20
+Liberia,2023,1,25,True,41.0,test,coverage_shortfall_rank,20
+Togo,2023,1,26,False,41.0,test,coverage_shortfall_rank,20
+Malawi,2023,1,27,False,40.0,test,coverage_shortfall_rank,20
+Ethiopia,2023,1,28,False,39.0,test,coverage_shortfall_rank,20
+Kazakhstan,2023,1,30,False,36.0,test,coverage_shortfall_rank,20
+Philippines,2023,1,32,False,36.0,test,coverage_shortfall_rank,20
+Senegal,2023,1,36,False,31.0,test,coverage_shortfall_rank,20
+Zambia,2023,1,39,False,30.0,test,coverage_shortfall_rank,20
+Comoros,2023,1,40,False,29.0,test,coverage_shortfall_rank,20
+Romania,2023,1,43,False,29.0,test,coverage_shortfall_rank,20
+United Republic of Tanzania,2023,1,45,False,26.0,test,coverage_shortfall_rank,20
+Botswana,2023,1,48,False,23.0,test,coverage_shortfall_rank,20
+Zimbabwe,2023,1,49,False,23.0,test,coverage_shortfall_rank,20
+Georgia,2023,1,50,False,22.0,test,coverage_shortfall_rank,20
+Namibia,2023,1,52,False,21.0,test,coverage_shortfall_rank,20
+Pakistan,2023,1,53,False,21.0,test,coverage_shortfall_rank,20
+Belgium,2023,1,59,False,17.0,test,coverage_shortfall_rank,20
+Ghana,2023,1,64,False,16.0,test,coverage_shortfall_rank,20
+Burundi,2023,1,65,False,15.0,test,coverage_shortfall_rank,20
+Eritrea,2023,1,66,False,15.0,test,coverage_shortfall_rank,20
+South Africa,2023,1,71,False,14.0,test,coverage_shortfall_rank,20
+Nepal,2023,1,74,False,13.0,test,coverage_shortfall_rank,20
+United Kingdom of Great Britain and Northern Ireland,2023,1,75,False,13.0,test,coverage_shortfall_rank,20
+India,2023,1,77,False,10.0,test,coverage_shortfall_rank,20
+Rwanda,2023,1,80,False,9.0,test,coverage_shortfall_rank,20
+United Arab Emirates,2023,1,82,False,9.0,test,coverage_shortfall_rank,20
+Armenia,2023,1,89,False,6.0,test,coverage_shortfall_rank,20
+Malaysia,2023,1,98,False,4.0,test,coverage_shortfall_rank,20
+Russian Federation,2023,1,102,False,3.0,test,coverage_shortfall_rank,20
+Belarus,2023,1,103,False,2.0,test,coverage_shortfall_rank,20
+Iran (Islamic Republic of),2023,1,104,False,2.0,test,coverage_shortfall_rank,20
+Maldives,2023,1,105,False,2.0,test,coverage_shortfall_rank,20
+Qatar,2023,1,112,False,1.0,test,coverage_shortfall_rank,20
+Uzbekistan,2023,1,113,False,1.0,test,coverage_shortfall_rank,20
+Central African Republic,2023,1,116,False,-inf,test,coverage_shortfall_rank,20
+Democratic Republic of the Congo,2023,1,118,False,-inf,test,coverage_shortfall_rank,20
+Gabon,2023,1,120,False,-inf,test,coverage_shortfall_rank,20
+Mauritania,2023,1,121,False,-inf,test,coverage_shortfall_rank,20
+Democratic Republic of the Congo,2024,0,1,True,82.0,test,coverage_shortfall_rank,20
+Somalia,2024,0,2,True,82.0,test,coverage_shortfall_rank,20
+Uganda,2024,1,3,True,79.0,test,coverage_shortfall_rank,20
+Mauritania,2024,1,4,True,76.0,test,coverage_shortfall_rank,20
+Montenegro,2024,1,5,True,76.0,test,coverage_shortfall_rank,20
+Guinea,2024,0,6,True,74.0,test,coverage_shortfall_rank,20
+Equatorial Guinea,2024,1,7,True,72.0,test,coverage_shortfall_rank,20
+Côte d'Ivoire,2024,0,8,True,68.0,test,coverage_shortfall_rank,20
+Nigeria,2024,0,9,True,67.0,test,coverage_shortfall_rank,20
+Congo,2024,0,10,True,66.0,test,coverage_shortfall_rank,20
+Chad,2024,1,11,True,65.0,test,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2024,0,12,True,61.0,test,coverage_shortfall_rank,20
+Yemen,2024,0,13,True,61.0,test,coverage_shortfall_rank,20
+Mali,2024,0,14,True,59.0,test,coverage_shortfall_rank,20
+Papua New Guinea,2024,0,15,True,59.0,test,coverage_shortfall_rank,20
+Afghanistan,2024,1,16,True,58.0,test,coverage_shortfall_rank,20
+Mozambique,2024,0,17,True,56.0,test,coverage_shortfall_rank,20
+Cameroon,2024,0,18,True,55.0,test,coverage_shortfall_rank,20
+Suriname,2024,0,19,True,48.0,test,coverage_shortfall_rank,20
+Bahamas,2024,0,20,True,47.0,test,coverage_shortfall_rank,20
+Paraguay,2024,0,21,True,43.0,test,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2024,0,22,True,41.0,test,coverage_shortfall_rank,20
+Liberia,2024,0,23,True,40.0,test,coverage_shortfall_rank,20
+Togo,2024,0,24,True,40.0,test,coverage_shortfall_rank,20
+Ethiopia,2024,1,25,True,38.0,test,coverage_shortfall_rank,20
+Namibia,2024,0,26,True,38.0,test,coverage_shortfall_rank,20
+Romania,2024,1,27,False,38.0,test,coverage_shortfall_rank,20
+Cambodia,2024,1,28,False,36.0,test,coverage_shortfall_rank,20
+Malawi,2024,1,31,False,35.0,test,coverage_shortfall_rank,20
+Kazakhstan,2024,1,34,False,33.0,test,coverage_shortfall_rank,20
+Philippines,2024,1,37,False,31.0,test,coverage_shortfall_rank,20
+Comoros,2024,1,39,False,30.0,test,coverage_shortfall_rank,20
+Poland,2024,1,55,False,21.0,test,coverage_shortfall_rank,20
+San Marino,2024,1,56,False,21.0,test,coverage_shortfall_rank,20
+Burundi,2024,1,57,False,20.0,test,coverage_shortfall_rank,20
+Cyprus,2024,1,58,False,20.0,test,coverage_shortfall_rank,20
+Pakistan,2024,1,59,False,20.0,test,coverage_shortfall_rank,20
+South Africa,2024,1,60,False,20.0,test,coverage_shortfall_rank,20
+Belgium,2024,1,62,False,18.0,test,coverage_shortfall_rank,20
+Ghana,2024,1,63,False,18.0,test,coverage_shortfall_rank,20
+Viet Nam,2024,1,64,False,18.0,test,coverage_shortfall_rank,20
+Iraq,2024,1,66,False,17.0,test,coverage_shortfall_rank,20
+Malta,2024,1,69,False,16.0,test,coverage_shortfall_rank,20
+Italy,2024,1,71,False,15.0,test,coverage_shortfall_rank,20
+United Kingdom of Great Britain and Northern Ireland,2024,1,72,False,15.0,test,coverage_shortfall_rank,20
+Georgia,2024,1,74,False,14.0,test,coverage_shortfall_rank,20
+Lithuania,2024,1,75,False,14.0,test,coverage_shortfall_rank,20
+Ukraine,2024,1,77,False,13.0,test,coverage_shortfall_rank,20
+Iceland,2024,1,80,False,11.0,test,coverage_shortfall_rank,20
+Seychelles,2024,1,83,False,11.0,test,coverage_shortfall_rank,20
+Slovenia,2024,1,84,False,11.0,test,coverage_shortfall_rank,20
+Germany,2024,1,88,False,9.0,test,coverage_shortfall_rank,20
+France,2024,1,96,False,7.0,test,coverage_shortfall_rank,20
+United Arab Emirates,2024,1,101,False,6.0,test,coverage_shortfall_rank,20
+Belarus,2024,1,102,False,5.0,test,coverage_shortfall_rank,20
+Malaysia,2024,1,105,False,5.0,test,coverage_shortfall_rank,20
+Russian Federation,2024,1,107,False,5.0,test,coverage_shortfall_rank,20
+Armenia,2024,1,109,False,4.0,test,coverage_shortfall_rank,20
+Qatar,2024,1,118,False,1.0,test,coverage_shortfall_rank,20
+Uzbekistan,2024,1,120,False,1.0,test,coverage_shortfall_rank,20
+Bermuda,2024,1,121,False,-inf,test,coverage_shortfall_rank,20
+Montenegro,2025,1,1,True,77.0,test,coverage_shortfall_rank,20
+Papua New Guinea,2025,0,2,True,74.0,test,coverage_shortfall_rank,20
+Equatorial Guinea,2025,0,3,True,69.0,test,coverage_shortfall_rank,20
+Somalia,2025,0,4,True,68.0,test,coverage_shortfall_rank,20
+Nigeria,2025,0,5,True,65.0,test,coverage_shortfall_rank,20
+Sudan,2025,1,6,True,64.0,test,coverage_shortfall_rank,20
+Yemen,2025,0,7,True,60.0,test,coverage_shortfall_rank,20
+Chad,2025,0,8,True,57.0,test,coverage_shortfall_rank,20
+Afghanistan,2025,1,9,True,56.0,test,coverage_shortfall_rank,20
+Mozambique,2025,0,10,True,56.0,test,coverage_shortfall_rank,20
+Guinea,2025,0,11,True,55.0,test,coverage_shortfall_rank,20
+Mali,2025,0,12,True,53.0,test,coverage_shortfall_rank,20
+Côte d'Ivoire,2025,0,13,True,52.0,test,coverage_shortfall_rank,20
+Cameroon,2025,0,14,True,51.0,test,coverage_shortfall_rank,20
+Congo,2025,0,15,True,50.0,test,coverage_shortfall_rank,20
+Uganda,2025,1,16,True,50.0,test,coverage_shortfall_rank,20
+Democratic Republic of the Congo,2025,0,17,True,49.0,test,coverage_shortfall_rank,20
+Djibouti,2025,0,18,True,49.0,test,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2025,0,19,True,49.0,test,coverage_shortfall_rank,20
+Suriname,2025,0,20,True,48.0,test,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2025,1,21,True,46.0,test,coverage_shortfall_rank,20
+Togo,2025,0,22,True,42.0,test,coverage_shortfall_rank,20
+Kazakhstan,2025,0,23,True,41.0,test,coverage_shortfall_rank,20
+Mauritania,2025,0,24,True,41.0,test,coverage_shortfall_rank,20
+Bahamas,2025,0,25,True,40.0,test,coverage_shortfall_rank,20
+Liberia,2025,0,26,True,40.0,test,coverage_shortfall_rank,20
+Samoa,2025,0,27,True,40.0,test,coverage_shortfall_rank,20
+Ethiopia,2025,0,28,True,36.0,test,coverage_shortfall_rank,20
+Namibia,2025,1,29,False,34.0,test,coverage_shortfall_rank,20
+Bosnia and Herzegovina,2025,1,35,False,31.0,test,coverage_shortfall_rank,20
+Cambodia,2025,1,36,False,31.0,test,coverage_shortfall_rank,20
+Malawi,2025,1,37,False,31.0,test,coverage_shortfall_rank,20
+Mexico,2025,1,38,False,31.0,test,coverage_shortfall_rank,20
+Paraguay,2025,1,39,False,31.0,test,coverage_shortfall_rank,20
+Estonia,2025,1,46,False,26.0,test,coverage_shortfall_rank,20
+South Africa,2025,1,51,False,24.0,test,coverage_shortfall_rank,20
+Niger,2025,1,53,False,23.0,test,coverage_shortfall_rank,20
+Canada,2025,1,55,False,21.0,test,coverage_shortfall_rank,20
+Tajikistan,2025,1,58,False,21.0,test,coverage_shortfall_rank,20
+Georgia,2025,1,61,False,19.0,test,coverage_shortfall_rank,20
+Belgium,2025,1,64,False,18.0,test,coverage_shortfall_rank,20
+Belize,2025,1,68,False,17.0,test,coverage_shortfall_rank,20
+Ukraine,2025,1,70,False,17.0,test,coverage_shortfall_rank,20
+Italy,2025,1,71,False,16.0,test,coverage_shortfall_rank,20
+United Kingdom of Great Britain and Northern Ireland,2025,1,74,False,15.0,test,coverage_shortfall_rank,20
+Thailand,2025,1,79,False,13.0,test,coverage_shortfall_rank,20
+Australia,2025,1,85,False,8.0,test,coverage_shortfall_rank,20
+Spain,2025,1,89,False,8.0,test,coverage_shortfall_rank,20
+France,2025,1,94,False,7.0,test,coverage_shortfall_rank,20
+Rwanda,2025,1,99,False,7.0,test,coverage_shortfall_rank,20
+Mongolia,2025,1,107,False,5.0,test,coverage_shortfall_rank,20
+Viet Nam,2025,1,110,False,5.0,test,coverage_shortfall_rank,20
+Cyprus,2025,1,117,False,3.0,test,coverage_shortfall_rank,20
+Iran (Islamic Republic of),2025,1,125,False,1.0,test,coverage_shortfall_rank,20
+Central African Republic,2025,1,132,False,-inf,test,coverage_shortfall_rank,20
+Montenegro,2022,0,1,True,0.4086073582522732,test,vaccination_only,10
+Central African Republic,2022,0,2,True,0.3457743135956244,test,vaccination_only,10
+Papua New Guinea,2022,0,3,True,0.3332472633744552,test,vaccination_only,10
+Myanmar,2022,0,4,True,0.3023914082774226,test,vaccination_only,10
+Nigeria,2022,1,5,True,0.2859947727582936,test,vaccination_only,10
+Guinea,2022,0,6,True,0.2830657342096401,test,vaccination_only,10
+Yemen,2022,1,7,True,0.2775658989690758,test,vaccination_only,10
+Afghanistan,2022,1,8,True,0.2771287652993565,test,vaccination_only,10
+Chad,2022,0,9,True,0.2761549015775193,test,vaccination_only,10
+Democratic Republic of the Congo,2022,0,10,True,0.2693494031700076,test,vaccination_only,10
+Suriname,2022,0,11,True,0.2543464194349449,test,vaccination_only,10
+Liberia,2022,1,12,True,0.2535200244983872,test,vaccination_only,10
+Somalia,2022,1,13,True,0.25023221659725114,test,vaccination_only,10
+Mozambique,2022,1,17,False,0.24105372927435767,test,vaccination_only,10
+Gabon,2022,1,18,False,0.24006503192208645,test,vaccination_only,10
+Côte d'Ivoire,2022,1,20,False,0.2373821763359389,test,vaccination_only,10
+Ethiopia,2022,1,22,False,0.2331260348368997,test,vaccination_only,10
+Cameroon,2022,1,23,False,0.23079469007454786,test,vaccination_only,10
+Congo,2022,1,26,False,0.22206733722613967,test,vaccination_only,10
+Syrian Arab Republic,2022,1,30,False,0.21926130681598113,test,vaccination_only,10
+Tajikistan,2022,1,37,False,0.19257728700650728,test,vaccination_only,10
+United Republic of Tanzania,2022,1,39,False,0.19097154592205645,test,vaccination_only,10
+Togo,2022,1,40,False,0.19029851121780597,test,vaccination_only,10
+Pakistan,2022,1,41,False,0.18992385732871395,test,vaccination_only,10
+South Africa,2022,1,49,False,0.17482635476117667,test,vaccination_only,10
+Zimbabwe,2022,1,54,False,0.17189909158269828,test,vaccination_only,10
+Kenya,2022,1,55,False,0.17151135300707418,test,vaccination_only,10
+Senegal,2022,1,56,False,0.17096968458855666,test,vaccination_only,10
+India,2022,1,61,False,0.16993174417572818,test,vaccination_only,10
+Zambia,2022,1,71,False,0.16653938160567652,test,vaccination_only,10
+Namibia,2022,1,79,False,0.1632014261034348,test,vaccination_only,10
+Eritrea,2022,1,83,False,0.16069092349398134,test,vaccination_only,10
+Ghana,2022,1,89,False,0.15824534025679368,test,vaccination_only,10
+Central African Republic,2023,1,1,True,0.35357635486065625,test,vaccination_only,10
+Montenegro,2023,0,2,True,0.34706596534919454,test,vaccination_only,10
+Papua New Guinea,2023,0,3,True,0.3113662645021276,test,vaccination_only,10
+Gabon,2023,1,4,True,0.2795972530777184,test,vaccination_only,10
+Nigeria,2023,0,5,True,0.2763648037176599,test,vaccination_only,10
+Syrian Arab Republic,2023,1,6,True,0.27500788533616477,test,vaccination_only,10
+Guinea,2023,0,7,True,0.2734303207189318,test,vaccination_only,10
+Venezuela (Bolivarian Republic of),2023,0,8,True,0.27294717108714683,test,vaccination_only,10
+Yemen,2023,1,9,True,0.2708463025397058,test,vaccination_only,10
+Paraguay,2023,0,10,True,0.2686484833947254,test,vaccination_only,10
+Democratic Republic of the Congo,2023,1,11,True,0.26598663707455306,test,vaccination_only,10
+Chad,2023,1,12,True,0.2632201238617693,test,vaccination_only,10
+Côte d'Ivoire,2023,0,13,True,0.257974925058226,test,vaccination_only,10
+Equatorial Guinea,2023,1,15,False,0.2448571271186145,test,vaccination_only,10
+Congo,2023,1,19,False,0.23137599277502394,test,vaccination_only,10
+Ethiopia,2023,1,20,False,0.22791068953469945,test,vaccination_only,10
+Cameroon,2023,1,21,False,0.22253866861090663,test,vaccination_only,10
+Kazakhstan,2023,1,22,False,0.2222121778908221,test,vaccination_only,10
+Comoros,2023,1,25,False,0.21698650810266698,test,vaccination_only,10
+Philippines,2023,1,31,False,0.20215047033206276,test,vaccination_only,10
+Liberia,2023,1,32,False,0.19355099132009462,test,vaccination_only,10
+Pakistan,2023,1,39,False,0.18729850705083856,test,vaccination_only,10
+Malawi,2023,1,40,False,0.1857266567151926,test,vaccination_only,10
+Togo,2023,1,41,False,0.1856442104917737,test,vaccination_only,10
+Romania,2023,1,43,False,0.18404520960122522,test,vaccination_only,10
+Mauritania,2023,1,45,False,0.18310846835400335,test,vaccination_only,10
+United Republic of Tanzania,2023,1,47,False,0.18172603068374354,test,vaccination_only,10
+South Africa,2023,1,49,False,0.17771307087226726,test,vaccination_only,10
+Senegal,2023,1,55,False,0.1738061328372218,test,vaccination_only,10
+Zambia,2023,1,58,False,0.171433888568591,test,vaccination_only,10
+Burundi,2023,1,59,False,0.17016260208441789,test,vaccination_only,10
+Namibia,2023,1,60,False,0.1697011354199594,test,vaccination_only,10
+Nepal,2023,1,61,False,0.1679061516657128,test,vaccination_only,10
+United Kingdom of Great Britain and Northern Ireland,2023,1,62,False,0.1679061516657128,test,vaccination_only,10
+Georgia,2023,1,63,False,0.16722165063903333,test,vaccination_only,10
+Botswana,2023,1,64,False,0.1671457327962845,test,vaccination_only,10
+Zimbabwe,2023,1,65,False,0.1671457327962845,test,vaccination_only,10
+Eritrea,2023,1,79,False,0.16069092349398134,test,vaccination_only,10
+Armenia,2023,1,85,False,0.15676479210448538,test,vaccination_only,10
+India,2023,1,88,False,0.15647669902788608,test,vaccination_only,10
+Ghana,2023,1,89,False,0.15604536815069547,test,vaccination_only,10
+Malaysia,2023,1,91,False,0.1546528939684805,test,vaccination_only,10
+Belgium,2023,1,100,False,0.15372846495534329,test,vaccination_only,10
+Russian Federation,2023,1,103,False,0.15249381727597544,test,vaccination_only,10
+Belarus,2023,1,106,False,0.1503595216539622,test,vaccination_only,10
+Maldives,2023,1,107,False,0.1503595216539622,test,vaccination_only,10
+United Arab Emirates,2023,1,111,False,0.1498725707295187,test,vaccination_only,10
+Qatar,2023,1,116,False,0.14824987225816344,test,vaccination_only,10
+Uzbekistan,2023,1,117,False,0.14824987225816344,test,vaccination_only,10
+Iran (Islamic Republic of),2023,1,118,False,0.14818103493552995,test,vaccination_only,10
+Rwanda,2023,1,121,False,0.14769991274624034,test,vaccination_only,10
+Montenegro,2024,1,1,True,0.38269865696456884,test,vaccination_only,10
+Central African Republic,2024,0,2,True,0.3266354286198204,test,vaccination_only,10
+Yemen,2024,0,3,True,0.2984422116317056,test,vaccination_only,10
+Papua New Guinea,2024,0,4,True,0.2741390400635668,test,vaccination_only,10
+Guinea,2024,0,5,True,0.2725145675106268,test,vaccination_only,10
+Democratic Republic of the Congo,2024,0,6,True,0.27165064792830457,test,vaccination_only,10
+Nigeria,2024,0,7,True,0.26651129559722675,test,vaccination_only,10
+Afghanistan,2024,1,8,True,0.2575094060020129,test,vaccination_only,10
+Equatorial Guinea,2024,1,9,True,0.2432011781559243,test,vaccination_only,10
+Chad,2024,1,10,True,0.237632722268575,test,vaccination_only,10
+Côte d'Ivoire,2024,0,11,True,0.23733650795919026,test,vaccination_only,10
+Somalia,2024,0,12,True,0.23595753975342545,test,vaccination_only,10
+Gabon,2024,0,13,True,0.23386157765001603,test,vaccination_only,10
+Kazakhstan,2024,1,18,False,0.22249502273900326,test,vaccination_only,10
+Comoros,2024,1,20,False,0.21982186197940176,test,vaccination_only,10
+Ethiopia,2024,1,21,False,0.21615389813852723,test,vaccination_only,10
+Romania,2024,1,29,False,0.1965009603127977,test,vaccination_only,10
+Cambodia,2024,1,30,False,0.19397688948688996,test,vaccination_only,10
+South Africa,2024,1,32,False,0.19300155535976754,test,vaccination_only,10
+Philippines,2024,1,36,False,0.189086383243213,test,vaccination_only,10
+Viet Nam,2024,1,37,False,0.1878801845521428,test,vaccination_only,10
+Cyprus,2024,1,38,False,0.1873815189118355,test,vaccination_only,10
+Pakistan,2024,1,42,False,0.18221302053973143,test,vaccination_only,10
+Burundi,2024,1,48,False,0.17715600429014,test,vaccination_only,10
+Lithuania,2024,1,51,False,0.17514121724673345,test,vaccination_only,10
+Malawi,2024,1,55,False,0.17349316568895573,test,vaccination_only,10
+Ghana,2024,1,56,False,0.17236529436188638,test,vaccination_only,10
+San Marino,2024,1,57,False,0.1697011354199594,test,vaccination_only,10
+United Kingdom of Great Britain and Northern Ireland,2024,1,59,False,0.16775384729990334,test,vaccination_only,10
+Iceland,2024,1,62,False,0.16567364926834405,test,vaccination_only,10
+Bermuda,2024,1,63,False,0.16346499915981105,test,vaccination_only,10
+Ukraine,2024,1,67,False,0.16316697546532222,test,vaccination_only,10
+Poland,2024,1,69,False,0.16257224049801128,test,vaccination_only,10
+Seychelles,2024,1,74,False,0.1609852947043572,test,vaccination_only,10
+Uganda,2024,1,78,False,0.16061191315803097,test,vaccination_only,10
+Mauritania,2024,1,83,False,0.15853064970608707,test,vaccination_only,10
+France,2024,1,88,False,0.15669272837842327,test,vaccination_only,10
+Slovenia,2024,1,89,False,0.15640474317210817,test,vaccination_only,10
+Georgia,2024,1,91,False,0.15618903732562298,test,vaccination_only,10
+Italy,2024,1,92,False,0.15611718926886645,test,vaccination_only,10
+Malta,2024,1,93,False,0.15604536815069547,test,vaccination_only,10
+Armenia,2024,1,95,False,0.1546528939684805,test,vaccination_only,10
+Malaysia,2024,1,97,False,0.154581623096435,test,vaccination_only,10
+Germany,2024,1,102,False,0.15429680797726228,test,vaccination_only,10
+Iraq,2024,1,105,False,0.15372846495534329,test,vaccination_only,10
+Belgium,2024,1,106,False,0.15365754266432183,test,vaccination_only,10
+Belarus,2024,1,108,False,0.15235293341411016,test,vaccination_only,10
+Russian Federation,2024,1,109,False,0.15235293341411016,test,vaccination_only,10
+United Arab Emirates,2024,1,113,False,0.15008110473264624,test,vaccination_only,10
+Qatar,2024,1,118,False,0.14824987225816344,test,vaccination_only,10
+Uzbekistan,2024,1,120,False,0.14824987225816344,test,vaccination_only,10
+Montenegro,2025,1,1,True,0.3866301735219117,test,vaccination_only,10
+Central African Republic,2025,1,2,True,0.3191343773653893,test,vaccination_only,10
+Yemen,2025,0,3,True,0.3131226505075616,test,vaccination_only,10
+Papua New Guinea,2025,0,4,True,0.3005542305414048,test,vaccination_only,10
+Sudan,2025,1,5,True,0.2945228161840125,test,vaccination_only,10
+Equatorial Guinea,2025,0,6,True,0.26966343090532197,test,vaccination_only,10
+Lao People's Democratic Republic,2025,1,7,True,0.26539758130311847,test,vaccination_only,10
+Democratic Republic of the Congo,2025,0,8,True,0.2650787913875279,test,vaccination_only,10
+Gabon,2025,0,9,True,0.2626507623695574,test,vaccination_only,10
+Nigeria,2025,0,10,True,0.256780317028493,test,vaccination_only,10
+Afghanistan,2025,1,11,True,0.25120913925313815,test,vaccination_only,10
+Guinea,2025,0,12,True,0.2480976808263506,test,vaccination_only,10
+Kazakhstan,2025,0,13,True,0.24315474723730934,test,vaccination_only,10
+Somalia,2025,0,14,True,0.2342452809021935,test,vaccination_only,10
+Bosnia and Herzegovina,2025,1,19,False,0.22287254882415564,test,vaccination_only,10
+South Africa,2025,1,31,False,0.20373805506637885,test,vaccination_only,10
+Namibia,2025,1,33,False,0.19414744789295704,test,vaccination_only,10
+Tajikistan,2025,1,34,False,0.19257728700650728,test,vaccination_only,10
+Mexico,2025,1,37,False,0.19173088182759146,test,vaccination_only,10
+Niger,2025,1,38,False,0.18975613564186364,test,vaccination_only,10
+Estonia,2025,1,44,False,0.1842909842133709,test,vaccination_only,10
+Belize,2025,1,47,False,0.18245689555316255,test,vaccination_only,10
+Cambodia,2025,1,51,False,0.17878830240803215,test,vaccination_only,10
+United Kingdom of Great Britain and Northern Ireland,2025,1,59,False,0.17016260208441789,test,vaccination_only,10
+Malawi,2025,1,60,False,0.16893423778062738,test,vaccination_only,10
+Georgia,2025,1,61,False,0.16744956951517156,test,vaccination_only,10
+Paraguay,2025,1,62,False,0.16653938160567652,test,vaccination_only,10
+Ukraine,2025,1,63,False,0.1652219324709916,test,vaccination_only,10
+Australia,2025,1,65,False,0.16353957348205397,test,vaccination_only,10
+Canada,2025,1,71,False,0.16257224049801128,test,vaccination_only,10
+Thailand,2025,1,73,False,0.16083805466104642,test,vaccination_only,10
+Uganda,2025,1,76,False,0.16043096556786327,test,vaccination_only,10
+France,2025,1,85,False,0.15669272837842327,test,vaccination_only,10
+Italy,2025,1,90,False,0.15604536815069547,test,vaccination_only,10
+Mongolia,2025,1,94,False,0.154581623096435,test,vaccination_only,10
+Belgium,2025,1,101,False,0.15365754266432183,test,vaccination_only,10
+Rwanda,2025,1,111,False,0.15221215633371182,test,vaccination_only,10
+Spain,2025,1,113,False,0.15214180782477085,test,vaccination_only,10
+Viet Nam,2025,1,120,False,0.15015066914072356,test,vaccination_only,10
+Iran (Islamic Republic of),2025,1,127,False,0.14824987225816344,test,vaccination_only,10
+Cyprus,2025,1,133,False,0.14811222401816768,test,vaccination_only,10
+Montenegro,2022,0,1,True,0.4086073582522732,test,vaccination_only,20
+Central African Republic,2022,0,2,True,0.3457743135956244,test,vaccination_only,20
+Papua New Guinea,2022,0,3,True,0.3332472633744552,test,vaccination_only,20
+Myanmar,2022,0,4,True,0.3023914082774226,test,vaccination_only,20
+Nigeria,2022,1,5,True,0.2859947727582936,test,vaccination_only,20
+Guinea,2022,0,6,True,0.2830657342096401,test,vaccination_only,20
+Yemen,2022,1,7,True,0.2775658989690758,test,vaccination_only,20
+Afghanistan,2022,1,8,True,0.2771287652993565,test,vaccination_only,20
+Chad,2022,0,9,True,0.2761549015775193,test,vaccination_only,20
+Democratic Republic of the Congo,2022,0,10,True,0.2693494031700076,test,vaccination_only,20
+Suriname,2022,0,11,True,0.2543464194349449,test,vaccination_only,20
+Liberia,2022,1,12,True,0.2535200244983872,test,vaccination_only,20
+Somalia,2022,1,13,True,0.25023221659725114,test,vaccination_only,20
+Equatorial Guinea,2022,0,14,True,0.2484500555430771,test,vaccination_only,20
+Lao People's Democratic Republic,2022,0,15,True,0.24245302934676152,test,vaccination_only,20
+Samoa,2022,0,16,True,0.24225279161901025,test,vaccination_only,20
+Mozambique,2022,1,17,True,0.24105372927435767,test,vaccination_only,20
+Gabon,2022,1,18,True,0.24006503192208645,test,vaccination_only,20
+Haiti,2022,0,19,True,0.23783033979190057,test,vaccination_only,20
+Côte d'Ivoire,2022,1,20,True,0.2373821763359389,test,vaccination_only,20
+Philippines,2022,0,21,True,0.23650228956253738,test,vaccination_only,20
+Ethiopia,2022,1,22,True,0.2331260348368997,test,vaccination_only,20
+Cameroon,2022,1,23,True,0.23079469007454786,test,vaccination_only,20
+Paraguay,2022,0,24,True,0.22547684535174886,test,vaccination_only,20
+Venezuela (Bolivarian Republic of),2022,0,25,True,0.2226330205247516,test,vaccination_only,20
+Congo,2022,1,26,False,0.22206733722613967,test,vaccination_only,20
+Syrian Arab Republic,2022,1,30,False,0.21926130681598113,test,vaccination_only,20
+Tajikistan,2022,1,37,False,0.19257728700650728,test,vaccination_only,20
+United Republic of Tanzania,2022,1,39,False,0.19097154592205645,test,vaccination_only,20
+Togo,2022,1,40,False,0.19029851121780597,test,vaccination_only,20
+Pakistan,2022,1,41,False,0.18992385732871395,test,vaccination_only,20
+South Africa,2022,1,49,False,0.17482635476117667,test,vaccination_only,20
+Zimbabwe,2022,1,54,False,0.17189909158269828,test,vaccination_only,20
+Kenya,2022,1,55,False,0.17151135300707418,test,vaccination_only,20
+Senegal,2022,1,56,False,0.17096968458855666,test,vaccination_only,20
+India,2022,1,61,False,0.16993174417572818,test,vaccination_only,20
+Zambia,2022,1,71,False,0.16653938160567652,test,vaccination_only,20
+Namibia,2022,1,79,False,0.1632014261034348,test,vaccination_only,20
+Eritrea,2022,1,83,False,0.16069092349398134,test,vaccination_only,20
+Ghana,2022,1,89,False,0.15824534025679368,test,vaccination_only,20
+Central African Republic,2023,1,1,True,0.35357635486065625,test,vaccination_only,20
+Montenegro,2023,0,2,True,0.34706596534919454,test,vaccination_only,20
+Papua New Guinea,2023,0,3,True,0.3113662645021276,test,vaccination_only,20
+Gabon,2023,1,4,True,0.2795972530777184,test,vaccination_only,20
+Nigeria,2023,0,5,True,0.2763648037176599,test,vaccination_only,20
+Syrian Arab Republic,2023,1,6,True,0.27500788533616477,test,vaccination_only,20
+Guinea,2023,0,7,True,0.2734303207189318,test,vaccination_only,20
+Venezuela (Bolivarian Republic of),2023,0,8,True,0.27294717108714683,test,vaccination_only,20
+Yemen,2023,1,9,True,0.2708463025397058,test,vaccination_only,20
+Paraguay,2023,0,10,True,0.2686484833947254,test,vaccination_only,20
+Democratic Republic of the Congo,2023,1,11,True,0.26598663707455306,test,vaccination_only,20
+Chad,2023,1,12,True,0.2632201238617693,test,vaccination_only,20
+Côte d'Ivoire,2023,0,13,True,0.257974925058226,test,vaccination_only,20
+Afghanistan,2023,0,14,True,0.25424302306519636,test,vaccination_only,20
+Equatorial Guinea,2023,1,15,True,0.2448571271186145,test,vaccination_only,20
+Mozambique,2023,0,16,True,0.23792919094100598,test,vaccination_only,20
+Lao People's Democratic Republic,2023,0,17,True,0.23283372252034742,test,vaccination_only,20
+Niger,2023,0,18,True,0.23215265369813504,test,vaccination_only,20
+Congo,2023,1,19,True,0.23137599277502394,test,vaccination_only,20
+Ethiopia,2023,1,20,True,0.22791068953469945,test,vaccination_only,20
+Cameroon,2023,1,21,True,0.22253866861090663,test,vaccination_only,20
+Kazakhstan,2023,1,22,True,0.2222121778908221,test,vaccination_only,20
+Mali,2023,0,23,True,0.21958468593182787,test,vaccination_only,20
+North Macedonia,2023,0,24,True,0.21865867539018186,test,vaccination_only,20
+Comoros,2023,1,25,True,0.21698650810266698,test,vaccination_only,20
+Philippines,2023,1,31,False,0.20215047033206276,test,vaccination_only,20
+Liberia,2023,1,32,False,0.19355099132009462,test,vaccination_only,20
+Pakistan,2023,1,39,False,0.18729850705083856,test,vaccination_only,20
+Malawi,2023,1,40,False,0.1857266567151926,test,vaccination_only,20
+Togo,2023,1,41,False,0.1856442104917737,test,vaccination_only,20
+Romania,2023,1,43,False,0.18404520960122522,test,vaccination_only,20
+Mauritania,2023,1,45,False,0.18310846835400335,test,vaccination_only,20
+United Republic of Tanzania,2023,1,47,False,0.18172603068374354,test,vaccination_only,20
+South Africa,2023,1,49,False,0.17771307087226726,test,vaccination_only,20
+Senegal,2023,1,55,False,0.1738061328372218,test,vaccination_only,20
+Zambia,2023,1,58,False,0.171433888568591,test,vaccination_only,20
+Burundi,2023,1,59,False,0.17016260208441789,test,vaccination_only,20
+Namibia,2023,1,60,False,0.1697011354199594,test,vaccination_only,20
+Nepal,2023,1,61,False,0.1679061516657128,test,vaccination_only,20
+United Kingdom of Great Britain and Northern Ireland,2023,1,62,False,0.1679061516657128,test,vaccination_only,20
+Georgia,2023,1,63,False,0.16722165063903333,test,vaccination_only,20
+Botswana,2023,1,64,False,0.1671457327962845,test,vaccination_only,20
+Zimbabwe,2023,1,65,False,0.1671457327962845,test,vaccination_only,20
+Eritrea,2023,1,79,False,0.16069092349398134,test,vaccination_only,20
+Armenia,2023,1,85,False,0.15676479210448538,test,vaccination_only,20
+India,2023,1,88,False,0.15647669902788608,test,vaccination_only,20
+Ghana,2023,1,89,False,0.15604536815069547,test,vaccination_only,20
+Malaysia,2023,1,91,False,0.1546528939684805,test,vaccination_only,20
+Belgium,2023,1,100,False,0.15372846495534329,test,vaccination_only,20
+Russian Federation,2023,1,103,False,0.15249381727597544,test,vaccination_only,20
+Belarus,2023,1,106,False,0.1503595216539622,test,vaccination_only,20
+Maldives,2023,1,107,False,0.1503595216539622,test,vaccination_only,20
+United Arab Emirates,2023,1,111,False,0.1498725707295187,test,vaccination_only,20
+Qatar,2023,1,116,False,0.14824987225816344,test,vaccination_only,20
+Uzbekistan,2023,1,117,False,0.14824987225816344,test,vaccination_only,20
+Iran (Islamic Republic of),2023,1,118,False,0.14818103493552995,test,vaccination_only,20
+Rwanda,2023,1,121,False,0.14769991274624034,test,vaccination_only,20
+Montenegro,2024,1,1,True,0.38269865696456884,test,vaccination_only,20
+Central African Republic,2024,0,2,True,0.3266354286198204,test,vaccination_only,20
+Yemen,2024,0,3,True,0.2984422116317056,test,vaccination_only,20
+Papua New Guinea,2024,0,4,True,0.2741390400635668,test,vaccination_only,20
+Guinea,2024,0,5,True,0.2725145675106268,test,vaccination_only,20
+Democratic Republic of the Congo,2024,0,6,True,0.27165064792830457,test,vaccination_only,20
+Nigeria,2024,0,7,True,0.26651129559722675,test,vaccination_only,20
+Afghanistan,2024,1,8,True,0.2575094060020129,test,vaccination_only,20
+Equatorial Guinea,2024,1,9,True,0.2432011781559243,test,vaccination_only,20
+Chad,2024,1,10,True,0.237632722268575,test,vaccination_only,20
+Côte d'Ivoire,2024,0,11,True,0.23733650795919026,test,vaccination_only,20
+Somalia,2024,0,12,True,0.23595753975342545,test,vaccination_only,20
+Gabon,2024,0,13,True,0.23386157765001603,test,vaccination_only,20
+Mozambique,2024,0,14,True,0.2323471028699698,test,vaccination_only,20
+Congo,2024,0,15,True,0.23137599277502394,test,vaccination_only,20
+Mali,2024,0,16,True,0.2230107136007489,test,vaccination_only,20
+Venezuela (Bolivarian Republic of),2024,0,17,True,0.22282180998080456,test,vaccination_only,20
+Kazakhstan,2024,1,18,True,0.22249502273900326,test,vaccination_only,20
+Lao People's Democratic Republic,2024,0,19,True,0.2217413407813884,test,vaccination_only,20
+Comoros,2024,1,20,True,0.21982186197940176,test,vaccination_only,20
+Ethiopia,2024,1,21,True,0.21615389813852723,test,vaccination_only,20
+Suriname,2024,0,22,True,0.21523149260290925,test,vaccination_only,20
+Cameroon,2024,0,23,True,0.21458751042135318,test,vaccination_only,20
+North Macedonia,2024,0,24,True,0.21276209942476298,test,vaccination_only,20
+Myanmar,2024,0,25,True,0.2107598201517995,test,vaccination_only,20
+Syrian Arab Republic,2024,0,26,True,0.20774083718267963,test,vaccination_only,20
+Romania,2024,1,29,False,0.1965009603127977,test,vaccination_only,20
+Cambodia,2024,1,30,False,0.19397688948688996,test,vaccination_only,20
+South Africa,2024,1,32,False,0.19300155535976754,test,vaccination_only,20
+Philippines,2024,1,36,False,0.189086383243213,test,vaccination_only,20
+Viet Nam,2024,1,37,False,0.1878801845521428,test,vaccination_only,20
+Cyprus,2024,1,38,False,0.1873815189118355,test,vaccination_only,20
+Pakistan,2024,1,42,False,0.18221302053973143,test,vaccination_only,20
+Burundi,2024,1,48,False,0.17715600429014,test,vaccination_only,20
+Lithuania,2024,1,51,False,0.17514121724673345,test,vaccination_only,20
+Malawi,2024,1,55,False,0.17349316568895573,test,vaccination_only,20
+Ghana,2024,1,56,False,0.17236529436188638,test,vaccination_only,20
+San Marino,2024,1,57,False,0.1697011354199594,test,vaccination_only,20
+United Kingdom of Great Britain and Northern Ireland,2024,1,59,False,0.16775384729990334,test,vaccination_only,20
+Iceland,2024,1,62,False,0.16567364926834405,test,vaccination_only,20
+Bermuda,2024,1,63,False,0.16346499915981105,test,vaccination_only,20
+Ukraine,2024,1,67,False,0.16316697546532222,test,vaccination_only,20
+Poland,2024,1,69,False,0.16257224049801128,test,vaccination_only,20
+Seychelles,2024,1,74,False,0.1609852947043572,test,vaccination_only,20
+Uganda,2024,1,78,False,0.16061191315803097,test,vaccination_only,20
+Mauritania,2024,1,83,False,0.15853064970608707,test,vaccination_only,20
+France,2024,1,88,False,0.15669272837842327,test,vaccination_only,20
+Slovenia,2024,1,89,False,0.15640474317210817,test,vaccination_only,20
+Georgia,2024,1,91,False,0.15618903732562298,test,vaccination_only,20
+Italy,2024,1,92,False,0.15611718926886645,test,vaccination_only,20
+Malta,2024,1,93,False,0.15604536815069547,test,vaccination_only,20
+Armenia,2024,1,95,False,0.1546528939684805,test,vaccination_only,20
+Malaysia,2024,1,97,False,0.154581623096435,test,vaccination_only,20
+Germany,2024,1,102,False,0.15429680797726228,test,vaccination_only,20
+Iraq,2024,1,105,False,0.15372846495534329,test,vaccination_only,20
+Belgium,2024,1,106,False,0.15365754266432183,test,vaccination_only,20
+Belarus,2024,1,108,False,0.15235293341411016,test,vaccination_only,20
+Russian Federation,2024,1,109,False,0.15235293341411016,test,vaccination_only,20
+United Arab Emirates,2024,1,113,False,0.15008110473264624,test,vaccination_only,20
+Qatar,2024,1,118,False,0.14824987225816344,test,vaccination_only,20
+Uzbekistan,2024,1,120,False,0.14824987225816344,test,vaccination_only,20
+Montenegro,2025,1,1,True,0.3866301735219117,test,vaccination_only,20
+Central African Republic,2025,1,2,True,0.3191343773653893,test,vaccination_only,20
+Yemen,2025,0,3,True,0.3131226505075616,test,vaccination_only,20
+Papua New Guinea,2025,0,4,True,0.3005542305414048,test,vaccination_only,20
+Sudan,2025,1,5,True,0.2945228161840125,test,vaccination_only,20
+Equatorial Guinea,2025,0,6,True,0.26966343090532197,test,vaccination_only,20
+Lao People's Democratic Republic,2025,1,7,True,0.26539758130311847,test,vaccination_only,20
+Democratic Republic of the Congo,2025,0,8,True,0.2650787913875279,test,vaccination_only,20
+Gabon,2025,0,9,True,0.2626507623695574,test,vaccination_only,20
+Nigeria,2025,0,10,True,0.256780317028493,test,vaccination_only,20
+Afghanistan,2025,1,11,True,0.25120913925313815,test,vaccination_only,20
+Guinea,2025,0,12,True,0.2480976808263506,test,vaccination_only,20
+Kazakhstan,2025,0,13,True,0.24315474723730934,test,vaccination_only,20
+Somalia,2025,0,14,True,0.2342452809021935,test,vaccination_only,20
+Côte d'Ivoire,2025,0,15,True,0.23273634183036462,test,vaccination_only,20
+Mozambique,2025,0,16,True,0.2323471028699698,test,vaccination_only,20
+Romania,2025,0,17,True,0.23162212481362696,test,vaccination_only,20
+Chad,2025,0,18,True,0.22319973137574523,test,vaccination_only,20
+Bosnia and Herzegovina,2025,1,19,True,0.22287254882415564,test,vaccination_only,20
+Comoros,2025,0,20,True,0.21982186197940176,test,vaccination_only,20
+Myanmar,2025,0,21,True,0.2167087141038167,test,vaccination_only,20
+South Sudan,2025,0,22,True,0.21592647298375073,test,vaccination_only,20
+Venezuela (Bolivarian Republic of),2025,0,23,True,0.21513940934463854,test,vaccination_only,20
+Cameroon,2025,0,24,True,0.21495532863048356,test,vaccination_only,20
+Timor-Leste,2025,0,25,True,0.2141776860225814,test,vaccination_only,20
+Ethiopia,2025,0,26,True,0.2134444437706637,test,vaccination_only,20
+North Macedonia,2025,0,27,True,0.21194131161314037,test,vaccination_only,20
+Mali,2025,0,28,True,0.21189238281803152,test,vaccination_only,20
+South Africa,2025,1,31,False,0.20373805506637885,test,vaccination_only,20
+Namibia,2025,1,33,False,0.19414744789295704,test,vaccination_only,20
+Tajikistan,2025,1,34,False,0.19257728700650728,test,vaccination_only,20
+Mexico,2025,1,37,False,0.19173088182759146,test,vaccination_only,20
+Niger,2025,1,38,False,0.18975613564186364,test,vaccination_only,20
+Estonia,2025,1,44,False,0.1842909842133709,test,vaccination_only,20
+Belize,2025,1,47,False,0.18245689555316255,test,vaccination_only,20
+Cambodia,2025,1,51,False,0.17878830240803215,test,vaccination_only,20
+United Kingdom of Great Britain and Northern Ireland,2025,1,59,False,0.17016260208441789,test,vaccination_only,20
+Malawi,2025,1,60,False,0.16893423778062738,test,vaccination_only,20
+Georgia,2025,1,61,False,0.16744956951517156,test,vaccination_only,20
+Paraguay,2025,1,62,False,0.16653938160567652,test,vaccination_only,20
+Ukraine,2025,1,63,False,0.1652219324709916,test,vaccination_only,20
+Australia,2025,1,65,False,0.16353957348205397,test,vaccination_only,20
+Canada,2025,1,71,False,0.16257224049801128,test,vaccination_only,20
+Thailand,2025,1,73,False,0.16083805466104642,test,vaccination_only,20
+Uganda,2025,1,76,False,0.16043096556786327,test,vaccination_only,20
+France,2025,1,85,False,0.15669272837842327,test,vaccination_only,20
+Italy,2025,1,90,False,0.15604536815069547,test,vaccination_only,20
+Mongolia,2025,1,94,False,0.154581623096435,test,vaccination_only,20
+Belgium,2025,1,101,False,0.15365754266432183,test,vaccination_only,20
+Rwanda,2025,1,111,False,0.15221215633371182,test,vaccination_only,20
+Spain,2025,1,113,False,0.15214180782477085,test,vaccination_only,20
+Viet Nam,2025,1,120,False,0.15015066914072356,test,vaccination_only,20
+Iran (Islamic Republic of),2025,1,127,False,0.14824987225816344,test,vaccination_only,20
+Cyprus,2025,1,133,False,0.14811222401816768,test,vaccination_only,20
+Montenegro,2022,0,1,True,0.6172390385289446,test,combined,10
+Papua New Guinea,2022,0,2,True,0.4526992040915901,test,combined,10
+Myanmar,2022,0,3,True,0.3966241221251161,test,combined,10
+Guinea,2022,0,4,True,0.354293594149493,test,combined,10
+Afghanistan,2022,1,5,True,0.34570179525142447,test,combined,10
+Yemen,2022,1,6,True,0.3354400112207206,test,combined,10
+Nigeria,2022,1,7,True,0.3223976477342837,test,combined,10
+Suriname,2022,0,8,True,0.31850514539525104,test,combined,10
+Gabon,2022,1,9,True,0.31398124304440245,test,combined,10
+Haiti,2022,0,10,True,0.28489796745995316,test,combined,10
+Mozambique,2022,1,11,True,0.2804661901666433,test,combined,10
+Chad,2022,0,12,True,0.280385495445226,test,combined,10
+Lao People's Democratic Republic,2022,0,13,True,0.2803836000986284,test,combined,10
+Ethiopia,2022,1,16,False,0.27026449475218317,test,combined,10
+Syrian Arab Republic,2022,1,17,False,0.2625736312067437,test,combined,10
+Côte d'Ivoire,2022,1,19,False,0.25322192432892965,test,combined,10
+Congo,2022,1,21,False,0.24550184028064154,test,combined,10
+Cameroon,2022,1,27,False,0.22386699166113183,test,combined,10
+Tajikistan,2022,1,30,False,0.21954403752688448,test,combined,10
+Pakistan,2022,1,32,False,0.2091553129925061,test,combined,10
+United Republic of Tanzania,2022,1,33,False,0.20884780127487182,test,combined,10
+Togo,2022,1,35,False,0.19962978016891172,test,combined,10
+Somalia,2022,1,39,False,0.1914857312897391,test,combined,10
+South Africa,2022,1,40,False,0.18976572481433157,test,combined,10
+Zimbabwe,2022,1,45,False,0.18322724779931318,test,combined,10
+Liberia,2022,1,47,False,0.18240525887004674,test,combined,10
+India,2022,1,50,False,0.17934428976945332,test,combined,10
+Kenya,2022,1,53,False,0.1755501951910294,test,combined,10
+Senegal,2022,1,67,False,0.17021874949600543,test,combined,10
+Zambia,2022,1,70,False,0.16978171668742692,test,combined,10
+Eritrea,2022,1,74,False,0.1650658185037793,test,combined,10
+Namibia,2022,1,82,False,0.16078888976004055,test,combined,10
+Ghana,2022,1,84,False,0.15994184994827468,test,combined,10
+Montenegro,2023,0,1,True,0.5069760578179497,test,combined,10
+Central African Republic,2023,1,2,True,0.4521203971877599,test,combined,10
+Papua New Guinea,2023,0,3,True,0.41523666537021636,test,combined,10
+Syrian Arab Republic,2023,1,4,True,0.3602362977928642,test,combined,10
+Gabon,2023,1,5,True,0.3576695716432896,test,combined,10
+Paraguay,2023,0,6,True,0.3506549168540222,test,combined,10
+Venezuela (Bolivarian Republic of),2023,0,7,True,0.34657029390723293,test,combined,10
+Nigeria,2023,0,8,True,0.3136820308640745,test,combined,10
+Guinea,2023,0,9,True,0.30234186126035667,test,combined,10
+Congo,2023,1,10,True,0.2829347587598312,test,combined,10
+Lao People's Democratic Republic,2023,0,11,True,0.2805667753187194,test,combined,10
+North Macedonia,2023,0,12,True,0.2734142694189087,test,combined,10
+Mozambique,2023,0,13,True,0.2709391531755083,test,combined,10
+Ethiopia,2023,1,15,False,0.2671687930024185,test,combined,10
+Equatorial Guinea,2023,1,16,False,0.26553647559921134,test,combined,10
+Kazakhstan,2023,1,17,False,0.2635621536834157,test,combined,10
+Comoros,2023,1,18,False,0.2622006115169691,test,combined,10
+Yemen,2023,1,20,False,0.2568525879153269,test,combined,10
+Philippines,2023,1,25,False,0.22752000065130829,test,combined,10
+Chad,2023,1,27,False,0.22010569370820757,test,combined,10
+Cameroon,2023,1,28,False,0.21815476931685843,test,combined,10
+Romania,2023,1,36,False,0.2005054296824349,test,combined,10
+Malawi,2023,1,38,False,0.20016941987265283,test,combined,10
+United Republic of Tanzania,2023,1,39,False,0.19822456488353363,test,combined,10
+South Africa,2023,1,40,False,0.1968092426926547,test,combined,10
+Togo,2023,1,41,False,0.19535815983454866,test,combined,10
+Mauritania,2023,1,42,False,0.1950865348116851,test,combined,10
+Pakistan,2023,1,48,False,0.1895506462746964,test,combined,10
+Namibia,2023,1,53,False,0.1794162177711949,test,combined,10
+United Kingdom of Great Britain and Northern Ireland,2023,1,54,False,0.17936605961323746,test,combined,10
+Senegal,2023,1,55,False,0.17705783944912634,test,combined,10
+Nepal,2023,1,56,False,0.17700049450800906,test,combined,10
+Botswana,2023,1,57,False,0.17494339697842415,test,combined,10
+Zambia,2023,1,60,False,0.17472499965487195,test,combined,10
+Georgia,2023,1,63,False,0.17383130697801305,test,combined,10
+Zimbabwe,2023,1,69,False,0.17222298176606582,test,combined,10
+Burundi,2023,1,74,False,0.16465505609243042,test,combined,10
+Armenia,2023,1,77,False,0.1631881511025918,test,combined,10
+Eritrea,2023,1,79,False,0.16296914925726028,test,combined,10
+India,2023,1,84,False,0.15986600537820872,test,combined,10
+Ghana,2023,1,93,False,0.1576093785576044,test,combined,10
+Malaysia,2023,1,95,False,0.15701682148747664,test,combined,10
+Russian Federation,2023,1,96,False,0.15642922755805602,test,combined,10
+Belgium,2023,1,100,False,0.1542946672059725,test,combined,10
+Belarus,2023,1,102,False,0.1536770741301253,test,combined,10
+Maldives,2023,1,103,False,0.15310309390082683,test,combined,10
+Qatar,2023,1,110,False,0.15027243203336166,test,combined,10
+Iran (Islamic Republic of),2023,1,111,False,0.14951727520208993,test,combined,10
+United Arab Emirates,2023,1,113,False,0.1482694046041136,test,combined,10
+Uzbekistan,2023,1,114,False,0.14806504657021652,test,combined,10
+Liberia,2023,1,117,False,0.14720377022045475,test,combined,10
+Rwanda,2023,1,118,False,0.14565408176696487,test,combined,10
+Democratic Republic of the Congo,2023,1,121,False,0.05251450104720023,test,combined,10
+Montenegro,2024,1,1,True,0.56887261586544,test,combined,10
+Central African Republic,2024,0,2,True,0.4538637147241315,test,combined,10
+Papua New Guinea,2024,0,3,True,0.35449635437037297,test,combined,10
+Guinea,2024,0,4,True,0.3163382165048856,test,combined,10
+Kazakhstan,2024,1,5,True,0.2926019592748876,test,combined,10
+Equatorial Guinea,2024,1,6,True,0.27311264684383846,test,combined,10
+Lao People's Democratic Republic,2024,0,7,True,0.2652548831271693,test,combined,10
+Comoros,2024,1,8,True,0.26486296212493476,test,combined,10
+Afghanistan,2024,1,9,True,0.2648013549027196,test,combined,10
+Nigeria,2024,0,10,True,0.26426541789389185,test,combined,10
+Mozambique,2024,0,11,True,0.2631112836286746,test,combined,10
+North Macedonia,2024,0,12,True,0.26138512606768705,test,combined,10
+Venezuela (Bolivarian Republic of),2024,0,13,True,0.25842571426439837,test,combined,10
+Romania,2024,1,20,False,0.22518098275512888,test,combined,10
+South Africa,2024,1,21,False,0.21935284476362785,test,combined,10
+Cambodia,2024,1,22,False,0.21673677965420268,test,combined,10
+Viet Nam,2024,1,23,False,0.21459119592758996,test,combined,10
+Cyprus,2024,1,24,False,0.21163675379274105,test,combined,10
+Ethiopia,2024,1,25,False,0.20840869259690445,test,combined,10
+Philippines,2024,1,27,False,0.20762801346865611,test,combined,10
+Chad,2024,1,32,False,0.19653560578949217,test,combined,10
+Lithuania,2024,1,37,False,0.192195540829577,test,combined,10
+Malawi,2024,1,40,False,0.1812272518953865,test,combined,10
+San Marino,2024,1,42,False,0.1802525439904028,test,combined,10
+Ghana,2024,1,43,False,0.1802318674907776,test,combined,10
+Burundi,2024,1,45,False,0.1791246180454435,test,combined,10
+United Kingdom of Great Britain and Northern Ireland,2024,1,46,False,0.17857161480162806,test,combined,10
+Pakistan,2024,1,49,False,0.17761624107770674,test,combined,10
+Iceland,2024,1,50,False,0.17674619004863826,test,combined,10
+Bermuda,2024,1,52,False,0.17362223133957766,test,combined,10
+Ukraine,2024,1,56,False,0.1716144035806866,test,combined,10
+Seychelles,2024,1,61,False,0.16872702122213934,test,combined,10
+Poland,2024,1,64,False,0.16775481365368478,test,combined,10
+Armenia,2024,1,71,False,0.16401594432044406,test,combined,10
+France,2024,1,76,False,0.1626563555153112,test,combined,10
+Slovenia,2024,1,77,False,0.16100996809128998,test,combined,10
+Italy,2024,1,83,False,0.15914698074042952,test,combined,10
+Malta,2024,1,84,False,0.15879811769860094,test,combined,10
+Georgia,2024,1,86,False,0.1581808708398064,test,combined,10
+Germany,2024,1,88,False,0.15802483454494648,test,combined,10
+Malaysia,2024,1,90,False,0.15775409729276282,test,combined,10
+Iraq,2024,1,92,False,0.15761847294473644,test,combined,10
+Russian Federation,2024,1,93,False,0.15749650125544637,test,combined,10
+Belarus,2024,1,96,False,0.15633117019414758,test,combined,10
+Belgium,2024,1,100,False,0.1540372746513849,test,combined,10
+Qatar,2024,1,102,False,0.151184872231983,test,combined,10
+Uzbekistan,2024,1,103,False,0.15100213530031031,test,combined,10
+United Arab Emirates,2024,1,113,False,0.1479311237098256,test,combined,10
+Uganda,2024,1,117,False,0.1430348995300867,test,combined,10
+Mauritania,2024,1,120,False,0.12158213758082612,test,combined,10
+Montenegro,2025,1,1,True,0.5769841906542277,test,combined,10
+Central African Republic,2025,1,2,True,0.4124341485099278,test,combined,10
+Papua New Guinea,2025,0,3,True,0.39495942645936805,test,combined,10
+Sudan,2025,1,4,True,0.365414356143598,test,combined,10
+Bosnia and Herzegovina,2025,1,5,True,0.3490756061916871,test,combined,10
+Lao People's Democratic Republic,2025,1,6,True,0.34489676145371895,test,combined,10
+Guinea,2025,0,7,True,0.28404338723515166,test,combined,10
+Myanmar,2025,0,8,True,0.2600024570800001,test,combined,10
+North Macedonia,2025,0,9,True,0.2558440536238916,test,combined,10
+Mozambique,2025,0,10,True,0.2541325596048318,test,combined,10
+Timor-Leste,2025,0,11,True,0.2533169004628308,test,combined,10
+Comoros,2025,0,12,True,0.2511867981875896,test,combined,10
+Venezuela (Bolivarian Republic of),2025,0,13,True,0.24979614745733297,test,combined,10
+Nigeria,2025,0,14,True,0.24850452399557552,test,combined,10
+South Africa,2025,1,17,False,0.2320560765693396,test,combined,10
+Afghanistan,2025,1,20,False,0.22103357491741665,test,combined,10
+Mexico,2025,1,22,False,0.21513008016786866,test,combined,10
+Namibia,2025,1,23,False,0.21089569557424503,test,combined,10
+Belize,2025,1,25,False,0.20400698990634114,test,combined,10
+Estonia,2025,1,26,False,0.20199590848810148,test,combined,10
+Tajikistan,2025,1,27,False,0.20040694252341235,test,combined,10
+Cambodia,2025,1,36,False,0.19278746443654327,test,combined,10
+United Kingdom of Great Britain and Northern Ireland,2025,1,42,False,0.1799214595348689,test,combined,10
+Australia,2025,1,46,False,0.17356688367150264,test,combined,10
+Ukraine,2025,1,48,False,0.17318705797290007,test,combined,10
+Georgia,2025,1,49,False,0.17298128431759688,test,combined,10
+Malawi,2025,1,52,False,0.17175990057526425,test,combined,10
+Paraguay,2025,1,53,False,0.17151377918044794,test,combined,10
+Thailand,2025,1,54,False,0.16970838555630693,test,combined,10
+Canada,2025,1,58,False,0.16805169677260282,test,combined,10
+France,2025,1,66,False,0.16195480650218932,test,combined,10
+Italy,2025,1,73,False,0.1587892147692908,test,combined,10
+Mongolia,2025,1,76,False,0.1578564328927012,test,combined,10
+Niger,2025,1,85,False,0.15536560172770794,test,combined,10
+Spain,2025,1,87,False,0.15474984573541586,test,combined,10
+Viet Nam,2025,1,89,False,0.1537022622250902,test,combined,10
+Rwanda,2025,1,91,False,0.15330580542160363,test,combined,10
+Belgium,2025,1,95,False,0.1521690781112517,test,combined,10
+Uganda,2025,1,96,False,0.15203349776712696,test,combined,10
+Cyprus,2025,1,104,False,0.15004708720571117,test,combined,10
+Iran (Islamic Republic of),2025,1,112,False,0.1480410781109195,test,combined,10
+Montenegro,2022,0,1,True,0.6172390385289446,test,combined,20
+Papua New Guinea,2022,0,2,True,0.4526992040915901,test,combined,20
+Myanmar,2022,0,3,True,0.3966241221251161,test,combined,20
+Guinea,2022,0,4,True,0.354293594149493,test,combined,20
+Afghanistan,2022,1,5,True,0.34570179525142447,test,combined,20
+Yemen,2022,1,6,True,0.3354400112207206,test,combined,20
+Nigeria,2022,1,7,True,0.3223976477342837,test,combined,20
+Suriname,2022,0,8,True,0.31850514539525104,test,combined,20
+Gabon,2022,1,9,True,0.31398124304440245,test,combined,20
+Haiti,2022,0,10,True,0.28489796745995316,test,combined,20
+Mozambique,2022,1,11,True,0.2804661901666433,test,combined,20
+Chad,2022,0,12,True,0.280385495445226,test,combined,20
+Lao People's Democratic Republic,2022,0,13,True,0.2803836000986284,test,combined,20
+Paraguay,2022,0,14,True,0.2760844152793315,test,combined,20
+Equatorial Guinea,2022,0,15,True,0.27498046466326437,test,combined,20
+Ethiopia,2022,1,16,True,0.27026449475218317,test,combined,20
+Syrian Arab Republic,2022,1,17,True,0.2625736312067437,test,combined,20
+Venezuela (Bolivarian Republic of),2022,0,18,True,0.2566521864430018,test,combined,20
+Côte d'Ivoire,2022,1,19,True,0.25322192432892965,test,combined,20
+Philippines,2022,0,20,True,0.25110277554590305,test,combined,20
+Congo,2022,1,21,True,0.24550184028064154,test,combined,20
+North Macedonia,2022,0,22,True,0.2450392455315076,test,combined,20
+Comoros,2022,0,23,True,0.24398493503207835,test,combined,20
+Saint Lucia,2022,0,24,True,0.22797907750011048,test,combined,20
+Mali,2022,0,25,True,0.225389233999707,test,combined,20
+Cameroon,2022,1,27,False,0.22386699166113183,test,combined,20
+Tajikistan,2022,1,30,False,0.21954403752688448,test,combined,20
+Pakistan,2022,1,32,False,0.2091553129925061,test,combined,20
+United Republic of Tanzania,2022,1,33,False,0.20884780127487182,test,combined,20
+Togo,2022,1,35,False,0.19962978016891172,test,combined,20
+Somalia,2022,1,39,False,0.1914857312897391,test,combined,20
+South Africa,2022,1,40,False,0.18976572481433157,test,combined,20
+Zimbabwe,2022,1,45,False,0.18322724779931318,test,combined,20
+Liberia,2022,1,47,False,0.18240525887004674,test,combined,20
+India,2022,1,50,False,0.17934428976945332,test,combined,20
+Kenya,2022,1,53,False,0.1755501951910294,test,combined,20
+Senegal,2022,1,67,False,0.17021874949600543,test,combined,20
+Zambia,2022,1,70,False,0.16978171668742692,test,combined,20
+Eritrea,2022,1,74,False,0.1650658185037793,test,combined,20
+Namibia,2022,1,82,False,0.16078888976004055,test,combined,20
+Ghana,2022,1,84,False,0.15994184994827468,test,combined,20
+Montenegro,2023,0,1,True,0.5069760578179497,test,combined,20
+Central African Republic,2023,1,2,True,0.4521203971877599,test,combined,20
+Papua New Guinea,2023,0,3,True,0.41523666537021636,test,combined,20
+Syrian Arab Republic,2023,1,4,True,0.3602362977928642,test,combined,20
+Gabon,2023,1,5,True,0.3576695716432896,test,combined,20
+Paraguay,2023,0,6,True,0.3506549168540222,test,combined,20
+Venezuela (Bolivarian Republic of),2023,0,7,True,0.34657029390723293,test,combined,20
+Nigeria,2023,0,8,True,0.3136820308640745,test,combined,20
+Guinea,2023,0,9,True,0.30234186126035667,test,combined,20
+Congo,2023,1,10,True,0.2829347587598312,test,combined,20
+Lao People's Democratic Republic,2023,0,11,True,0.2805667753187194,test,combined,20
+North Macedonia,2023,0,12,True,0.2734142694189087,test,combined,20
+Mozambique,2023,0,13,True,0.2709391531755083,test,combined,20
+Côte d'Ivoire,2023,0,14,True,0.2690116234046893,test,combined,20
+Ethiopia,2023,1,15,True,0.2671687930024185,test,combined,20
+Equatorial Guinea,2023,1,16,True,0.26553647559921134,test,combined,20
+Kazakhstan,2023,1,17,True,0.2635621536834157,test,combined,20
+Comoros,2023,1,18,True,0.2622006115169691,test,combined,20
+Afghanistan,2023,0,19,True,0.261702324752712,test,combined,20
+Yemen,2023,1,20,True,0.2568525879153269,test,combined,20
+Ukraine,2023,0,21,True,0.24450455548634353,test,combined,20
+Myanmar,2023,0,22,True,0.2364922303610046,test,combined,20
+Peru,2023,0,23,True,0.23609213530474096,test,combined,20
+Suriname,2023,0,24,True,0.23435362385984762,test,combined,20
+Philippines,2023,1,25,True,0.22752000065130829,test,combined,20
+Chad,2023,1,27,False,0.22010569370820757,test,combined,20
+Cameroon,2023,1,28,False,0.21815476931685843,test,combined,20
+Romania,2023,1,36,False,0.2005054296824349,test,combined,20
+Malawi,2023,1,38,False,0.20016941987265283,test,combined,20
+United Republic of Tanzania,2023,1,39,False,0.19822456488353363,test,combined,20
+South Africa,2023,1,40,False,0.1968092426926547,test,combined,20
+Togo,2023,1,41,False,0.19535815983454866,test,combined,20
+Mauritania,2023,1,42,False,0.1950865348116851,test,combined,20
+Pakistan,2023,1,48,False,0.1895506462746964,test,combined,20
+Namibia,2023,1,53,False,0.1794162177711949,test,combined,20
+United Kingdom of Great Britain and Northern Ireland,2023,1,54,False,0.17936605961323746,test,combined,20
+Senegal,2023,1,55,False,0.17705783944912634,test,combined,20
+Nepal,2023,1,56,False,0.17700049450800906,test,combined,20
+Botswana,2023,1,57,False,0.17494339697842415,test,combined,20
+Zambia,2023,1,60,False,0.17472499965487195,test,combined,20
+Georgia,2023,1,63,False,0.17383130697801305,test,combined,20
+Zimbabwe,2023,1,69,False,0.17222298176606582,test,combined,20
+Burundi,2023,1,74,False,0.16465505609243042,test,combined,20
+Armenia,2023,1,77,False,0.1631881511025918,test,combined,20
+Eritrea,2023,1,79,False,0.16296914925726028,test,combined,20
+India,2023,1,84,False,0.15986600537820872,test,combined,20
+Ghana,2023,1,93,False,0.1576093785576044,test,combined,20
+Malaysia,2023,1,95,False,0.15701682148747664,test,combined,20
+Russian Federation,2023,1,96,False,0.15642922755805602,test,combined,20
+Belgium,2023,1,100,False,0.1542946672059725,test,combined,20
+Belarus,2023,1,102,False,0.1536770741301253,test,combined,20
+Maldives,2023,1,103,False,0.15310309390082683,test,combined,20
+Qatar,2023,1,110,False,0.15027243203336166,test,combined,20
+Iran (Islamic Republic of),2023,1,111,False,0.14951727520208993,test,combined,20
+United Arab Emirates,2023,1,113,False,0.1482694046041136,test,combined,20
+Uzbekistan,2023,1,114,False,0.14806504657021652,test,combined,20
+Liberia,2023,1,117,False,0.14720377022045475,test,combined,20
+Rwanda,2023,1,118,False,0.14565408176696487,test,combined,20
+Democratic Republic of the Congo,2023,1,121,False,0.05251450104720023,test,combined,20
+Montenegro,2024,1,1,True,0.56887261586544,test,combined,20
+Central African Republic,2024,0,2,True,0.4538637147241315,test,combined,20
+Papua New Guinea,2024,0,3,True,0.35449635437037297,test,combined,20
+Guinea,2024,0,4,True,0.3163382165048856,test,combined,20
+Kazakhstan,2024,1,5,True,0.2926019592748876,test,combined,20
+Equatorial Guinea,2024,1,6,True,0.27311264684383846,test,combined,20
+Lao People's Democratic Republic,2024,0,7,True,0.2652548831271693,test,combined,20
+Comoros,2024,1,8,True,0.26486296212493476,test,combined,20
+Afghanistan,2024,1,9,True,0.2648013549027196,test,combined,20
+Nigeria,2024,0,10,True,0.26426541789389185,test,combined,20
+Mozambique,2024,0,11,True,0.2631112836286746,test,combined,20
+North Macedonia,2024,0,12,True,0.26138512606768705,test,combined,20
+Venezuela (Bolivarian Republic of),2024,0,13,True,0.25842571426439837,test,combined,20
+Suriname,2024,0,14,True,0.25040031618335257,test,combined,20
+Myanmar,2024,0,15,True,0.24820638180286275,test,combined,20
+Côte d'Ivoire,2024,0,16,True,0.24218645225997604,test,combined,20
+Mexico,2024,0,17,True,0.2375926168049479,test,combined,20
+Syrian Arab Republic,2024,0,18,True,0.2357174488569554,test,combined,20
+Mali,2024,0,19,True,0.23336879671421262,test,combined,20
+Romania,2024,1,20,True,0.22518098275512888,test,combined,20
+South Africa,2024,1,21,True,0.21935284476362785,test,combined,20
+Cambodia,2024,1,22,True,0.21673677965420268,test,combined,20
+Viet Nam,2024,1,23,True,0.21459119592758996,test,combined,20
+Cyprus,2024,1,24,True,0.21163675379274105,test,combined,20
+Ethiopia,2024,1,25,True,0.20840869259690445,test,combined,20
+Gambia,2024,0,26,True,0.20787983752976005,test,combined,20
+Philippines,2024,1,27,False,0.20762801346865611,test,combined,20
+Chad,2024,1,32,False,0.19653560578949217,test,combined,20
+Lithuania,2024,1,37,False,0.192195540829577,test,combined,20
+Malawi,2024,1,40,False,0.1812272518953865,test,combined,20
+San Marino,2024,1,42,False,0.1802525439904028,test,combined,20
+Ghana,2024,1,43,False,0.1802318674907776,test,combined,20
+Burundi,2024,1,45,False,0.1791246180454435,test,combined,20
+United Kingdom of Great Britain and Northern Ireland,2024,1,46,False,0.17857161480162806,test,combined,20
+Pakistan,2024,1,49,False,0.17761624107770674,test,combined,20
+Iceland,2024,1,50,False,0.17674619004863826,test,combined,20
+Bermuda,2024,1,52,False,0.17362223133957766,test,combined,20
+Ukraine,2024,1,56,False,0.1716144035806866,test,combined,20
+Seychelles,2024,1,61,False,0.16872702122213934,test,combined,20
+Poland,2024,1,64,False,0.16775481365368478,test,combined,20
+Armenia,2024,1,71,False,0.16401594432044406,test,combined,20
+France,2024,1,76,False,0.1626563555153112,test,combined,20
+Slovenia,2024,1,77,False,0.16100996809128998,test,combined,20
+Italy,2024,1,83,False,0.15914698074042952,test,combined,20
+Malta,2024,1,84,False,0.15879811769860094,test,combined,20
+Georgia,2024,1,86,False,0.1581808708398064,test,combined,20
+Germany,2024,1,88,False,0.15802483454494648,test,combined,20
+Malaysia,2024,1,90,False,0.15775409729276282,test,combined,20
+Iraq,2024,1,92,False,0.15761847294473644,test,combined,20
+Russian Federation,2024,1,93,False,0.15749650125544637,test,combined,20
+Belarus,2024,1,96,False,0.15633117019414758,test,combined,20
+Belgium,2024,1,100,False,0.1540372746513849,test,combined,20
+Qatar,2024,1,102,False,0.151184872231983,test,combined,20
+Uzbekistan,2024,1,103,False,0.15100213530031031,test,combined,20
+United Arab Emirates,2024,1,113,False,0.1479311237098256,test,combined,20
+Uganda,2024,1,117,False,0.1430348995300867,test,combined,20
+Mauritania,2024,1,120,False,0.12158213758082612,test,combined,20
+Montenegro,2025,1,1,True,0.5769841906542277,test,combined,20
+Central African Republic,2025,1,2,True,0.4124341485099278,test,combined,20
+Papua New Guinea,2025,0,3,True,0.39495942645936805,test,combined,20
+Sudan,2025,1,4,True,0.365414356143598,test,combined,20
+Bosnia and Herzegovina,2025,1,5,True,0.3490756061916871,test,combined,20
+Lao People's Democratic Republic,2025,1,6,True,0.34489676145371895,test,combined,20
+Guinea,2025,0,7,True,0.28404338723515166,test,combined,20
+Myanmar,2025,0,8,True,0.2600024570800001,test,combined,20
+North Macedonia,2025,0,9,True,0.2558440536238916,test,combined,20
+Mozambique,2025,0,10,True,0.2541325596048318,test,combined,20
+Timor-Leste,2025,0,11,True,0.2533169004628308,test,combined,20
+Comoros,2025,0,12,True,0.2511867981875896,test,combined,20
+Venezuela (Bolivarian Republic of),2025,0,13,True,0.24979614745733297,test,combined,20
+Nigeria,2025,0,14,True,0.24850452399557552,test,combined,20
+Côte d'Ivoire,2025,0,15,True,0.24223972527707094,test,combined,20
+Suriname,2025,0,16,True,0.2400136470149726,test,combined,20
+South Africa,2025,1,17,True,0.2320560765693396,test,combined,20
+Mali,2025,0,18,True,0.23119877237825306,test,combined,20
+Equatorial Guinea,2025,0,19,True,0.22923444853009559,test,combined,20
+Afghanistan,2025,1,20,True,0.22103357491741665,test,combined,20
+Dominica,2025,0,21,True,0.21841026855021436,test,combined,20
+Mexico,2025,1,22,True,0.21513008016786866,test,combined,20
+Namibia,2025,1,23,True,0.21089569557424503,test,combined,20
+Syrian Arab Republic,2025,0,24,True,0.20674251783396763,test,combined,20
+Belize,2025,1,25,True,0.20400698990634114,test,combined,20
+Estonia,2025,1,26,True,0.20199590848810148,test,combined,20
+Tajikistan,2025,1,27,True,0.20040694252341235,test,combined,20
+Philippines,2025,0,28,True,0.20024769842116744,test,combined,20
+Cambodia,2025,1,36,False,0.19278746443654327,test,combined,20
+United Kingdom of Great Britain and Northern Ireland,2025,1,42,False,0.1799214595348689,test,combined,20
+Australia,2025,1,46,False,0.17356688367150264,test,combined,20
+Ukraine,2025,1,48,False,0.17318705797290007,test,combined,20
+Georgia,2025,1,49,False,0.17298128431759688,test,combined,20
+Malawi,2025,1,52,False,0.17175990057526425,test,combined,20
+Paraguay,2025,1,53,False,0.17151377918044794,test,combined,20
+Thailand,2025,1,54,False,0.16970838555630693,test,combined,20
+Canada,2025,1,58,False,0.16805169677260282,test,combined,20
+France,2025,1,66,False,0.16195480650218932,test,combined,20
+Italy,2025,1,73,False,0.1587892147692908,test,combined,20
+Mongolia,2025,1,76,False,0.1578564328927012,test,combined,20
+Niger,2025,1,85,False,0.15536560172770794,test,combined,20
+Spain,2025,1,87,False,0.15474984573541586,test,combined,20
+Viet Nam,2025,1,89,False,0.1537022622250902,test,combined,20
+Rwanda,2025,1,91,False,0.15330580542160363,test,combined,20
+Belgium,2025,1,95,False,0.1521690781112517,test,combined,20
+Uganda,2025,1,96,False,0.15203349776712696,test,combined,20
+Cyprus,2025,1,104,False,0.15004708720571117,test,combined,20
+Iran (Islamic Republic of),2025,1,112,False,0.1480410781109195,test,combined,20
+Gabon,2022,1,1,True,0.6110883364018613,test,rf_regularized,10
+Syrian Arab Republic,2022,1,2,True,0.4426047806306724,test,rf_regularized,10
+Afghanistan,2022,1,3,True,0.43849665109162145,test,rf_regularized,10
+Zimbabwe,2022,1,4,True,0.4381682118150937,test,rf_regularized,10
+Congo,2022,1,5,True,0.38042423572838674,test,rf_regularized,10
+North Macedonia,2022,0,6,True,0.3791278764377385,test,rf_regularized,10
+India,2022,1,7,True,0.37198611286976674,test,rf_regularized,10
+Eritrea,2022,1,8,True,0.3642020459522416,test,rf_regularized,10
+Kenya,2022,1,9,True,0.3584361181425288,test,rf_regularized,10
+Pakistan,2022,1,10,True,0.349389872068807,test,rf_regularized,10
+Mozambique,2022,1,11,True,0.348317102151264,test,rf_regularized,10
+Tajikistan,2022,1,12,True,0.3325843724295038,test,rf_regularized,10
+Mali,2022,0,13,True,0.3303647805831967,test,rf_regularized,10
+Côte d'Ivoire,2022,1,15,False,0.3275371114508545,test,rf_regularized,10
+Ghana,2022,1,17,False,0.32369928195038755,test,rf_regularized,10
+Ethiopia,2022,1,21,False,0.3152806276225991,test,rf_regularized,10
+Yemen,2022,1,22,False,0.30627524349455065,test,rf_regularized,10
+Zambia,2022,1,24,False,0.303979306680901,test,rf_regularized,10
+Togo,2022,1,26,False,0.2694827909678768,test,rf_regularized,10
+Nigeria,2022,1,28,False,0.26082026126892577,test,rf_regularized,10
+Namibia,2022,1,32,False,0.24890819044520093,test,rf_regularized,10
+United Republic of Tanzania,2022,1,35,False,0.2430899826156876,test,rf_regularized,10
+Cameroon,2022,1,43,False,0.21766345858070724,test,rf_regularized,10
+Senegal,2022,1,47,False,0.21046664273352753,test,rf_regularized,10
+South Africa,2022,1,51,False,0.20260287783767952,test,rf_regularized,10
+Somalia,2022,1,69,False,0.16942685104414104,test,rf_regularized,10
+Liberia,2022,1,95,False,0.12002345207222372,test,rf_regularized,10
+Syrian Arab Republic,2023,1,1,True,0.5814772451338723,test,rf_regularized,10
+Philippines,2023,1,2,True,0.5654986230910307,test,rf_regularized,10
+Comoros,2023,1,3,True,0.5390088960762609,test,rf_regularized,10
+India,2023,1,4,True,0.45991653339689337,test,rf_regularized,10
+Ethiopia,2023,1,5,True,0.4523440854213029,test,rf_regularized,10
+United Republic of Tanzania,2023,1,6,True,0.4412343256209017,test,rf_regularized,10
+Togo,2023,1,7,True,0.4140340941938162,test,rf_regularized,10
+Zimbabwe,2023,1,8,True,0.40611382737036195,test,rf_regularized,10
+Namibia,2023,1,9,True,0.3966182878177897,test,rf_regularized,10
+Zambia,2023,1,10,True,0.39504700061742193,test,rf_regularized,10
+Nepal,2023,1,11,True,0.38872285811971224,test,rf_regularized,10
+Ghana,2023,1,12,True,0.386338578002215,test,rf_regularized,10
+South Africa,2023,1,13,True,0.37460908298367723,test,rf_regularized,10
+Malaysia,2023,1,14,False,0.3702813065581088,test,rf_regularized,10
+United Arab Emirates,2023,1,15,False,0.35609338941655166,test,rf_regularized,10
+Eritrea,2023,1,17,False,0.34735797105498195,test,rf_regularized,10
+Congo,2023,1,19,False,0.3416196246707714,test,rf_regularized,10
+Romania,2023,1,20,False,0.3358243375326487,test,rf_regularized,10
+Malawi,2023,1,21,False,0.33234212398033525,test,rf_regularized,10
+Kazakhstan,2023,1,24,False,0.3153133672229066,test,rf_regularized,10
+Georgia,2023,1,27,False,0.2953756020010213,test,rf_regularized,10
+Gabon,2023,1,28,False,0.2936074685097146,test,rf_regularized,10
+Senegal,2023,1,33,False,0.2745255914525227,test,rf_regularized,10
+Equatorial Guinea,2023,1,34,False,0.271420452172813,test,rf_regularized,10
+Rwanda,2023,1,36,False,0.2611949137842333,test,rf_regularized,10
+Cameroon,2023,1,39,False,0.25083117619447204,test,rf_regularized,10
+Iran (Islamic Republic of),2023,1,40,False,0.2488765631500119,test,rf_regularized,10
+United Kingdom of Great Britain and Northern Ireland,2023,1,41,False,0.24586237567672578,test,rf_regularized,10
+Russian Federation,2023,1,43,False,0.22914356592581475,test,rf_regularized,10
+Uzbekistan,2023,1,44,False,0.22605669832360697,test,rf_regularized,10
+Belgium,2023,1,46,False,0.2218277395236794,test,rf_regularized,10
+Central African Republic,2023,1,50,False,0.2002288165623087,test,rf_regularized,10
+Botswana,2023,1,51,False,0.1982620826823518,test,rf_regularized,10
+Pakistan,2023,1,53,False,0.18858692394090185,test,rf_regularized,10
+Chad,2023,1,57,False,0.17557614506149388,test,rf_regularized,10
+Burundi,2023,1,59,False,0.1732708529780151,test,rf_regularized,10
+Qatar,2023,1,62,False,0.16448429493165942,test,rf_regularized,10
+Mauritania,2023,1,63,False,0.16337383735364067,test,rf_regularized,10
+Yemen,2023,1,66,False,0.15911381994842308,test,rf_regularized,10
+Maldives,2023,1,67,False,0.1522260574501863,test,rf_regularized,10
+Liberia,2023,1,71,False,0.14153450508512777,test,rf_regularized,10
+Democratic Republic of the Congo,2023,1,80,False,0.11427120630942937,test,rf_regularized,10
+Belarus,2023,1,93,False,0.045926440331581865,test,rf_regularized,10
+Armenia,2023,1,106,False,0.0272746864529218,test,rf_regularized,10
+Comoros,2024,1,1,True,0.6665732463917265,test,rf_regularized,10
+Romania,2024,1,2,True,0.6574522665533886,test,rf_regularized,10
+Kazakhstan,2024,1,3,True,0.6541351649928968,test,rf_regularized,10
+Iraq,2024,1,4,True,0.5769069807157386,test,rf_regularized,10
+Philippines,2024,1,5,True,0.5646800420968837,test,rf_regularized,10
+Russian Federation,2024,1,6,True,0.5523424520067219,test,rf_regularized,10
+Armenia,2024,1,7,True,0.5481838358142302,test,rf_regularized,10
+Qatar,2024,1,8,True,0.546841901568075,test,rf_regularized,10
+Malaysia,2024,1,9,True,0.5273964735040922,test,rf_regularized,10
+United Republic of Tanzania,2024,0,10,True,0.5248191197743142,test,rf_regularized,10
+Uzbekistan,2024,1,11,True,0.5014170742394566,test,rf_regularized,10
+Botswana,2024,0,12,True,0.49356858281665666,test,rf_regularized,10
+Nepal,2024,0,13,True,0.4810554726010717,test,rf_regularized,10
+South Africa,2024,1,14,False,0.448503141265209,test,rf_regularized,10
+Belarus,2024,1,19,False,0.410582032858701,test,rf_regularized,10
+Malawi,2024,1,20,False,0.40043562504953145,test,rf_regularized,10
+Uganda,2024,1,21,False,0.3766818661833608,test,rf_regularized,10
+United Kingdom of Great Britain and Northern Ireland,2024,1,23,False,0.3690476538202108,test,rf_regularized,10
+Georgia,2024,1,24,False,0.3666724629698873,test,rf_regularized,10
+Ghana,2024,1,25,False,0.3657639742242417,test,rf_regularized,10
+Belgium,2024,1,26,False,0.35912717278189,test,rf_regularized,10
+Equatorial Guinea,2024,1,29,False,0.3273562859686837,test,rf_regularized,10
+Cambodia,2024,1,30,False,0.3063793950506006,test,rf_regularized,10
+United Arab Emirates,2024,1,31,False,0.3041179760002023,test,rf_regularized,10
+Burundi,2024,1,32,False,0.3005721754871481,test,rf_regularized,10
+Viet Nam,2024,1,36,False,0.26205459593432484,test,rf_regularized,10
+Ukraine,2024,1,40,False,0.2491528377745276,test,rf_regularized,10
+Poland,2024,1,41,False,0.24914947667641896,test,rf_regularized,10
+France,2024,1,44,False,0.2407498205519692,test,rf_regularized,10
+Lithuania,2024,1,48,False,0.22764597890741442,test,rf_regularized,10
+Pakistan,2024,1,54,False,0.2143654656910685,test,rf_regularized,10
+Mauritania,2024,1,55,False,0.2143185856220486,test,rf_regularized,10
+Germany,2024,1,58,False,0.20345200417412693,test,rf_regularized,10
+Italy,2024,1,63,False,0.1842754357786761,test,rf_regularized,10
+Afghanistan,2024,1,68,False,0.16279255035573467,test,rf_regularized,10
+Ethiopia,2024,1,72,False,0.15881924075873502,test,rf_regularized,10
+Chad,2024,1,74,False,0.14776126704677328,test,rf_regularized,10
+Malta,2024,1,77,False,0.1430168654054575,test,rf_regularized,10
+Slovenia,2024,1,78,False,0.1416609521671479,test,rf_regularized,10
+Cyprus,2024,1,88,False,0.09193022959081293,test,rf_regularized,10
+Montenegro,2024,1,90,False,0.06979391853082062,test,rf_regularized,10
+Bermuda,2024,1,111,False,0.023265786457691832,test,rf_regularized,10
+Iceland,2024,1,114,False,0.02210304904975006,test,rf_regularized,10
+San Marino,2024,1,118,False,0.019394449017041803,test,rf_regularized,10
+Seychelles,2024,1,121,False,0.017907753822440996,test,rf_regularized,10
+Bosnia and Herzegovina,2025,1,1,True,0.689261767706684,test,rf_regularized,10
+Cambodia,2025,1,2,True,0.6052074999931641,test,rf_regularized,10
+Thailand,2025,1,3,True,0.5962858630817592,test,rf_regularized,10
+Montenegro,2025,1,4,True,0.5899616220528171,test,rf_regularized,10
+Papua New Guinea,2025,0,5,True,0.5694098502322728,test,rf_regularized,10
+Malawi,2025,1,6,True,0.5604244701605445,test,rf_regularized,10
+United Kingdom of Great Britain and Northern Ireland,2025,1,7,True,0.5560353301217407,test,rf_regularized,10
+Belgium,2025,1,8,True,0.5474188283136855,test,rf_regularized,10
+San Marino,2025,0,9,True,0.5430171787607857,test,rf_regularized,10
+Viet Nam,2025,1,10,True,0.5420240363653231,test,rf_regularized,10
+Uganda,2025,1,11,True,0.54133168824648,test,rf_regularized,10
+Bermuda,2025,0,12,True,0.4779758027870666,test,rf_regularized,10
+Timor-Leste,2025,0,13,True,0.4778762177287569,test,rf_regularized,10
+North Macedonia,2025,0,14,True,0.4608710104173521,test,rf_regularized,10
+Cyprus,2025,1,15,False,0.43227699623245264,test,rf_regularized,10
+Georgia,2025,1,19,False,0.3914427272570221,test,rf_regularized,10
+Italy,2025,1,20,False,0.39072353076611055,test,rf_regularized,10
+Ukraine,2025,1,21,False,0.38302187649397057,test,rf_regularized,10
+Iran (Islamic Republic of),2025,1,23,False,0.37554279211408076,test,rf_regularized,10
+France,2025,1,31,False,0.3471526906684987,test,rf_regularized,10
+South Africa,2025,1,33,False,0.3440240869762368,test,rf_regularized,10
+Spain,2025,1,34,False,0.3435078875072182,test,rf_regularized,10
+Estonia,2025,1,35,False,0.335607713037538,test,rf_regularized,10
+Rwanda,2025,1,37,False,0.3134637890784694,test,rf_regularized,10
+Mongolia,2025,1,39,False,0.2947708294350313,test,rf_regularized,10
+Canada,2025,1,41,False,0.2808071896325879,test,rf_regularized,10
+Sudan,2025,1,43,False,0.27530478048854157,test,rf_regularized,10
+Namibia,2025,1,45,False,0.2710219458789535,test,rf_regularized,10
+Australia,2025,1,53,False,0.2500341289235876,test,rf_regularized,10
+Central African Republic,2025,1,65,False,0.20270544036593277,test,rf_regularized,10
+Tajikistan,2025,1,76,False,0.14876720096877777,test,rf_regularized,10
+Afghanistan,2025,1,82,False,0.1387630901538959,test,rf_regularized,10
+Lao People's Democratic Republic,2025,1,84,False,0.13414637532955612,test,rf_regularized,10
+Niger,2025,1,98,False,0.1086158922721585,test,rf_regularized,10
+Mexico,2025,1,108,False,0.04463800930343513,test,rf_regularized,10
+Paraguay,2025,1,122,False,0.032384814276668096,test,rf_regularized,10
+Belize,2025,1,129,False,0.019953824103550885,test,rf_regularized,10
+Gabon,2022,1,1,True,0.6110883364018613,test,rf_regularized,20
+Syrian Arab Republic,2022,1,2,True,0.4426047806306724,test,rf_regularized,20
+Afghanistan,2022,1,3,True,0.43849665109162145,test,rf_regularized,20
+Zimbabwe,2022,1,4,True,0.4381682118150937,test,rf_regularized,20
+Congo,2022,1,5,True,0.38042423572838674,test,rf_regularized,20
+North Macedonia,2022,0,6,True,0.3791278764377385,test,rf_regularized,20
+India,2022,1,7,True,0.37198611286976674,test,rf_regularized,20
+Eritrea,2022,1,8,True,0.3642020459522416,test,rf_regularized,20
+Kenya,2022,1,9,True,0.3584361181425288,test,rf_regularized,20
+Pakistan,2022,1,10,True,0.349389872068807,test,rf_regularized,20
+Mozambique,2022,1,11,True,0.348317102151264,test,rf_regularized,20
+Tajikistan,2022,1,12,True,0.3325843724295038,test,rf_regularized,20
+Mali,2022,0,13,True,0.3303647805831967,test,rf_regularized,20
+Rwanda,2022,0,14,True,0.3277681670148924,test,rf_regularized,20
+Côte d'Ivoire,2022,1,15,True,0.3275371114508545,test,rf_regularized,20
+United Arab Emirates,2022,0,16,True,0.3261314304565255,test,rf_regularized,20
+Ghana,2022,1,17,True,0.32369928195038755,test,rf_regularized,20
+Malta,2022,0,18,True,0.32032335730143974,test,rf_regularized,20
+Georgia,2022,0,19,True,0.3190129584360593,test,rf_regularized,20
+Myanmar,2022,0,20,True,0.3155070545621116,test,rf_regularized,20
+Ethiopia,2022,1,21,True,0.3152806276225991,test,rf_regularized,20
+Yemen,2022,1,22,True,0.30627524349455065,test,rf_regularized,20
+Viet Nam,2022,0,23,True,0.3057336955156687,test,rf_regularized,20
+Zambia,2022,1,24,True,0.303979306680901,test,rf_regularized,20
+Venezuela (Bolivarian Republic of),2022,0,25,True,0.2725275767706411,test,rf_regularized,20
+Togo,2022,1,26,False,0.2694827909678768,test,rf_regularized,20
+Nigeria,2022,1,28,False,0.26082026126892577,test,rf_regularized,20
+Namibia,2022,1,32,False,0.24890819044520093,test,rf_regularized,20
+United Republic of Tanzania,2022,1,35,False,0.2430899826156876,test,rf_regularized,20
+Cameroon,2022,1,43,False,0.21766345858070724,test,rf_regularized,20
+Senegal,2022,1,47,False,0.21046664273352753,test,rf_regularized,20
+South Africa,2022,1,51,False,0.20260287783767952,test,rf_regularized,20
+Somalia,2022,1,69,False,0.16942685104414104,test,rf_regularized,20
+Liberia,2022,1,95,False,0.12002345207222372,test,rf_regularized,20
+Syrian Arab Republic,2023,1,1,True,0.5814772451338723,test,rf_regularized,20
+Philippines,2023,1,2,True,0.5654986230910307,test,rf_regularized,20
+Comoros,2023,1,3,True,0.5390088960762609,test,rf_regularized,20
+India,2023,1,4,True,0.45991653339689337,test,rf_regularized,20
+Ethiopia,2023,1,5,True,0.4523440854213029,test,rf_regularized,20
+United Republic of Tanzania,2023,1,6,True,0.4412343256209017,test,rf_regularized,20
+Togo,2023,1,7,True,0.4140340941938162,test,rf_regularized,20
+Zimbabwe,2023,1,8,True,0.40611382737036195,test,rf_regularized,20
+Namibia,2023,1,9,True,0.3966182878177897,test,rf_regularized,20
+Zambia,2023,1,10,True,0.39504700061742193,test,rf_regularized,20
+Nepal,2023,1,11,True,0.38872285811971224,test,rf_regularized,20
+Ghana,2023,1,12,True,0.386338578002215,test,rf_regularized,20
+South Africa,2023,1,13,True,0.37460908298367723,test,rf_regularized,20
+Malaysia,2023,1,14,True,0.3702813065581088,test,rf_regularized,20
+United Arab Emirates,2023,1,15,True,0.35609338941655166,test,rf_regularized,20
+Lao People's Democratic Republic,2023,0,16,True,0.34901112866747347,test,rf_regularized,20
+Eritrea,2023,1,17,True,0.34735797105498195,test,rf_regularized,20
+Tajikistan,2023,0,18,True,0.3443509014208502,test,rf_regularized,20
+Congo,2023,1,19,True,0.3416196246707714,test,rf_regularized,20
+Romania,2023,1,20,True,0.3358243375326487,test,rf_regularized,20
+Malawi,2023,1,21,True,0.33234212398033525,test,rf_regularized,20
+Cambodia,2023,0,22,True,0.3287880138289782,test,rf_regularized,20
+Ukraine,2023,0,23,True,0.3163878197645777,test,rf_regularized,20
+Kazakhstan,2023,1,24,True,0.3153133672229066,test,rf_regularized,20
+Myanmar,2023,0,25,True,0.3103903668512936,test,rf_regularized,20
+Georgia,2023,1,27,False,0.2953756020010213,test,rf_regularized,20
+Gabon,2023,1,28,False,0.2936074685097146,test,rf_regularized,20
+Senegal,2023,1,33,False,0.2745255914525227,test,rf_regularized,20
+Equatorial Guinea,2023,1,34,False,0.271420452172813,test,rf_regularized,20
+Rwanda,2023,1,36,False,0.2611949137842333,test,rf_regularized,20
+Cameroon,2023,1,39,False,0.25083117619447204,test,rf_regularized,20
+Iran (Islamic Republic of),2023,1,40,False,0.2488765631500119,test,rf_regularized,20
+United Kingdom of Great Britain and Northern Ireland,2023,1,41,False,0.24586237567672578,test,rf_regularized,20
+Russian Federation,2023,1,43,False,0.22914356592581475,test,rf_regularized,20
+Uzbekistan,2023,1,44,False,0.22605669832360697,test,rf_regularized,20
+Belgium,2023,1,46,False,0.2218277395236794,test,rf_regularized,20
+Central African Republic,2023,1,50,False,0.2002288165623087,test,rf_regularized,20
+Botswana,2023,1,51,False,0.1982620826823518,test,rf_regularized,20
+Pakistan,2023,1,53,False,0.18858692394090185,test,rf_regularized,20
+Chad,2023,1,57,False,0.17557614506149388,test,rf_regularized,20
+Burundi,2023,1,59,False,0.1732708529780151,test,rf_regularized,20
+Qatar,2023,1,62,False,0.16448429493165942,test,rf_regularized,20
+Mauritania,2023,1,63,False,0.16337383735364067,test,rf_regularized,20
+Yemen,2023,1,66,False,0.15911381994842308,test,rf_regularized,20
+Maldives,2023,1,67,False,0.1522260574501863,test,rf_regularized,20
+Liberia,2023,1,71,False,0.14153450508512777,test,rf_regularized,20
+Democratic Republic of the Congo,2023,1,80,False,0.11427120630942937,test,rf_regularized,20
+Belarus,2023,1,93,False,0.045926440331581865,test,rf_regularized,20
+Armenia,2023,1,106,False,0.0272746864529218,test,rf_regularized,20
+Comoros,2024,1,1,True,0.6665732463917265,test,rf_regularized,20
+Romania,2024,1,2,True,0.6574522665533886,test,rf_regularized,20
+Kazakhstan,2024,1,3,True,0.6541351649928968,test,rf_regularized,20
+Iraq,2024,1,4,True,0.5769069807157386,test,rf_regularized,20
+Philippines,2024,1,5,True,0.5646800420968837,test,rf_regularized,20
+Russian Federation,2024,1,6,True,0.5523424520067219,test,rf_regularized,20
+Armenia,2024,1,7,True,0.5481838358142302,test,rf_regularized,20
+Qatar,2024,1,8,True,0.546841901568075,test,rf_regularized,20
+Malaysia,2024,1,9,True,0.5273964735040922,test,rf_regularized,20
+United Republic of Tanzania,2024,0,10,True,0.5248191197743142,test,rf_regularized,20
+Uzbekistan,2024,1,11,True,0.5014170742394566,test,rf_regularized,20
+Botswana,2024,0,12,True,0.49356858281665666,test,rf_regularized,20
+Nepal,2024,0,13,True,0.4810554726010717,test,rf_regularized,20
+South Africa,2024,1,14,True,0.448503141265209,test,rf_regularized,20
+Papua New Guinea,2024,0,15,True,0.4402865574166986,test,rf_regularized,20
+Syrian Arab Republic,2024,0,16,True,0.4386810712648193,test,rf_regularized,20
+North Macedonia,2024,0,17,True,0.4278968010551442,test,rf_regularized,20
+Maldives,2024,0,18,True,0.415220585352482,test,rf_regularized,20
+Belarus,2024,1,19,True,0.410582032858701,test,rf_regularized,20
+Malawi,2024,1,20,True,0.40043562504953145,test,rf_regularized,20
+Uganda,2024,1,21,True,0.3766818661833608,test,rf_regularized,20
+Iran (Islamic Republic of),2024,0,22,True,0.3707884798755654,test,rf_regularized,20
+United Kingdom of Great Britain and Northern Ireland,2024,1,23,True,0.3690476538202108,test,rf_regularized,20
+Georgia,2024,1,24,True,0.3666724629698873,test,rf_regularized,20
+Ghana,2024,1,25,True,0.3657639742242417,test,rf_regularized,20
+Belgium,2024,1,26,True,0.35912717278189,test,rf_regularized,20
+Equatorial Guinea,2024,1,29,False,0.3273562859686837,test,rf_regularized,20
+Cambodia,2024,1,30,False,0.3063793950506006,test,rf_regularized,20
+United Arab Emirates,2024,1,31,False,0.3041179760002023,test,rf_regularized,20
+Burundi,2024,1,32,False,0.3005721754871481,test,rf_regularized,20
+Viet Nam,2024,1,36,False,0.26205459593432484,test,rf_regularized,20
+Ukraine,2024,1,40,False,0.2491528377745276,test,rf_regularized,20
+Poland,2024,1,41,False,0.24914947667641896,test,rf_regularized,20
+France,2024,1,44,False,0.2407498205519692,test,rf_regularized,20
+Lithuania,2024,1,48,False,0.22764597890741442,test,rf_regularized,20
+Pakistan,2024,1,54,False,0.2143654656910685,test,rf_regularized,20
+Mauritania,2024,1,55,False,0.2143185856220486,test,rf_regularized,20
+Germany,2024,1,58,False,0.20345200417412693,test,rf_regularized,20
+Italy,2024,1,63,False,0.1842754357786761,test,rf_regularized,20
+Afghanistan,2024,1,68,False,0.16279255035573467,test,rf_regularized,20
+Ethiopia,2024,1,72,False,0.15881924075873502,test,rf_regularized,20
+Chad,2024,1,74,False,0.14776126704677328,test,rf_regularized,20
+Malta,2024,1,77,False,0.1430168654054575,test,rf_regularized,20
+Slovenia,2024,1,78,False,0.1416609521671479,test,rf_regularized,20
+Cyprus,2024,1,88,False,0.09193022959081293,test,rf_regularized,20
+Montenegro,2024,1,90,False,0.06979391853082062,test,rf_regularized,20
+Bermuda,2024,1,111,False,0.023265786457691832,test,rf_regularized,20
+Iceland,2024,1,114,False,0.02210304904975006,test,rf_regularized,20
+San Marino,2024,1,118,False,0.019394449017041803,test,rf_regularized,20
+Seychelles,2024,1,121,False,0.017907753822440996,test,rf_regularized,20
+Bosnia and Herzegovina,2025,1,1,True,0.689261767706684,test,rf_regularized,20
+Cambodia,2025,1,2,True,0.6052074999931641,test,rf_regularized,20
+Thailand,2025,1,3,True,0.5962858630817592,test,rf_regularized,20
+Montenegro,2025,1,4,True,0.5899616220528171,test,rf_regularized,20
+Papua New Guinea,2025,0,5,True,0.5694098502322728,test,rf_regularized,20
+Malawi,2025,1,6,True,0.5604244701605445,test,rf_regularized,20
+United Kingdom of Great Britain and Northern Ireland,2025,1,7,True,0.5560353301217407,test,rf_regularized,20
+Belgium,2025,1,8,True,0.5474188283136855,test,rf_regularized,20
+San Marino,2025,0,9,True,0.5430171787607857,test,rf_regularized,20
+Viet Nam,2025,1,10,True,0.5420240363653231,test,rf_regularized,20
+Uganda,2025,1,11,True,0.54133168824648,test,rf_regularized,20
+Bermuda,2025,0,12,True,0.4779758027870666,test,rf_regularized,20
+Timor-Leste,2025,0,13,True,0.4778762177287569,test,rf_regularized,20
+North Macedonia,2025,0,14,True,0.4608710104173521,test,rf_regularized,20
+Cyprus,2025,1,15,True,0.43227699623245264,test,rf_regularized,20
+Malta,2025,0,16,True,0.40978435014093073,test,rf_regularized,20
+Seychelles,2025,0,17,True,0.39648027349076864,test,rf_regularized,20
+Lithuania,2025,0,18,True,0.3954677601419198,test,rf_regularized,20
+Georgia,2025,1,19,True,0.3914427272570221,test,rf_regularized,20
+Italy,2025,1,20,True,0.39072353076611055,test,rf_regularized,20
+Ukraine,2025,1,21,True,0.38302187649397057,test,rf_regularized,20
+Nepal,2025,0,22,True,0.3812344225831682,test,rf_regularized,20
+Iran (Islamic Republic of),2025,1,23,True,0.37554279211408076,test,rf_regularized,20
+Iceland,2025,0,24,True,0.37539611399707606,test,rf_regularized,20
+Luxembourg,2025,0,25,True,0.36840008648612615,test,rf_regularized,20
+Poland,2025,0,26,True,0.3647567014637833,test,rf_regularized,20
+Slovenia,2025,0,27,True,0.35359449270438315,test,rf_regularized,20
+Myanmar,2025,0,28,True,0.3532437371051562,test,rf_regularized,20
+France,2025,1,31,False,0.3471526906684987,test,rf_regularized,20
+South Africa,2025,1,33,False,0.3440240869762368,test,rf_regularized,20
+Spain,2025,1,34,False,0.3435078875072182,test,rf_regularized,20
+Estonia,2025,1,35,False,0.335607713037538,test,rf_regularized,20
+Rwanda,2025,1,37,False,0.3134637890784694,test,rf_regularized,20
+Mongolia,2025,1,39,False,0.2947708294350313,test,rf_regularized,20
+Canada,2025,1,41,False,0.2808071896325879,test,rf_regularized,20
+Sudan,2025,1,43,False,0.27530478048854157,test,rf_regularized,20
+Namibia,2025,1,45,False,0.2710219458789535,test,rf_regularized,20
+Australia,2025,1,53,False,0.2500341289235876,test,rf_regularized,20
+Central African Republic,2025,1,65,False,0.20270544036593277,test,rf_regularized,20
+Tajikistan,2025,1,76,False,0.14876720096877777,test,rf_regularized,20
+Afghanistan,2025,1,82,False,0.1387630901538959,test,rf_regularized,20
+Lao People's Democratic Republic,2025,1,84,False,0.13414637532955612,test,rf_regularized,20
+Niger,2025,1,98,False,0.1086158922721585,test,rf_regularized,20
+Mexico,2025,1,108,False,0.04463800930343513,test,rf_regularized,20
+Paraguay,2025,1,122,False,0.032384814276668096,test,rf_regularized,20
+Belize,2025,1,129,False,0.019953824103550885,test,rf_regularized,20
+Gabon,2022,1,1,True,0.8136085867881775,test,xgb_regularized,10
+Afghanistan,2022,1,2,True,0.6150004267692566,test,xgb_regularized,10
+Zimbabwe,2022,1,3,True,0.48391956090927124,test,xgb_regularized,10
+Côte d'Ivoire,2022,1,4,True,0.4611425995826721,test,xgb_regularized,10
+North Macedonia,2022,0,5,True,0.44844481348991394,test,xgb_regularized,10
+Mali,2022,0,6,True,0.44066092371940613,test,xgb_regularized,10
+India,2022,1,7,True,0.4212567210197449,test,xgb_regularized,10
+Syrian Arab Republic,2022,1,8,True,0.40335750579833984,test,xgb_regularized,10
+Pakistan,2022,1,9,True,0.399641752243042,test,xgb_regularized,10
+Eritrea,2022,1,10,True,0.38520753383636475,test,xgb_regularized,10
+Congo,2022,1,11,True,0.3825402855873108,test,xgb_regularized,10
+Yemen,2022,1,12,True,0.34424930810928345,test,xgb_regularized,10
+Mozambique,2022,1,13,True,0.33775919675827026,test,xgb_regularized,10
+Kenya,2022,1,14,False,0.33218470215797424,test,xgb_regularized,10
+Ethiopia,2022,1,19,False,0.3093034625053406,test,xgb_regularized,10
+Tajikistan,2022,1,21,False,0.3068986237049103,test,xgb_regularized,10
+Nigeria,2022,1,22,False,0.29942187666893005,test,xgb_regularized,10
+Zambia,2022,1,23,False,0.2950197160243988,test,xgb_regularized,10
+Ghana,2022,1,24,False,0.29011568427085876,test,xgb_regularized,10
+Namibia,2022,1,27,False,0.2632322907447815,test,xgb_regularized,10
+Togo,2022,1,39,False,0.19316165149211884,test,xgb_regularized,10
+Cameroon,2022,1,43,False,0.18371550738811493,test,xgb_regularized,10
+United Republic of Tanzania,2022,1,49,False,0.16680648922920227,test,xgb_regularized,10
+Senegal,2022,1,53,False,0.16384121775627136,test,xgb_regularized,10
+South Africa,2022,1,54,False,0.16073483228683472,test,xgb_regularized,10
+Somalia,2022,1,73,False,0.12569589912891388,test,xgb_regularized,10
+Liberia,2022,1,97,False,0.08431355655193329,test,xgb_regularized,10
+Philippines,2023,1,1,True,0.6575656533241272,test,xgb_regularized,10
+Syrian Arab Republic,2023,1,2,True,0.6463667154312134,test,xgb_regularized,10
+Ethiopia,2023,1,3,True,0.6137591004371643,test,xgb_regularized,10
+Comoros,2023,1,4,True,0.5892069935798645,test,xgb_regularized,10
+India,2023,1,5,True,0.522456705570221,test,xgb_regularized,10
+Togo,2023,1,6,True,0.518306314945221,test,xgb_regularized,10
+Zambia,2023,1,7,True,0.4873666763305664,test,xgb_regularized,10
+United Republic of Tanzania,2023,1,8,True,0.4827854037284851,test,xgb_regularized,10
+Zimbabwe,2023,1,9,True,0.4642687439918518,test,xgb_regularized,10
+Namibia,2023,1,10,True,0.4641004502773285,test,xgb_regularized,10
+Nepal,2023,1,11,True,0.4500690698623657,test,xgb_regularized,10
+South Africa,2023,1,12,True,0.44352710247039795,test,xgb_regularized,10
+Ghana,2023,1,13,True,0.4218862056732178,test,xgb_regularized,10
+Congo,2023,1,15,False,0.4034803509712219,test,xgb_regularized,10
+Malaysia,2023,1,16,False,0.40345802903175354,test,xgb_regularized,10
+United Arab Emirates,2023,1,18,False,0.3826211094856262,test,xgb_regularized,10
+Kazakhstan,2023,1,19,False,0.35508430004119873,test,xgb_regularized,10
+Romania,2023,1,21,False,0.33784720301628113,test,xgb_regularized,10
+Gabon,2023,1,25,False,0.3255402743816376,test,xgb_regularized,10
+Eritrea,2023,1,26,False,0.3255213797092438,test,xgb_regularized,10
+Cameroon,2023,1,28,False,0.3167816698551178,test,xgb_regularized,10
+Malawi,2023,1,29,False,0.311705082654953,test,xgb_regularized,10
+Georgia,2023,1,30,False,0.2893638610839844,test,xgb_regularized,10
+Senegal,2023,1,33,False,0.2606463134288788,test,xgb_regularized,10
+Iran (Islamic Republic of),2023,1,35,False,0.24776890873908997,test,xgb_regularized,10
+United Kingdom of Great Britain and Northern Ireland,2023,1,37,False,0.23590759932994843,test,xgb_regularized,10
+Rwanda,2023,1,39,False,0.23154707252979279,test,xgb_regularized,10
+Equatorial Guinea,2023,1,40,False,0.22912031412124634,test,xgb_regularized,10
+Russian Federation,2023,1,43,False,0.206515371799469,test,xgb_regularized,10
+Uzbekistan,2023,1,45,False,0.18654344975948334,test,xgb_regularized,10
+Belgium,2023,1,46,False,0.18372659385204315,test,xgb_regularized,10
+Botswana,2023,1,48,False,0.17754435539245605,test,xgb_regularized,10
+Central African Republic,2023,1,50,False,0.1697012335062027,test,xgb_regularized,10
+Mauritania,2023,1,54,False,0.1520644575357437,test,xgb_regularized,10
+Pakistan,2023,1,56,False,0.14470288157463074,test,xgb_regularized,10
+Qatar,2023,1,57,False,0.1386234015226364,test,xgb_regularized,10
+Burundi,2023,1,63,False,0.12555411458015442,test,xgb_regularized,10
+Maldives,2023,1,64,False,0.12396889179944992,test,xgb_regularized,10
+Yemen,2023,1,65,False,0.12367977946996689,test,xgb_regularized,10
+Chad,2023,1,70,False,0.11162565648555756,test,xgb_regularized,10
+Liberia,2023,1,73,False,0.10422759503126144,test,xgb_regularized,10
+Democratic Republic of the Congo,2023,1,86,False,0.07818097621202469,test,xgb_regularized,10
+Belarus,2023,1,90,False,0.05920375883579254,test,xgb_regularized,10
+Armenia,2023,1,117,False,0.03167340159416199,test,xgb_regularized,10
+Comoros,2024,1,1,True,0.8275021910667419,test,xgb_regularized,10
+Kazakhstan,2024,1,2,True,0.8046867251396179,test,xgb_regularized,10
+Romania,2024,1,3,True,0.7748837471008301,test,xgb_regularized,10
+Russian Federation,2024,1,4,True,0.7299203276634216,test,xgb_regularized,10
+Qatar,2024,1,5,True,0.7163812518119812,test,xgb_regularized,10
+Iraq,2024,1,6,True,0.7117476463317871,test,xgb_regularized,10
+Malaysia,2024,1,7,True,0.697185754776001,test,xgb_regularized,10
+Armenia,2024,1,8,True,0.6946145296096802,test,xgb_regularized,10
+Syrian Arab Republic,2024,0,9,True,0.6566793918609619,test,xgb_regularized,10
+United Republic of Tanzania,2024,0,10,True,0.6063575744628906,test,xgb_regularized,10
+Philippines,2024,1,11,True,0.5885775685310364,test,xgb_regularized,10
+Uzbekistan,2024,1,12,True,0.5768073797225952,test,xgb_regularized,10
+Nepal,2024,0,13,True,0.5642536878585815,test,xgb_regularized,10
+South Africa,2024,1,15,False,0.4893430471420288,test,xgb_regularized,10
+Belarus,2024,1,16,False,0.45900657773017883,test,xgb_regularized,10
+Ghana,2024,1,17,False,0.4575379192829132,test,xgb_regularized,10
+Malawi,2024,1,18,False,0.45396870374679565,test,xgb_regularized,10
+United Kingdom of Great Britain and Northern Ireland,2024,1,19,False,0.43107742071151733,test,xgb_regularized,10
+Equatorial Guinea,2024,1,21,False,0.4095853567123413,test,xgb_regularized,10
+Georgia,2024,1,23,False,0.4051225185394287,test,xgb_regularized,10
+Belgium,2024,1,24,False,0.39610642194747925,test,xgb_regularized,10
+United Arab Emirates,2024,1,28,False,0.3822041153907776,test,xgb_regularized,10
+Burundi,2024,1,29,False,0.3724657893180847,test,xgb_regularized,10
+Uganda,2024,1,30,False,0.3608340620994568,test,xgb_regularized,10
+Pakistan,2024,1,35,False,0.25996872782707214,test,xgb_regularized,10
+Ukraine,2024,1,37,False,0.24637344479560852,test,xgb_regularized,10
+Mauritania,2024,1,38,False,0.23907935619354248,test,xgb_regularized,10
+Poland,2024,1,40,False,0.23297008872032166,test,xgb_regularized,10
+France,2024,1,41,False,0.23182107508182526,test,xgb_regularized,10
+Viet Nam,2024,1,42,False,0.22687466442584991,test,xgb_regularized,10
+Cambodia,2024,1,48,False,0.2135755717754364,test,xgb_regularized,10
+Germany,2024,1,55,False,0.1968226432800293,test,xgb_regularized,10
+Lithuania,2024,1,57,False,0.19660721719264984,test,xgb_regularized,10
+Italy,2024,1,62,False,0.16252495348453522,test,xgb_regularized,10
+Afghanistan,2024,1,71,False,0.12228770554065704,test,xgb_regularized,10
+Chad,2024,1,72,False,0.11922182887792587,test,xgb_regularized,10
+Ethiopia,2024,1,74,False,0.11302866786718369,test,xgb_regularized,10
+Slovenia,2024,1,78,False,0.10709220916032791,test,xgb_regularized,10
+Malta,2024,1,86,False,0.08613646030426025,test,xgb_regularized,10
+Cyprus,2024,1,87,False,0.08476399630308151,test,xgb_regularized,10
+Montenegro,2024,1,89,False,0.08211175352334976,test,xgb_regularized,10
+San Marino,2024,1,108,False,0.03495276719331741,test,xgb_regularized,10
+Iceland,2024,1,109,False,0.033182039856910706,test,xgb_regularized,10
+Bermuda,2024,1,112,False,0.032701242715120316,test,xgb_regularized,10
+Seychelles,2024,1,120,False,0.03083428181707859,test,xgb_regularized,10
+Montenegro,2025,1,1,True,0.8096432685852051,test,xgb_regularized,10
+Bosnia and Herzegovina,2025,1,2,True,0.8057922720909119,test,xgb_regularized,10
+Thailand,2025,1,3,True,0.7370855212211609,test,xgb_regularized,10
+Viet Nam,2025,1,4,True,0.7279217839241028,test,xgb_regularized,10
+San Marino,2025,0,5,True,0.7199221849441528,test,xgb_regularized,10
+United Kingdom of Great Britain and Northern Ireland,2025,1,6,True,0.7131056785583496,test,xgb_regularized,10
+Cambodia,2025,1,7,True,0.705967366695404,test,xgb_regularized,10
+Belgium,2025,1,8,True,0.6271175146102905,test,xgb_regularized,10
+Papua New Guinea,2025,0,9,True,0.6055322885513306,test,xgb_regularized,10
+Malawi,2025,1,10,True,0.5931655764579773,test,xgb_regularized,10
+Uganda,2025,1,11,True,0.5792067646980286,test,xgb_regularized,10
+Bermuda,2025,0,12,True,0.5546521544456482,test,xgb_regularized,10
+Lithuania,2025,0,13,True,0.48574307560920715,test,xgb_regularized,10
+Timor-Leste,2025,0,14,True,0.4800325930118561,test,xgb_regularized,10
+Georgia,2025,1,15,False,0.47405585646629333,test,xgb_regularized,10
+Ukraine,2025,1,16,False,0.452968567609787,test,xgb_regularized,10
+Cyprus,2025,1,18,False,0.4439023435115814,test,xgb_regularized,10
+Italy,2025,1,19,False,0.43776705861091614,test,xgb_regularized,10
+Iran (Islamic Republic of),2025,1,23,False,0.3990061283111572,test,xgb_regularized,10
+France,2025,1,28,False,0.3804534673690796,test,xgb_regularized,10
+Spain,2025,1,29,False,0.3785267174243927,test,xgb_regularized,10
+Estonia,2025,1,36,False,0.3159770369529724,test,xgb_regularized,10
+South Africa,2025,1,37,False,0.3158065378665924,test,xgb_regularized,10
+Canada,2025,1,39,False,0.3113616108894348,test,xgb_regularized,10
+Rwanda,2025,1,41,False,0.307818204164505,test,xgb_regularized,10
+Mongolia,2025,1,44,False,0.27648550271987915,test,xgb_regularized,10
+Australia,2025,1,47,False,0.2634062170982361,test,xgb_regularized,10
+Sudan,2025,1,54,False,0.22625549137592316,test,xgb_regularized,10
+Namibia,2025,1,65,False,0.19560573995113373,test,xgb_regularized,10
+Central African Republic,2025,1,71,False,0.1708047091960907,test,xgb_regularized,10
+Lao People's Democratic Republic,2025,1,75,False,0.14638106524944305,test,xgb_regularized,10
+Afghanistan,2025,1,77,False,0.12277381122112274,test,xgb_regularized,10
+Tajikistan,2025,1,96,False,0.09083981066942215,test,xgb_regularized,10
+Niger,2025,1,99,False,0.08513485640287399,test,xgb_regularized,10
+Mexico,2025,1,108,False,0.042469486594200134,test,xgb_regularized,10
+Belize,2025,1,113,False,0.03877439722418785,test,xgb_regularized,10
+Paraguay,2025,1,116,False,0.03594513237476349,test,xgb_regularized,10
+Gabon,2022,1,1,True,0.8136085867881775,test,xgb_regularized,20
+Afghanistan,2022,1,2,True,0.6150004267692566,test,xgb_regularized,20
+Zimbabwe,2022,1,3,True,0.48391956090927124,test,xgb_regularized,20
+Côte d'Ivoire,2022,1,4,True,0.4611425995826721,test,xgb_regularized,20
+North Macedonia,2022,0,5,True,0.44844481348991394,test,xgb_regularized,20
+Mali,2022,0,6,True,0.44066092371940613,test,xgb_regularized,20
+India,2022,1,7,True,0.4212567210197449,test,xgb_regularized,20
+Syrian Arab Republic,2022,1,8,True,0.40335750579833984,test,xgb_regularized,20
+Pakistan,2022,1,9,True,0.399641752243042,test,xgb_regularized,20
+Eritrea,2022,1,10,True,0.38520753383636475,test,xgb_regularized,20
+Congo,2022,1,11,True,0.3825402855873108,test,xgb_regularized,20
+Yemen,2022,1,12,True,0.34424930810928345,test,xgb_regularized,20
+Mozambique,2022,1,13,True,0.33775919675827026,test,xgb_regularized,20
+Kenya,2022,1,14,True,0.33218470215797424,test,xgb_regularized,20
+Malta,2022,0,15,True,0.31958919763565063,test,xgb_regularized,20
+Georgia,2022,0,16,True,0.3186275064945221,test,xgb_regularized,20
+Myanmar,2022,0,17,True,0.3171592056751251,test,xgb_regularized,20
+United Arab Emirates,2022,0,18,True,0.31432563066482544,test,xgb_regularized,20
+Ethiopia,2022,1,19,True,0.3093034625053406,test,xgb_regularized,20
+Mauritania,2022,0,20,True,0.30747976899147034,test,xgb_regularized,20
+Tajikistan,2022,1,21,True,0.3068986237049103,test,xgb_regularized,20
+Nigeria,2022,1,22,True,0.29942187666893005,test,xgb_regularized,20
+Zambia,2022,1,23,True,0.2950197160243988,test,xgb_regularized,20
+Ghana,2022,1,24,True,0.29011568427085876,test,xgb_regularized,20
+Rwanda,2022,0,25,True,0.2890293002128601,test,xgb_regularized,20
+Namibia,2022,1,27,False,0.2632322907447815,test,xgb_regularized,20
+Togo,2022,1,39,False,0.19316165149211884,test,xgb_regularized,20
+Cameroon,2022,1,43,False,0.18371550738811493,test,xgb_regularized,20
+United Republic of Tanzania,2022,1,49,False,0.16680648922920227,test,xgb_regularized,20
+Senegal,2022,1,53,False,0.16384121775627136,test,xgb_regularized,20
+South Africa,2022,1,54,False,0.16073483228683472,test,xgb_regularized,20
+Somalia,2022,1,73,False,0.12569589912891388,test,xgb_regularized,20
+Liberia,2022,1,97,False,0.08431355655193329,test,xgb_regularized,20
+Philippines,2023,1,1,True,0.6575656533241272,test,xgb_regularized,20
+Syrian Arab Republic,2023,1,2,True,0.6463667154312134,test,xgb_regularized,20
+Ethiopia,2023,1,3,True,0.6137591004371643,test,xgb_regularized,20
+Comoros,2023,1,4,True,0.5892069935798645,test,xgb_regularized,20
+India,2023,1,5,True,0.522456705570221,test,xgb_regularized,20
+Togo,2023,1,6,True,0.518306314945221,test,xgb_regularized,20
+Zambia,2023,1,7,True,0.4873666763305664,test,xgb_regularized,20
+United Republic of Tanzania,2023,1,8,True,0.4827854037284851,test,xgb_regularized,20
+Zimbabwe,2023,1,9,True,0.4642687439918518,test,xgb_regularized,20
+Namibia,2023,1,10,True,0.4641004502773285,test,xgb_regularized,20
+Nepal,2023,1,11,True,0.4500690698623657,test,xgb_regularized,20
+South Africa,2023,1,12,True,0.44352710247039795,test,xgb_regularized,20
+Ghana,2023,1,13,True,0.4218862056732178,test,xgb_regularized,20
+Tajikistan,2023,0,14,True,0.40818268060684204,test,xgb_regularized,20
+Congo,2023,1,15,True,0.4034803509712219,test,xgb_regularized,20
+Malaysia,2023,1,16,True,0.40345802903175354,test,xgb_regularized,20
+Mozambique,2023,0,17,True,0.3874466121196747,test,xgb_regularized,20
+United Arab Emirates,2023,1,18,True,0.3826211094856262,test,xgb_regularized,20
+Kazakhstan,2023,1,19,True,0.35508430004119873,test,xgb_regularized,20
+Nigeria,2023,0,20,True,0.3397970497608185,test,xgb_regularized,20
+Romania,2023,1,21,True,0.33784720301628113,test,xgb_regularized,20
+Côte d'Ivoire,2023,0,22,True,0.33784380555152893,test,xgb_regularized,20
+Kenya,2023,0,23,True,0.32895487546920776,test,xgb_regularized,20
+Myanmar,2023,0,24,True,0.3257288336753845,test,xgb_regularized,20
+Gabon,2023,1,25,True,0.3255402743816376,test,xgb_regularized,20
+Eritrea,2023,1,26,False,0.3255213797092438,test,xgb_regularized,20
+Cameroon,2023,1,28,False,0.3167816698551178,test,xgb_regularized,20
+Malawi,2023,1,29,False,0.311705082654953,test,xgb_regularized,20
+Georgia,2023,1,30,False,0.2893638610839844,test,xgb_regularized,20
+Senegal,2023,1,33,False,0.2606463134288788,test,xgb_regularized,20
+Iran (Islamic Republic of),2023,1,35,False,0.24776890873908997,test,xgb_regularized,20
+United Kingdom of Great Britain and Northern Ireland,2023,1,37,False,0.23590759932994843,test,xgb_regularized,20
+Rwanda,2023,1,39,False,0.23154707252979279,test,xgb_regularized,20
+Equatorial Guinea,2023,1,40,False,0.22912031412124634,test,xgb_regularized,20
+Russian Federation,2023,1,43,False,0.206515371799469,test,xgb_regularized,20
+Uzbekistan,2023,1,45,False,0.18654344975948334,test,xgb_regularized,20
+Belgium,2023,1,46,False,0.18372659385204315,test,xgb_regularized,20
+Botswana,2023,1,48,False,0.17754435539245605,test,xgb_regularized,20
+Central African Republic,2023,1,50,False,0.1697012335062027,test,xgb_regularized,20
+Mauritania,2023,1,54,False,0.1520644575357437,test,xgb_regularized,20
+Pakistan,2023,1,56,False,0.14470288157463074,test,xgb_regularized,20
+Qatar,2023,1,57,False,0.1386234015226364,test,xgb_regularized,20
+Burundi,2023,1,63,False,0.12555411458015442,test,xgb_regularized,20
+Maldives,2023,1,64,False,0.12396889179944992,test,xgb_regularized,20
+Yemen,2023,1,65,False,0.12367977946996689,test,xgb_regularized,20
+Chad,2023,1,70,False,0.11162565648555756,test,xgb_regularized,20
+Liberia,2023,1,73,False,0.10422759503126144,test,xgb_regularized,20
+Democratic Republic of the Congo,2023,1,86,False,0.07818097621202469,test,xgb_regularized,20
+Belarus,2023,1,90,False,0.05920375883579254,test,xgb_regularized,20
+Armenia,2023,1,117,False,0.03167340159416199,test,xgb_regularized,20
+Comoros,2024,1,1,True,0.8275021910667419,test,xgb_regularized,20
+Kazakhstan,2024,1,2,True,0.8046867251396179,test,xgb_regularized,20
+Romania,2024,1,3,True,0.7748837471008301,test,xgb_regularized,20
+Russian Federation,2024,1,4,True,0.7299203276634216,test,xgb_regularized,20
+Qatar,2024,1,5,True,0.7163812518119812,test,xgb_regularized,20
+Iraq,2024,1,6,True,0.7117476463317871,test,xgb_regularized,20
+Malaysia,2024,1,7,True,0.697185754776001,test,xgb_regularized,20
+Armenia,2024,1,8,True,0.6946145296096802,test,xgb_regularized,20
+Syrian Arab Republic,2024,0,9,True,0.6566793918609619,test,xgb_regularized,20
+United Republic of Tanzania,2024,0,10,True,0.6063575744628906,test,xgb_regularized,20
+Philippines,2024,1,11,True,0.5885775685310364,test,xgb_regularized,20
+Uzbekistan,2024,1,12,True,0.5768073797225952,test,xgb_regularized,20
+Nepal,2024,0,13,True,0.5642536878585815,test,xgb_regularized,20
+Botswana,2024,0,14,True,0.5369353890419006,test,xgb_regularized,20
+South Africa,2024,1,15,True,0.4893430471420288,test,xgb_regularized,20
+Belarus,2024,1,16,True,0.45900657773017883,test,xgb_regularized,20
+Ghana,2024,1,17,True,0.4575379192829132,test,xgb_regularized,20
+Malawi,2024,1,18,True,0.45396870374679565,test,xgb_regularized,20
+United Kingdom of Great Britain and Northern Ireland,2024,1,19,True,0.43107742071151733,test,xgb_regularized,20
+Papua New Guinea,2024,0,20,True,0.41583970189094543,test,xgb_regularized,20
+Equatorial Guinea,2024,1,21,True,0.4095853567123413,test,xgb_regularized,20
+Maldives,2024,0,22,True,0.40925517678260803,test,xgb_regularized,20
+Georgia,2024,1,23,True,0.4051225185394287,test,xgb_regularized,20
+Belgium,2024,1,24,True,0.39610642194747925,test,xgb_regularized,20
+North Macedonia,2024,0,25,True,0.3960984945297241,test,xgb_regularized,20
+Iran (Islamic Republic of),2024,0,26,True,0.39530614018440247,test,xgb_regularized,20
+United Arab Emirates,2024,1,28,False,0.3822041153907776,test,xgb_regularized,20
+Burundi,2024,1,29,False,0.3724657893180847,test,xgb_regularized,20
+Uganda,2024,1,30,False,0.3608340620994568,test,xgb_regularized,20
+Pakistan,2024,1,35,False,0.25996872782707214,test,xgb_regularized,20
+Ukraine,2024,1,37,False,0.24637344479560852,test,xgb_regularized,20
+Mauritania,2024,1,38,False,0.23907935619354248,test,xgb_regularized,20
+Poland,2024,1,40,False,0.23297008872032166,test,xgb_regularized,20
+France,2024,1,41,False,0.23182107508182526,test,xgb_regularized,20
+Viet Nam,2024,1,42,False,0.22687466442584991,test,xgb_regularized,20
+Cambodia,2024,1,48,False,0.2135755717754364,test,xgb_regularized,20
+Germany,2024,1,55,False,0.1968226432800293,test,xgb_regularized,20
+Lithuania,2024,1,57,False,0.19660721719264984,test,xgb_regularized,20
+Italy,2024,1,62,False,0.16252495348453522,test,xgb_regularized,20
+Afghanistan,2024,1,71,False,0.12228770554065704,test,xgb_regularized,20
+Chad,2024,1,72,False,0.11922182887792587,test,xgb_regularized,20
+Ethiopia,2024,1,74,False,0.11302866786718369,test,xgb_regularized,20
+Slovenia,2024,1,78,False,0.10709220916032791,test,xgb_regularized,20
+Malta,2024,1,86,False,0.08613646030426025,test,xgb_regularized,20
+Cyprus,2024,1,87,False,0.08476399630308151,test,xgb_regularized,20
+Montenegro,2024,1,89,False,0.08211175352334976,test,xgb_regularized,20
+San Marino,2024,1,108,False,0.03495276719331741,test,xgb_regularized,20
+Iceland,2024,1,109,False,0.033182039856910706,test,xgb_regularized,20
+Bermuda,2024,1,112,False,0.032701242715120316,test,xgb_regularized,20
+Seychelles,2024,1,120,False,0.03083428181707859,test,xgb_regularized,20
+Montenegro,2025,1,1,True,0.8096432685852051,test,xgb_regularized,20
+Bosnia and Herzegovina,2025,1,2,True,0.8057922720909119,test,xgb_regularized,20
+Thailand,2025,1,3,True,0.7370855212211609,test,xgb_regularized,20
+Viet Nam,2025,1,4,True,0.7279217839241028,test,xgb_regularized,20
+San Marino,2025,0,5,True,0.7199221849441528,test,xgb_regularized,20
+United Kingdom of Great Britain and Northern Ireland,2025,1,6,True,0.7131056785583496,test,xgb_regularized,20
+Cambodia,2025,1,7,True,0.705967366695404,test,xgb_regularized,20
+Belgium,2025,1,8,True,0.6271175146102905,test,xgb_regularized,20
+Papua New Guinea,2025,0,9,True,0.6055322885513306,test,xgb_regularized,20
+Malawi,2025,1,10,True,0.5931655764579773,test,xgb_regularized,20
+Uganda,2025,1,11,True,0.5792067646980286,test,xgb_regularized,20
+Bermuda,2025,0,12,True,0.5546521544456482,test,xgb_regularized,20
+Lithuania,2025,0,13,True,0.48574307560920715,test,xgb_regularized,20
+Timor-Leste,2025,0,14,True,0.4800325930118561,test,xgb_regularized,20
+Georgia,2025,1,15,True,0.47405585646629333,test,xgb_regularized,20
+Ukraine,2025,1,16,True,0.452968567609787,test,xgb_regularized,20
+North Macedonia,2025,0,17,True,0.44819530844688416,test,xgb_regularized,20
+Cyprus,2025,1,18,True,0.4439023435115814,test,xgb_regularized,20
+Italy,2025,1,19,True,0.43776705861091614,test,xgb_regularized,20
+Malta,2025,0,20,True,0.4303762912750244,test,xgb_regularized,20
+Poland,2025,0,21,True,0.42048075795173645,test,xgb_regularized,20
+Slovenia,2025,0,22,True,0.41257691383361816,test,xgb_regularized,20
+Iran (Islamic Republic of),2025,1,23,True,0.3990061283111572,test,xgb_regularized,20
+Germany,2025,0,24,True,0.39610642194747925,test,xgb_regularized,20
+Seychelles,2025,0,25,True,0.39542263746261597,test,xgb_regularized,20
+Syrian Arab Republic,2025,0,26,True,0.39357954263687134,test,xgb_regularized,20
+Denmark,2025,0,27,True,0.3804534673690796,test,xgb_regularized,20
+France,2025,1,28,True,0.3804534673690796,test,xgb_regularized,20
+Spain,2025,1,29,False,0.3785267174243927,test,xgb_regularized,20
+Estonia,2025,1,36,False,0.3159770369529724,test,xgb_regularized,20
+South Africa,2025,1,37,False,0.3158065378665924,test,xgb_regularized,20
+Canada,2025,1,39,False,0.3113616108894348,test,xgb_regularized,20
+Rwanda,2025,1,41,False,0.307818204164505,test,xgb_regularized,20
+Mongolia,2025,1,44,False,0.27648550271987915,test,xgb_regularized,20
+Australia,2025,1,47,False,0.2634062170982361,test,xgb_regularized,20
+Sudan,2025,1,54,False,0.22625549137592316,test,xgb_regularized,20
+Namibia,2025,1,65,False,0.19560573995113373,test,xgb_regularized,20
+Central African Republic,2025,1,71,False,0.1708047091960907,test,xgb_regularized,20
+Lao People's Democratic Republic,2025,1,75,False,0.14638106524944305,test,xgb_regularized,20
+Afghanistan,2025,1,77,False,0.12277381122112274,test,xgb_regularized,20
+Tajikistan,2025,1,96,False,0.09083981066942215,test,xgb_regularized,20
+Niger,2025,1,99,False,0.08513485640287399,test,xgb_regularized,20
+Mexico,2025,1,108,False,0.042469486594200134,test,xgb_regularized,20
+Belize,2025,1,113,False,0.03877439722418785,test,xgb_regularized,20
+Paraguay,2025,1,116,False,0.03594513237476349,test,xgb_regularized,20
+Madagascar,2022,0,1,True,76.0,unseen_country_test,coverage_shortfall_rank,10
+Angola,2022,1,2,True,71.0,unseen_country_test,coverage_shortfall_rank,10
+Indonesia,2022,1,3,True,47.0,unseen_country_test,coverage_shortfall_rank,10
+Sierra Leone,2022,1,8,False,33.0,unseen_country_test,coverage_shortfall_rank,10
+Eswatini,2022,1,9,False,31.0,unseen_country_test,coverage_shortfall_rank,10
+Bahrain,2022,1,25,False,1.0,unseen_country_test,coverage_shortfall_rank,10
+Benin,2022,1,27,False,-inf,unseen_country_test,coverage_shortfall_rank,10
+Madagascar,2023,1,1,True,68.0,unseen_country_test,coverage_shortfall_rank,10
+Angola,2023,1,2,True,67.0,unseen_country_test,coverage_shortfall_rank,10
+Bolivia (Plurinational State of),2023,0,3,True,51.0,unseen_country_test,coverage_shortfall_rank,10
+Azerbaijan,2023,1,6,False,29.0,unseen_country_test,coverage_shortfall_rank,10
+Indonesia,2023,1,7,False,29.0,unseen_country_test,coverage_shortfall_rank,10
+Sierra Leone,2023,1,10,False,27.0,unseen_country_test,coverage_shortfall_rank,10
+Serbia,2023,1,12,False,19.0,unseen_country_test,coverage_shortfall_rank,10
+Austria,2023,1,18,False,8.0,unseen_country_test,coverage_shortfall_rank,10
+Switzerland,2023,1,20,False,6.0,unseen_country_test,coverage_shortfall_rank,10
+Saudi Arabia,2023,1,23,False,2.0,unseen_country_test,coverage_shortfall_rank,10
+Benin,2023,1,25,False,-inf,unseen_country_test,coverage_shortfall_rank,10
+Vanuatu,2024,0,1,True,79.0,unseen_country_test,coverage_shortfall_rank,10
+Angola,2024,0,2,True,57.0,unseen_country_test,coverage_shortfall_rank,10
+Madagascar,2024,0,3,True,53.0,unseen_country_test,coverage_shortfall_rank,10
+Azerbaijan,2024,1,7,False,29.0,unseen_country_test,coverage_shortfall_rank,10
+Austria,2024,1,12,False,19.0,unseen_country_test,coverage_shortfall_rank,10
+Netherlands (Kingdom of the),2024,1,13,False,19.0,unseen_country_test,coverage_shortfall_rank,10
+Serbia,2024,1,15,False,16.0,unseen_country_test,coverage_shortfall_rank,10
+Ireland,2024,1,18,False,11.0,unseen_country_test,coverage_shortfall_rank,10
+Croatia,2024,1,19,False,10.0,unseen_country_test,coverage_shortfall_rank,10
+Switzerland,2024,1,20,False,9.0,unseen_country_test,coverage_shortfall_rank,10
+Saudi Arabia,2024,1,22,False,4.0,unseen_country_test,coverage_shortfall_rank,10
+Turks and Caicos Islands,2024,1,28,False,-inf,unseen_country_test,coverage_shortfall_rank,10
+Angola,2025,0,1,True,69.0,unseen_country_test,coverage_shortfall_rank,10
+Guinea-Bissau,2025,0,2,True,55.0,unseen_country_test,coverage_shortfall_rank,10
+Madagascar,2025,1,3,True,54.0,unseen_country_test,coverage_shortfall_rank,10
+Vanuatu,2025,0,4,True,47.0,unseen_country_test,coverage_shortfall_rank,10
+Bolivia (Plurinational State of),2025,1,5,False,39.0,unseen_country_test,coverage_shortfall_rank,10
+Burkina Faso,2025,1,6,False,35.0,unseen_country_test,coverage_shortfall_rank,10
+Netherlands (Kingdom of the),2025,1,14,False,19.0,unseen_country_test,coverage_shortfall_rank,10
+Indonesia,2025,1,15,False,18.0,unseen_country_test,coverage_shortfall_rank,10
+Serbia,2025,1,17,False,16.0,unseen_country_test,coverage_shortfall_rank,10
+Ireland,2025,1,21,False,11.0,unseen_country_test,coverage_shortfall_rank,10
+Algeria,2025,1,22,False,10.0,unseen_country_test,coverage_shortfall_rank,10
+Madagascar,2022,0,1,True,76.0,unseen_country_test,coverage_shortfall_rank,20
+Angola,2022,1,2,True,71.0,unseen_country_test,coverage_shortfall_rank,20
+Indonesia,2022,1,3,True,47.0,unseen_country_test,coverage_shortfall_rank,20
+Bolivia (Plurinational State of),2022,0,4,True,44.0,unseen_country_test,coverage_shortfall_rank,20
+Ecuador,2022,0,5,True,42.0,unseen_country_test,coverage_shortfall_rank,20
+Azerbaijan,2022,0,6,True,34.0,unseen_country_test,coverage_shortfall_rank,20
+Sierra Leone,2022,1,8,False,33.0,unseen_country_test,coverage_shortfall_rank,20
+Eswatini,2022,1,9,False,31.0,unseen_country_test,coverage_shortfall_rank,20
+Bahrain,2022,1,25,False,1.0,unseen_country_test,coverage_shortfall_rank,20
+Benin,2022,1,27,False,-inf,unseen_country_test,coverage_shortfall_rank,20
+Madagascar,2023,1,1,True,68.0,unseen_country_test,coverage_shortfall_rank,20
+Angola,2023,1,2,True,67.0,unseen_country_test,coverage_shortfall_rank,20
+Bolivia (Plurinational State of),2023,0,3,True,51.0,unseen_country_test,coverage_shortfall_rank,20
+Ecuador,2023,0,4,True,40.0,unseen_country_test,coverage_shortfall_rank,20
+Lesotho,2023,0,5,True,37.0,unseen_country_test,coverage_shortfall_rank,20
+Azerbaijan,2023,1,6,True,29.0,unseen_country_test,coverage_shortfall_rank,20
+Indonesia,2023,1,7,False,29.0,unseen_country_test,coverage_shortfall_rank,20
+Sierra Leone,2023,1,10,False,27.0,unseen_country_test,coverage_shortfall_rank,20
+Serbia,2023,1,12,False,19.0,unseen_country_test,coverage_shortfall_rank,20
+Austria,2023,1,18,False,8.0,unseen_country_test,coverage_shortfall_rank,20
+Switzerland,2023,1,20,False,6.0,unseen_country_test,coverage_shortfall_rank,20
+Saudi Arabia,2023,1,23,False,2.0,unseen_country_test,coverage_shortfall_rank,20
+Benin,2023,1,25,False,-inf,unseen_country_test,coverage_shortfall_rank,20
+Vanuatu,2024,0,1,True,79.0,unseen_country_test,coverage_shortfall_rank,20
+Angola,2024,0,2,True,57.0,unseen_country_test,coverage_shortfall_rank,20
+Madagascar,2024,0,3,True,53.0,unseen_country_test,coverage_shortfall_rank,20
+Bolivia (Plurinational State of),2024,0,4,True,50.0,unseen_country_test,coverage_shortfall_rank,20
+Ecuador,2024,0,5,True,33.0,unseen_country_test,coverage_shortfall_rank,20
+Indonesia,2024,0,6,True,31.0,unseen_country_test,coverage_shortfall_rank,20
+Azerbaijan,2024,1,7,False,29.0,unseen_country_test,coverage_shortfall_rank,20
+Austria,2024,1,12,False,19.0,unseen_country_test,coverage_shortfall_rank,20
+Netherlands (Kingdom of the),2024,1,13,False,19.0,unseen_country_test,coverage_shortfall_rank,20
+Serbia,2024,1,15,False,16.0,unseen_country_test,coverage_shortfall_rank,20
+Ireland,2024,1,18,False,11.0,unseen_country_test,coverage_shortfall_rank,20
+Croatia,2024,1,19,False,10.0,unseen_country_test,coverage_shortfall_rank,20
+Switzerland,2024,1,20,False,9.0,unseen_country_test,coverage_shortfall_rank,20
+Saudi Arabia,2024,1,22,False,4.0,unseen_country_test,coverage_shortfall_rank,20
+Turks and Caicos Islands,2024,1,28,False,-inf,unseen_country_test,coverage_shortfall_rank,20
+Angola,2025,0,1,True,69.0,unseen_country_test,coverage_shortfall_rank,20
+Guinea-Bissau,2025,0,2,True,55.0,unseen_country_test,coverage_shortfall_rank,20
+Madagascar,2025,1,3,True,54.0,unseen_country_test,coverage_shortfall_rank,20
+Vanuatu,2025,0,4,True,47.0,unseen_country_test,coverage_shortfall_rank,20
+Bolivia (Plurinational State of),2025,1,5,True,39.0,unseen_country_test,coverage_shortfall_rank,20
+Burkina Faso,2025,1,6,True,35.0,unseen_country_test,coverage_shortfall_rank,20
+Azerbaijan,2025,0,7,True,29.0,unseen_country_test,coverage_shortfall_rank,20
+Netherlands (Kingdom of the),2025,1,14,False,19.0,unseen_country_test,coverage_shortfall_rank,20
+Indonesia,2025,1,15,False,18.0,unseen_country_test,coverage_shortfall_rank,20
+Serbia,2025,1,17,False,16.0,unseen_country_test,coverage_shortfall_rank,20
+Ireland,2025,1,21,False,11.0,unseen_country_test,coverage_shortfall_rank,20
+Algeria,2025,1,22,False,10.0,unseen_country_test,coverage_shortfall_rank,20
+Madagascar,2022,0,1,True,0.30394215999911184,unseen_country_test,vaccination_only,10
+Angola,2022,1,2,True,0.28666329405985147,unseen_country_test,vaccination_only,10
+Vanuatu,2022,0,3,True,0.28656012744244563,unseen_country_test,vaccination_only,10
+Benin,2022,1,4,False,0.2761549015775193,unseen_country_test,vaccination_only,10
+Indonesia,2022,1,7,False,0.21243922499703063,unseen_country_test,vaccination_only,10
+Eswatini,2022,1,11,False,0.19173088182759146,unseen_country_test,vaccination_only,10
+Sierra Leone,2022,1,13,False,0.17364959357227028,unseen_country_test,vaccination_only,10
+Bahrain,2022,1,28,False,0.14824987225816344,unseen_country_test,vaccination_only,10
+Madagascar,2023,1,1,True,0.3012424262438213,unseen_country_test,vaccination_only,10
+Angola,2023,1,2,True,0.28013851231744236,unseen_country_test,vaccination_only,10
+Benin,2023,1,3,True,0.2795972530777184,unseen_country_test,vaccination_only,10
+Azerbaijan,2023,1,6,False,0.21856553423656308,unseen_country_test,vaccination_only,10
+Serbia,2023,1,8,False,0.1907641680545139,unseen_country_test,vaccination_only,10
+Sierra Leone,2023,1,16,False,0.1668423369060017,unseen_country_test,vaccination_only,10
+Indonesia,2023,1,20,False,0.16197925370830296,unseen_country_test,vaccination_only,10
+Austria,2023,1,23,False,0.1566206916265967,unseen_country_test,vaccination_only,10
+Switzerland,2023,1,24,False,0.15451037906586848,unseen_country_test,vaccination_only,10
+Saudi Arabia,2023,1,27,False,0.1503595216539622,unseen_country_test,vaccination_only,10
+Benin,2024,0,1,True,0.2795972530777184,unseen_country_test,vaccination_only,10
+Madagascar,2024,0,2,True,0.27822239498415385,unseen_country_test,vaccination_only,10
+Angola,2024,0,3,True,0.2384238704574983,unseen_country_test,vaccination_only,10
+Azerbaijan,2024,1,6,False,0.21856553423656308,unseen_country_test,vaccination_only,10
+Serbia,2024,1,10,False,0.18310846835400335,unseen_country_test,vaccination_only,10
+Ireland,2024,1,13,False,0.17047080036406023,unseen_country_test,vaccination_only,10
+Netherlands (Kingdom of the),2024,1,14,False,0.16985484691150105,unseen_country_test,vaccination_only,10
+Croatia,2024,1,16,False,0.16813481513879758,unseen_country_test,vaccination_only,10
+Austria,2024,1,18,False,0.16507157988913979,unseen_country_test,vaccination_only,10
+Turks and Caicos Islands,2024,1,22,False,0.16346499915981105,unseen_country_test,vaccination_only,10
+Switzerland,2024,1,25,False,0.15654868184456586,unseen_country_test,vaccination_only,10
+Saudi Arabia,2024,1,26,False,0.15242336199500323,unseen_country_test,vaccination_only,10
+Madagascar,2025,1,1,True,0.29565701298891234,unseen_country_test,vaccination_only,10
+Benin,2025,0,2,True,0.2830657342096401,unseen_country_test,vaccination_only,10
+Angola,2025,0,3,True,0.26966343090532197,unseen_country_test,vaccination_only,10
+Vanuatu,2025,0,4,True,0.24571887272446494,unseen_country_test,vaccination_only,10
+Bolivia (Plurinational State of),2025,1,5,False,0.22791068953469945,unseen_country_test,vaccination_only,10
+Serbia,2025,1,9,False,0.18310846835400335,unseen_country_test,vaccination_only,10
+Indonesia,2025,1,11,False,0.17983140360501268,unseen_country_test,vaccination_only,10
+Burkina Faso,2025,1,14,False,0.17104698257244566,unseen_country_test,vaccination_only,10
+Netherlands (Kingdom of the),2025,1,16,False,0.16985484691150105,unseen_country_test,vaccination_only,10
+Ireland,2025,1,18,False,0.16805856638630853,unseen_country_test,vaccination_only,10
+Algeria,2025,1,26,False,0.1587544150243425,unseen_country_test,vaccination_only,10
+Madagascar,2022,0,1,True,0.30394215999911184,unseen_country_test,vaccination_only,20
+Angola,2022,1,2,True,0.28666329405985147,unseen_country_test,vaccination_only,20
+Vanuatu,2022,0,3,True,0.28656012744244563,unseen_country_test,vaccination_only,20
+Benin,2022,1,4,True,0.2761549015775193,unseen_country_test,vaccination_only,20
+Ecuador,2022,0,5,True,0.23371142539039347,unseen_country_test,vaccination_only,20
+Azerbaijan,2022,0,6,True,0.23298348233133137,unseen_country_test,vaccination_only,20
+Indonesia,2022,1,7,False,0.21243922499703063,unseen_country_test,vaccination_only,20
+Eswatini,2022,1,11,False,0.19173088182759146,unseen_country_test,vaccination_only,20
+Sierra Leone,2022,1,13,False,0.17364959357227028,unseen_country_test,vaccination_only,20
+Bahrain,2022,1,28,False,0.14824987225816344,unseen_country_test,vaccination_only,20
+Madagascar,2023,1,1,True,0.3012424262438213,unseen_country_test,vaccination_only,20
+Angola,2023,1,2,True,0.28013851231744236,unseen_country_test,vaccination_only,20
+Benin,2023,1,3,True,0.2795972530777184,unseen_country_test,vaccination_only,20
+Vanuatu,2023,0,4,True,0.22179190380412087,unseen_country_test,vaccination_only,20
+Bolivia (Plurinational State of),2023,0,5,True,0.22080180815241224,unseen_country_test,vaccination_only,20
+Azerbaijan,2023,1,6,True,0.21856553423656308,unseen_country_test,vaccination_only,20
+Serbia,2023,1,8,False,0.1907641680545139,unseen_country_test,vaccination_only,20
+Sierra Leone,2023,1,16,False,0.1668423369060017,unseen_country_test,vaccination_only,20
+Indonesia,2023,1,20,False,0.16197925370830296,unseen_country_test,vaccination_only,20
+Austria,2023,1,23,False,0.1566206916265967,unseen_country_test,vaccination_only,20
+Switzerland,2023,1,24,False,0.15451037906586848,unseen_country_test,vaccination_only,20
+Saudi Arabia,2023,1,27,False,0.1503595216539622,unseen_country_test,vaccination_only,20
+Benin,2024,0,1,True,0.2795972530777184,unseen_country_test,vaccination_only,20
+Madagascar,2024,0,2,True,0.27822239498415385,unseen_country_test,vaccination_only,20
+Angola,2024,0,3,True,0.2384238704574983,unseen_country_test,vaccination_only,20
+Vanuatu,2024,0,4,True,0.22709259479756305,unseen_country_test,vaccination_only,20
+Bolivia (Plurinational State of),2024,0,5,True,0.22386219242820896,unseen_country_test,vaccination_only,20
+Azerbaijan,2024,1,6,True,0.21856553423656308,unseen_country_test,vaccination_only,20
+Serbia,2024,1,10,False,0.18310846835400335,unseen_country_test,vaccination_only,20
+Ireland,2024,1,13,False,0.17047080036406023,unseen_country_test,vaccination_only,20
+Netherlands (Kingdom of the),2024,1,14,False,0.16985484691150105,unseen_country_test,vaccination_only,20
+Croatia,2024,1,16,False,0.16813481513879758,unseen_country_test,vaccination_only,20
+Austria,2024,1,18,False,0.16507157988913979,unseen_country_test,vaccination_only,20
+Turks and Caicos Islands,2024,1,22,False,0.16346499915981105,unseen_country_test,vaccination_only,20
+Switzerland,2024,1,25,False,0.15654868184456586,unseen_country_test,vaccination_only,20
+Saudi Arabia,2024,1,26,False,0.15242336199500323,unseen_country_test,vaccination_only,20
+Madagascar,2025,1,1,True,0.29565701298891234,unseen_country_test,vaccination_only,20
+Benin,2025,0,2,True,0.2830657342096401,unseen_country_test,vaccination_only,20
+Angola,2025,0,3,True,0.26966343090532197,unseen_country_test,vaccination_only,20
+Vanuatu,2025,0,4,True,0.24571887272446494,unseen_country_test,vaccination_only,20
+Bolivia (Plurinational State of),2025,1,5,True,0.22791068953469945,unseen_country_test,vaccination_only,20
+Azerbaijan,2025,0,6,True,0.21856553423656308,unseen_country_test,vaccination_only,20
+Guinea-Bissau,2025,0,7,True,0.2004847266311809,unseen_country_test,vaccination_only,20
+Serbia,2025,1,9,False,0.18310846835400335,unseen_country_test,vaccination_only,20
+Indonesia,2025,1,11,False,0.17983140360501268,unseen_country_test,vaccination_only,20
+Burkina Faso,2025,1,14,False,0.17104698257244566,unseen_country_test,vaccination_only,20
+Netherlands (Kingdom of the),2025,1,16,False,0.16985484691150105,unseen_country_test,vaccination_only,20
+Ireland,2025,1,18,False,0.16805856638630853,unseen_country_test,vaccination_only,20
+Algeria,2025,1,26,False,0.1587544150243425,unseen_country_test,vaccination_only,20
+Vanuatu,2022,0,1,True,0.40576078390646025,unseen_country_test,combined,10
+Benin,2022,1,2,True,0.3821451441779857,unseen_country_test,combined,10
+Angola,2022,1,3,True,0.339287897545352,unseen_country_test,combined,10
+Indonesia,2022,1,7,False,0.24424712364044374,unseen_country_test,combined,10
+Eswatini,2022,1,10,False,0.21512874294032136,unseen_country_test,combined,10
+Sierra Leone,2022,1,13,False,0.18024060602262443,unseen_country_test,combined,10
+Bahrain,2022,1,26,False,0.1504413785956142,unseen_country_test,combined,10
+Madagascar,2023,1,1,True,0.39726160683955364,unseen_country_test,combined,10
+Benin,2023,1,2,True,0.3909942213968112,unseen_country_test,combined,10
+Angola,2023,1,3,True,0.3351666170448752,unseen_country_test,combined,10
+Azerbaijan,2023,1,5,False,0.2727115927078886,unseen_country_test,combined,10
+Serbia,2023,1,8,False,0.2213286687406664,unseen_country_test,combined,10
+Indonesia,2023,1,19,False,0.164095702644024,unseen_country_test,combined,10
+Sierra Leone,2023,1,20,False,0.16335793185517455,unseen_country_test,combined,10
+Austria,2023,1,22,False,0.16219784767641066,unseen_country_test,combined,10
+Switzerland,2023,1,23,False,0.15924942326101704,unseen_country_test,combined,10
+Saudi Arabia,2023,1,28,False,0.14976540998639332,unseen_country_test,combined,10
+Madagascar,2024,0,1,True,0.3635248167466619,unseen_country_test,combined,10
+Benin,2024,0,2,True,0.3618023349665169,unseen_country_test,combined,10
+Azerbaijan,2024,1,3,True,0.31252635994531597,unseen_country_test,combined,10
+Serbia,2024,1,9,False,0.20831115650145438,unseen_country_test,combined,10
+Ireland,2024,1,13,False,0.18484395916552868,unseen_country_test,combined,10
+Croatia,2024,1,14,False,0.18136151894596314,unseen_country_test,combined,10
+Netherlands (Kingdom of the),2024,1,15,False,0.18100982576538932,unseen_country_test,combined,10
+Turks and Caicos Islands,2024,1,19,False,0.17362223133957766,unseen_country_test,combined,10
+Austria,2024,1,20,False,0.1733962826486693,unseen_country_test,combined,10
+Switzerland,2024,1,24,False,0.1619281011714272,unseen_country_test,combined,10
+Saudi Arabia,2024,1,25,False,0.15212384333181722,unseen_country_test,combined,10
+Madagascar,2025,1,1,True,0.39464135734819994,unseen_country_test,combined,10
+Benin,2025,0,2,True,0.3693023173072264,unseen_country_test,combined,10
+Vanuatu,2025,0,3,True,0.3073312805202536,unseen_country_test,combined,10
+Bolivia (Plurinational State of),2025,1,4,True,0.27784315018093186,unseen_country_test,combined,10
+Serbia,2025,1,8,False,0.20652867687361312,unseen_country_test,combined,10
+Indonesia,2025,1,13,False,0.18166657966758448,unseen_country_test,combined,10
+Ireland,2025,1,14,False,0.18126433711367346,unseen_country_test,combined,10
+Netherlands (Kingdom of the),2025,1,15,False,0.1812233839154556,unseen_country_test,combined,10
+Burkina Faso,2025,1,23,False,0.16493036684141904,unseen_country_test,combined,10
+Algeria,2025,1,25,False,0.16305793583177952,unseen_country_test,combined,10
+Vanuatu,2022,0,1,True,0.40576078390646025,unseen_country_test,combined,20
+Benin,2022,1,2,True,0.3821451441779857,unseen_country_test,combined,20
+Angola,2022,1,3,True,0.339287897545352,unseen_country_test,combined,20
+Azerbaijan,2022,0,4,True,0.29639790686947337,unseen_country_test,combined,20
+Ecuador,2022,0,5,True,0.2872513519814423,unseen_country_test,combined,20
+Serbia,2022,0,6,True,0.24969823278478678,unseen_country_test,combined,20
+Indonesia,2022,1,7,False,0.24424712364044374,unseen_country_test,combined,20
+Eswatini,2022,1,10,False,0.21512874294032136,unseen_country_test,combined,20
+Sierra Leone,2022,1,13,False,0.18024060602262443,unseen_country_test,combined,20
+Bahrain,2022,1,26,False,0.1504413785956142,unseen_country_test,combined,20
+Madagascar,2023,1,1,True,0.39726160683955364,unseen_country_test,combined,20
+Benin,2023,1,2,True,0.3909942213968112,unseen_country_test,combined,20
+Angola,2023,1,3,True,0.3351666170448752,unseen_country_test,combined,20
+Vanuatu,2023,0,4,True,0.2803389307873579,unseen_country_test,combined,20
+Azerbaijan,2023,1,5,True,0.2727115927078886,unseen_country_test,combined,20
+Bolivia (Plurinational State of),2023,0,6,True,0.2592171105837322,unseen_country_test,combined,20
+Serbia,2023,1,8,False,0.2213286687406664,unseen_country_test,combined,20
+Indonesia,2023,1,19,False,0.164095702644024,unseen_country_test,combined,20
+Sierra Leone,2023,1,20,False,0.16335793185517455,unseen_country_test,combined,20
+Austria,2023,1,22,False,0.16219784767641066,unseen_country_test,combined,20
+Switzerland,2023,1,23,False,0.15924942326101704,unseen_country_test,combined,20
+Saudi Arabia,2023,1,28,False,0.14976540998639332,unseen_country_test,combined,20
+Madagascar,2024,0,1,True,0.3635248167466619,unseen_country_test,combined,20
+Benin,2024,0,2,True,0.3618023349665169,unseen_country_test,combined,20
+Azerbaijan,2024,1,3,True,0.31252635994531597,unseen_country_test,combined,20
+Bolivia (Plurinational State of),2024,0,4,True,0.26527451170485256,unseen_country_test,combined,20
+Vanuatu,2024,0,5,True,0.25806966025431666,unseen_country_test,combined,20
+Lesotho,2024,0,6,True,0.22723542666462984,unseen_country_test,combined,20
+Serbia,2024,1,9,False,0.20831115650145438,unseen_country_test,combined,20
+Ireland,2024,1,13,False,0.18484395916552868,unseen_country_test,combined,20
+Croatia,2024,1,14,False,0.18136151894596314,unseen_country_test,combined,20
+Netherlands (Kingdom of the),2024,1,15,False,0.18100982576538932,unseen_country_test,combined,20
+Turks and Caicos Islands,2024,1,19,False,0.17362223133957766,unseen_country_test,combined,20
+Austria,2024,1,20,False,0.1733962826486693,unseen_country_test,combined,20
+Switzerland,2024,1,24,False,0.1619281011714272,unseen_country_test,combined,20
+Saudi Arabia,2024,1,25,False,0.15212384333181722,unseen_country_test,combined,20
+Madagascar,2025,1,1,True,0.39464135734819994,unseen_country_test,combined,20
+Benin,2025,0,2,True,0.3693023173072264,unseen_country_test,combined,20
+Vanuatu,2025,0,3,True,0.3073312805202536,unseen_country_test,combined,20
+Bolivia (Plurinational State of),2025,1,4,True,0.27784315018093186,unseen_country_test,combined,20
+Angola,2025,0,5,True,0.2608676579661379,unseen_country_test,combined,20
+Albania,2025,0,6,True,0.22154254312285107,unseen_country_test,combined,20
+Guinea-Bissau,2025,0,7,True,0.21690245768813135,unseen_country_test,combined,20
+Serbia,2025,1,8,False,0.20652867687361312,unseen_country_test,combined,20
+Indonesia,2025,1,13,False,0.18166657966758448,unseen_country_test,combined,20
+Ireland,2025,1,14,False,0.18126433711367346,unseen_country_test,combined,20
+Netherlands (Kingdom of the),2025,1,15,False,0.1812233839154556,unseen_country_test,combined,20
+Burkina Faso,2025,1,23,False,0.16493036684141904,unseen_country_test,combined,20
+Algeria,2025,1,25,False,0.16305793583177952,unseen_country_test,combined,20
+Sierra Leone,2022,1,1,True,0.4870110048061913,unseen_country_test,rf_regularized,10
+Indonesia,2022,1,2,True,0.4669379472377117,unseen_country_test,rf_regularized,10
+Benin,2022,1,3,True,0.4202253108478392,unseen_country_test,rf_regularized,10
+Angola,2022,1,11,False,0.18866307735576676,unseen_country_test,rf_regularized,10
+Bahrain,2022,1,16,False,0.14882598815353315,unseen_country_test,rf_regularized,10
+Eswatini,2022,1,24,False,0.05644209664312514,unseen_country_test,rf_regularized,10
+Benin,2023,1,1,True,0.5703370804573067,unseen_country_test,rf_regularized,10
+Eswatini,2023,0,2,True,0.5412926994909459,unseen_country_test,rf_regularized,10
+Indonesia,2023,1,3,True,0.523642137104776,unseen_country_test,rf_regularized,10
+Madagascar,2023,1,4,False,0.4450831508657554,unseen_country_test,rf_regularized,10
+Saudi Arabia,2023,1,6,False,0.33247372718912926,unseen_country_test,rf_regularized,10
+Sierra Leone,2023,1,7,False,0.3043300332680336,unseen_country_test,rf_regularized,10
+Angola,2023,1,8,False,0.29434857802265596,unseen_country_test,rf_regularized,10
+Switzerland,2023,1,12,False,0.18738541559546673,unseen_country_test,rf_regularized,10
+Austria,2023,1,15,False,0.16536854567843082,unseen_country_test,rf_regularized,10
+Azerbaijan,2023,1,18,False,0.04984914388094109,unseen_country_test,rf_regularized,10
+Serbia,2023,1,27,False,0.019577261522939298,unseen_country_test,rf_regularized,10
+Azerbaijan,2024,1,1,True,0.5904905843791846,unseen_country_test,rf_regularized,10
+Madagascar,2024,0,2,True,0.5722712098225301,unseen_country_test,rf_regularized,10
+Lesotho,2024,0,3,True,0.5044846124562938,unseen_country_test,rf_regularized,10
+Austria,2024,1,4,False,0.43266201038436797,unseen_country_test,rf_regularized,10
+Serbia,2024,1,5,False,0.38133905452526656,unseen_country_test,rf_regularized,10
+Switzerland,2024,1,7,False,0.35171228061634413,unseen_country_test,rf_regularized,10
+Saudi Arabia,2024,1,9,False,0.335720894851854,unseen_country_test,rf_regularized,10
+Ireland,2024,1,12,False,0.2140620952640642,unseen_country_test,rf_regularized,10
+Croatia,2024,1,14,False,0.17736721324354954,unseen_country_test,rf_regularized,10
+Netherlands (Kingdom of the),2024,1,15,False,0.16143479710066927,unseen_country_test,rf_regularized,10
+Turks and Caicos Islands,2024,1,26,False,0.023265786457691832,unseen_country_test,rf_regularized,10
+Serbia,2025,1,1,True,0.5848036824649547,unseen_country_test,rf_regularized,10
+Albania,2025,0,2,True,0.5777263726756392,unseen_country_test,rf_regularized,10
+Ireland,2025,1,3,True,0.520651305562237,unseen_country_test,rf_regularized,10
+Turks and Caicos Islands,2025,0,4,True,0.5111334332510408,unseen_country_test,rf_regularized,10
+Madagascar,2025,1,5,False,0.4707703894832234,unseen_country_test,rf_regularized,10
+Netherlands (Kingdom of the),2025,1,6,False,0.3772779202070116,unseen_country_test,rf_regularized,10
+Algeria,2025,1,9,False,0.35743161334076434,unseen_country_test,rf_regularized,10
+Burkina Faso,2025,1,13,False,0.2966172011117837,unseen_country_test,rf_regularized,10
+Indonesia,2025,1,22,False,0.15315716447433472,unseen_country_test,rf_regularized,10
+Bolivia (Plurinational State of),2025,1,23,False,0.14710673802544025,unseen_country_test,rf_regularized,10
+Sierra Leone,2022,1,1,True,0.4870110048061913,unseen_country_test,rf_regularized,20
+Indonesia,2022,1,2,True,0.4669379472377117,unseen_country_test,rf_regularized,20
+Benin,2022,1,3,True,0.4202253108478392,unseen_country_test,rf_regularized,20
+Azerbaijan,2022,0,4,True,0.3378084677198301,unseen_country_test,rf_regularized,20
+Serbia,2022,0,5,True,0.2827405027868285,unseen_country_test,rf_regularized,20
+Czechia,2022,0,6,True,0.21554702687052182,unseen_country_test,rf_regularized,20
+Angola,2022,1,11,False,0.18866307735576676,unseen_country_test,rf_regularized,20
+Bahrain,2022,1,16,False,0.14882598815353315,unseen_country_test,rf_regularized,20
+Eswatini,2022,1,24,False,0.05644209664312514,unseen_country_test,rf_regularized,20
+Benin,2023,1,1,True,0.5703370804573067,unseen_country_test,rf_regularized,20
+Eswatini,2023,0,2,True,0.5412926994909459,unseen_country_test,rf_regularized,20
+Indonesia,2023,1,3,True,0.523642137104776,unseen_country_test,rf_regularized,20
+Madagascar,2023,1,4,True,0.4450831508657554,unseen_country_test,rf_regularized,20
+Bahrain,2023,0,5,True,0.40531953347318267,unseen_country_test,rf_regularized,20
+Saudi Arabia,2023,1,6,True,0.33247372718912926,unseen_country_test,rf_regularized,20
+Sierra Leone,2023,1,7,False,0.3043300332680336,unseen_country_test,rf_regularized,20
+Angola,2023,1,8,False,0.29434857802265596,unseen_country_test,rf_regularized,20
+Switzerland,2023,1,12,False,0.18738541559546673,unseen_country_test,rf_regularized,20
+Austria,2023,1,15,False,0.16536854567843082,unseen_country_test,rf_regularized,20
+Azerbaijan,2023,1,18,False,0.04984914388094109,unseen_country_test,rf_regularized,20
+Serbia,2023,1,27,False,0.019577261522939298,unseen_country_test,rf_regularized,20
+Azerbaijan,2024,1,1,True,0.5904905843791846,unseen_country_test,rf_regularized,20
+Madagascar,2024,0,2,True,0.5722712098225301,unseen_country_test,rf_regularized,20
+Lesotho,2024,0,3,True,0.5044846124562938,unseen_country_test,rf_regularized,20
+Austria,2024,1,4,True,0.43266201038436797,unseen_country_test,rf_regularized,20
+Serbia,2024,1,5,True,0.38133905452526656,unseen_country_test,rf_regularized,20
+Oman,2024,0,6,True,0.36858447016857515,unseen_country_test,rf_regularized,20
+Switzerland,2024,1,7,False,0.35171228061634413,unseen_country_test,rf_regularized,20
+Saudi Arabia,2024,1,9,False,0.335720894851854,unseen_country_test,rf_regularized,20
+Ireland,2024,1,12,False,0.2140620952640642,unseen_country_test,rf_regularized,20
+Croatia,2024,1,14,False,0.17736721324354954,unseen_country_test,rf_regularized,20
+Netherlands (Kingdom of the),2024,1,15,False,0.16143479710066927,unseen_country_test,rf_regularized,20
+Turks and Caicos Islands,2024,1,26,False,0.023265786457691832,unseen_country_test,rf_regularized,20
+Serbia,2025,1,1,True,0.5848036824649547,unseen_country_test,rf_regularized,20
+Albania,2025,0,2,True,0.5777263726756392,unseen_country_test,rf_regularized,20
+Ireland,2025,1,3,True,0.520651305562237,unseen_country_test,rf_regularized,20
+Turks and Caicos Islands,2025,0,4,True,0.5111334332510408,unseen_country_test,rf_regularized,20
+Madagascar,2025,1,5,True,0.4707703894832234,unseen_country_test,rf_regularized,20
+Netherlands (Kingdom of the),2025,1,6,True,0.3772779202070116,unseen_country_test,rf_regularized,20
+Switzerland,2025,0,7,True,0.37346550819741886,unseen_country_test,rf_regularized,20
+Algeria,2025,1,9,False,0.35743161334076434,unseen_country_test,rf_regularized,20
+Burkina Faso,2025,1,13,False,0.2966172011117837,unseen_country_test,rf_regularized,20
+Indonesia,2025,1,22,False,0.15315716447433472,unseen_country_test,rf_regularized,20
+Bolivia (Plurinational State of),2025,1,23,False,0.14710673802544025,unseen_country_test,rf_regularized,20
+Sierra Leone,2022,1,1,True,0.5168042778968811,unseen_country_test,xgb_regularized,10
+Benin,2022,1,2,True,0.5052007436752319,unseen_country_test,xgb_regularized,10
+Indonesia,2022,1,3,True,0.47535884380340576,unseen_country_test,xgb_regularized,10
+Angola,2022,1,10,False,0.15494683384895325,unseen_country_test,xgb_regularized,10
+Bahrain,2022,1,19,False,0.10083405673503876,unseen_country_test,xgb_regularized,10
+Eswatini,2022,1,27,False,0.041986655443906784,unseen_country_test,xgb_regularized,10
+Eswatini,2023,0,1,True,0.7334636449813843,unseen_country_test,xgb_regularized,10
+Benin,2023,1,2,True,0.7163485884666443,unseen_country_test,xgb_regularized,10
+Indonesia,2023,1,3,True,0.5735774636268616,unseen_country_test,xgb_regularized,10
+Madagascar,2023,1,4,False,0.5042764544487,unseen_country_test,xgb_regularized,10
+Sierra Leone,2023,1,6,False,0.37100711464881897,unseen_country_test,xgb_regularized,10
+Angola,2023,1,7,False,0.3421541452407837,unseen_country_test,xgb_regularized,10
+Saudi Arabia,2023,1,8,False,0.3147023022174835,unseen_country_test,xgb_regularized,10
+Austria,2023,1,13,False,0.11487668752670288,unseen_country_test,xgb_regularized,10
+Switzerland,2023,1,14,False,0.11487668752670288,unseen_country_test,xgb_regularized,10
+Azerbaijan,2023,1,16,False,0.09771522879600525,unseen_country_test,xgb_regularized,10
+Serbia,2023,1,22,False,0.04153706133365631,unseen_country_test,xgb_regularized,10
+Azerbaijan,2024,1,1,True,0.7805736660957336,unseen_country_test,xgb_regularized,10
+Madagascar,2024,0,2,True,0.6371340751647949,unseen_country_test,xgb_regularized,10
+Lesotho,2024,0,3,True,0.5778879523277283,unseen_country_test,xgb_regularized,10
+Austria,2024,1,4,False,0.4609944522380829,unseen_country_test,xgb_regularized,10
+Saudi Arabia,2024,1,5,False,0.43423646688461304,unseen_country_test,xgb_regularized,10
+Serbia,2024,1,6,False,0.42870163917541504,unseen_country_test,xgb_regularized,10
+Switzerland,2024,1,9,False,0.35824599862098694,unseen_country_test,xgb_regularized,10
+Ireland,2024,1,13,False,0.17728683352470398,unseen_country_test,xgb_regularized,10
+Croatia,2024,1,14,False,0.17597757279872894,unseen_country_test,xgb_regularized,10
+Netherlands (Kingdom of the),2024,1,15,False,0.11926239728927612,unseen_country_test,xgb_regularized,10
+Turks and Caicos Islands,2024,1,27,False,0.032701242715120316,unseen_country_test,xgb_regularized,10
+Albania,2025,0,1,True,0.7549745440483093,unseen_country_test,xgb_regularized,10
+Serbia,2025,1,2,True,0.6864151954650879,unseen_country_test,xgb_regularized,10
+Ireland,2025,1,3,True,0.6679688692092896,unseen_country_test,xgb_regularized,10
+Turks and Caicos Islands,2025,0,4,True,0.6218281388282776,unseen_country_test,xgb_regularized,10
+Madagascar,2025,1,5,False,0.5118967890739441,unseen_country_test,xgb_regularized,10
+Netherlands (Kingdom of the),2025,1,7,False,0.4471380114555359,unseen_country_test,xgb_regularized,10
+Algeria,2025,1,9,False,0.40262165665626526,unseen_country_test,xgb_regularized,10
+Burkina Faso,2025,1,11,False,0.3555351793766022,unseen_country_test,xgb_regularized,10
+Bolivia (Plurinational State of),2025,1,21,False,0.19185861945152283,unseen_country_test,xgb_regularized,10
+Indonesia,2025,1,23,False,0.14134350419044495,unseen_country_test,xgb_regularized,10
+Sierra Leone,2022,1,1,True,0.5168042778968811,unseen_country_test,xgb_regularized,20
+Benin,2022,1,2,True,0.5052007436752319,unseen_country_test,xgb_regularized,20
+Indonesia,2022,1,3,True,0.47535884380340576,unseen_country_test,xgb_regularized,20
+Azerbaijan,2022,0,4,True,0.313472181558609,unseen_country_test,xgb_regularized,20
+Serbia,2022,0,5,True,0.27260318398475647,unseen_country_test,xgb_regularized,20
+Saudi Arabia,2022,0,6,True,0.17404212057590485,unseen_country_test,xgb_regularized,20
+Angola,2022,1,10,False,0.15494683384895325,unseen_country_test,xgb_regularized,20
+Bahrain,2022,1,19,False,0.10083405673503876,unseen_country_test,xgb_regularized,20
+Eswatini,2022,1,27,False,0.041986655443906784,unseen_country_test,xgb_regularized,20
+Eswatini,2023,0,1,True,0.7334636449813843,unseen_country_test,xgb_regularized,20
+Benin,2023,1,2,True,0.7163485884666443,unseen_country_test,xgb_regularized,20
+Indonesia,2023,1,3,True,0.5735774636268616,unseen_country_test,xgb_regularized,20
+Madagascar,2023,1,4,True,0.5042764544487,unseen_country_test,xgb_regularized,20
+Bahrain,2023,0,5,True,0.408099502325058,unseen_country_test,xgb_regularized,20
+Sierra Leone,2023,1,6,True,0.37100711464881897,unseen_country_test,xgb_regularized,20
+Angola,2023,1,7,False,0.3421541452407837,unseen_country_test,xgb_regularized,20
+Saudi Arabia,2023,1,8,False,0.3147023022174835,unseen_country_test,xgb_regularized,20
+Austria,2023,1,13,False,0.11487668752670288,unseen_country_test,xgb_regularized,20
+Switzerland,2023,1,14,False,0.11487668752670288,unseen_country_test,xgb_regularized,20
+Azerbaijan,2023,1,16,False,0.09771522879600525,unseen_country_test,xgb_regularized,20
+Serbia,2023,1,22,False,0.04153706133365631,unseen_country_test,xgb_regularized,20
+Azerbaijan,2024,1,1,True,0.7805736660957336,unseen_country_test,xgb_regularized,20
+Madagascar,2024,0,2,True,0.6371340751647949,unseen_country_test,xgb_regularized,20
+Lesotho,2024,0,3,True,0.5778879523277283,unseen_country_test,xgb_regularized,20
+Austria,2024,1,4,True,0.4609944522380829,unseen_country_test,xgb_regularized,20
+Saudi Arabia,2024,1,5,True,0.43423646688461304,unseen_country_test,xgb_regularized,20
+Serbia,2024,1,6,True,0.42870163917541504,unseen_country_test,xgb_regularized,20
+Switzerland,2024,1,9,False,0.35824599862098694,unseen_country_test,xgb_regularized,20
+Ireland,2024,1,13,False,0.17728683352470398,unseen_country_test,xgb_regularized,20
+Croatia,2024,1,14,False,0.17597757279872894,unseen_country_test,xgb_regularized,20
+Netherlands (Kingdom of the),2024,1,15,False,0.11926239728927612,unseen_country_test,xgb_regularized,20
+Turks and Caicos Islands,2024,1,27,False,0.032701242715120316,unseen_country_test,xgb_regularized,20
+Albania,2025,0,1,True,0.7549745440483093,unseen_country_test,xgb_regularized,20
+Serbia,2025,1,2,True,0.6864151954650879,unseen_country_test,xgb_regularized,20
+Ireland,2025,1,3,True,0.6679688692092896,unseen_country_test,xgb_regularized,20
+Turks and Caicos Islands,2025,0,4,True,0.6218281388282776,unseen_country_test,xgb_regularized,20
+Madagascar,2025,1,5,True,0.5118967890739441,unseen_country_test,xgb_regularized,20
+Croatia,2025,0,6,True,0.44865939021110535,unseen_country_test,xgb_regularized,20
+Netherlands (Kingdom of the),2025,1,7,True,0.4471380114555359,unseen_country_test,xgb_regularized,20
+Algeria,2025,1,9,False,0.40262165665626526,unseen_country_test,xgb_regularized,20
+Burkina Faso,2025,1,11,False,0.3555351793766022,unseen_country_test,xgb_regularized,20
+Bolivia (Plurinational State of),2025,1,21,False,0.19185861945152283,unseen_country_test,xgb_regularized,20
+Indonesia,2025,1,23,False,0.14134350419044495,unseen_country_test,xgb_regularized,20

@@ -1,0 +1,652 @@
+Country,Definition,Event_years,Adjacent_event_year_pairs
+Afghanistan,surge_A_2x_1pm,7,2
+Afghanistan,surge_B_3x_1pm,4,2
+Afghanistan,surge_C_2x_5pm,7,2
+Albania,surge_A_2x_1pm,3,1
+Albania,surge_B_3x_1pm,3,1
+Albania,surge_C_2x_5pm,3,1
+Algeria,surge_A_2x_1pm,5,2
+Algeria,surge_B_3x_1pm,4,1
+Algeria,surge_C_2x_5pm,3,1
+American Samoa,surge_A_2x_1pm,0,0
+American Samoa,surge_B_3x_1pm,0,0
+American Samoa,surge_C_2x_5pm,0,0
+Andorra,surge_A_2x_1pm,0,0
+Andorra,surge_B_3x_1pm,0,0
+Andorra,surge_C_2x_5pm,0,0
+Angola,surge_A_2x_1pm,10,5
+Angola,surge_B_3x_1pm,5,1
+Angola,surge_C_2x_5pm,10,5
+Anguilla,surge_A_2x_1pm,0,0
+Anguilla,surge_B_3x_1pm,0,0
+Anguilla,surge_C_2x_5pm,0,0
+Antigua and Barbuda,surge_A_2x_1pm,1,0
+Antigua and Barbuda,surge_B_3x_1pm,1,0
+Antigua and Barbuda,surge_C_2x_5pm,1,0
+Argentina,surge_A_2x_1pm,2,1
+Argentina,surge_B_3x_1pm,2,1
+Argentina,surge_C_2x_5pm,0,0
+Armenia,surge_A_2x_1pm,9,5
+Armenia,surge_B_3x_1pm,9,5
+Armenia,surge_C_2x_5pm,6,2
+Aruba,surge_A_2x_1pm,0,0
+Aruba,surge_B_3x_1pm,0,0
+Aruba,surge_C_2x_5pm,0,0
+Australia,surge_A_2x_1pm,4,1
+Australia,surge_B_3x_1pm,2,1
+Australia,surge_C_2x_5pm,3,0
+Austria,surge_A_2x_1pm,4,2
+Austria,surge_B_3x_1pm,3,1
+Austria,surge_C_2x_5pm,4,2
+Azerbaijan,surge_A_2x_1pm,6,2
+Azerbaijan,surge_B_3x_1pm,6,2
+Azerbaijan,surge_C_2x_5pm,6,2
+Bahamas,surge_A_2x_1pm,1,0
+Bahamas,surge_B_3x_1pm,1,0
+Bahamas,surge_C_2x_5pm,1,0
+Bahrain,surge_A_2x_1pm,4,1
+Bahrain,surge_B_3x_1pm,3,1
+Bahrain,surge_C_2x_5pm,1,0
+Bangladesh,surge_A_2x_1pm,8,5
+Bangladesh,surge_B_3x_1pm,4,1
+Bangladesh,surge_C_2x_5pm,8,5
+Barbados,surge_A_2x_1pm,0,0
+Barbados,surge_B_3x_1pm,0,0
+Barbados,surge_C_2x_5pm,0,0
+Belarus,surge_A_2x_1pm,8,3
+Belarus,surge_B_3x_1pm,8,3
+Belarus,surge_C_2x_5pm,7,2
+Belgium,surge_A_2x_1pm,7,4
+Belgium,surge_B_3x_1pm,5,2
+Belgium,surge_C_2x_5pm,7,4
+Belize,surge_A_2x_1pm,1,0
+Belize,surge_B_3x_1pm,1,0
+Belize,surge_C_2x_5pm,1,0
+Benin,surge_A_2x_1pm,6,3
+Benin,surge_B_3x_1pm,6,3
+Benin,surge_C_2x_5pm,6,3
+Bermuda,surge_A_2x_1pm,1,0
+Bermuda,surge_B_3x_1pm,1,0
+Bermuda,surge_C_2x_5pm,1,0
+Bhutan,surge_A_2x_1pm,6,2
+Bhutan,surge_B_3x_1pm,5,2
+Bhutan,surge_C_2x_5pm,6,2
+Bolivia (Plurinational State of),surge_A_2x_1pm,1,0
+Bolivia (Plurinational State of),surge_B_3x_1pm,1,0
+Bolivia (Plurinational State of),surge_C_2x_5pm,1,0
+Bonaire,surge_A_2x_1pm,0,0
+Bonaire,surge_B_3x_1pm,0,0
+Bonaire,surge_C_2x_5pm,0,0
+Bosnia and Herzegovina,surge_A_2x_1pm,4,0
+Bosnia and Herzegovina,surge_B_3x_1pm,3,0
+Bosnia and Herzegovina,surge_C_2x_5pm,4,0
+Botswana,surge_A_2x_1pm,6,2
+Botswana,surge_B_3x_1pm,5,1
+Botswana,surge_C_2x_5pm,4,1
+Brazil,surge_A_2x_1pm,2,1
+Brazil,surge_B_3x_1pm,2,1
+Brazil,surge_C_2x_5pm,0,0
+British Virgin Islands,surge_A_2x_1pm,0,0
+British Virgin Islands,surge_B_3x_1pm,0,0
+British Virgin Islands,surge_C_2x_5pm,0,0
+Brunei Darussalam,surge_A_2x_1pm,1,0
+Brunei Darussalam,surge_B_3x_1pm,1,0
+Brunei Darussalam,surge_C_2x_5pm,0,0
+Bulgaria,surge_A_2x_1pm,6,3
+Bulgaria,surge_B_3x_1pm,6,3
+Bulgaria,surge_C_2x_5pm,4,1
+Burkina Faso,surge_A_2x_1pm,8,4
+Burkina Faso,surge_B_3x_1pm,5,1
+Burkina Faso,surge_C_2x_5pm,8,4
+Burundi,surge_A_2x_1pm,10,5
+Burundi,surge_B_3x_1pm,9,5
+Burundi,surge_C_2x_5pm,9,5
+Cabo Verde,surge_A_2x_1pm,0,0
+Cabo Verde,surge_B_3x_1pm,0,0
+Cabo Verde,surge_C_2x_5pm,0,0
+Cambodia,surge_A_2x_1pm,7,3
+Cambodia,surge_B_3x_1pm,7,3
+Cambodia,surge_C_2x_5pm,6,3
+Cameroon,surge_A_2x_1pm,6,1
+Cameroon,surge_B_3x_1pm,2,0
+Cameroon,surge_C_2x_5pm,6,1
+Canada,surge_A_2x_1pm,8,3
+Canada,surge_B_3x_1pm,7,2
+Canada,surge_C_2x_5pm,4,1
+Cayman Islands,surge_A_2x_1pm,0,0
+Cayman Islands,surge_B_3x_1pm,0,0
+Cayman Islands,surge_C_2x_5pm,0,0
+Central African Republic,surge_A_2x_1pm,8,3
+Central African Republic,surge_B_3x_1pm,8,3
+Central African Republic,surge_C_2x_5pm,8,3
+Chad,surge_A_2x_1pm,7,2
+Chad,surge_B_3x_1pm,5,1
+Chad,surge_C_2x_5pm,7,2
+Chile,surge_A_2x_1pm,1,0
+Chile,surge_B_3x_1pm,1,0
+Chile,surge_C_2x_5pm,0,0
+China,surge_A_2x_1pm,3,1
+China,surge_B_3x_1pm,1,0
+China,surge_C_2x_5pm,2,1
+"China, Hong Kong SAR",surge_A_2x_1pm,5,2
+"China, Hong Kong SAR",surge_B_3x_1pm,2,0
+"China, Hong Kong SAR",surge_C_2x_5pm,2,0
+"China, Macao SAR",surge_A_2x_1pm,2,1
+"China, Macao SAR",surge_B_3x_1pm,2,1
+"China, Macao SAR",surge_C_2x_5pm,1,0
+Colombia,surge_A_2x_1pm,2,1
+Colombia,surge_B_3x_1pm,2,1
+Colombia,surge_C_2x_5pm,0,0
+Comoros,surge_A_2x_1pm,8,3
+Comoros,surge_B_3x_1pm,8,3
+Comoros,surge_C_2x_5pm,5,2
+Congo,surge_A_2x_1pm,8,5
+Congo,surge_B_3x_1pm,6,2
+Congo,surge_C_2x_5pm,8,5
+Cook Islands,surge_A_2x_1pm,0,0
+Cook Islands,surge_B_3x_1pm,0,0
+Cook Islands,surge_C_2x_5pm,0,0
+Costa Rica,surge_A_2x_1pm,1,0
+Costa Rica,surge_B_3x_1pm,1,0
+Costa Rica,surge_C_2x_5pm,0,0
+Croatia,surge_A_2x_1pm,8,3
+Croatia,surge_B_3x_1pm,6,1
+Croatia,surge_C_2x_5pm,5,1
+Cuba,surge_A_2x_1pm,0,0
+Cuba,surge_B_3x_1pm,0,0
+Cuba,surge_C_2x_5pm,0,0
+Curaçao,surge_A_2x_1pm,0,0
+Curaçao,surge_B_3x_1pm,0,0
+Curaçao,surge_C_2x_5pm,0,0
+Cyprus,surge_A_2x_1pm,6,2
+Cyprus,surge_B_3x_1pm,6,2
+Cyprus,surge_C_2x_5pm,5,1
+Czechia,surge_A_2x_1pm,10,5
+Czechia,surge_B_3x_1pm,9,4
+Czechia,surge_C_2x_5pm,4,2
+Côte d'Ivoire,surge_A_2x_1pm,8,5
+Côte d'Ivoire,surge_B_3x_1pm,5,2
+Côte d'Ivoire,surge_C_2x_5pm,8,5
+Democratic People's Republic of Korea,surge_A_2x_1pm,1,0
+Democratic People's Republic of Korea,surge_B_3x_1pm,1,0
+Democratic People's Republic of Korea,surge_C_2x_5pm,1,0
+Democratic Republic of the Congo,surge_A_2x_1pm,8,3
+Democratic Republic of the Congo,surge_B_3x_1pm,7,3
+Democratic Republic of the Congo,surge_C_2x_5pm,8,3
+Denmark,surge_A_2x_1pm,7,1
+Denmark,surge_B_3x_1pm,7,1
+Denmark,surge_C_2x_5pm,1,0
+Djibouti,surge_A_2x_1pm,4,0
+Djibouti,surge_B_3x_1pm,3,0
+Djibouti,surge_C_2x_5pm,4,0
+Dominica,surge_A_2x_1pm,0,0
+Dominica,surge_B_3x_1pm,0,0
+Dominica,surge_C_2x_5pm,0,0
+Dominican Republic,surge_A_2x_1pm,0,0
+Dominican Republic,surge_B_3x_1pm,0,0
+Dominican Republic,surge_C_2x_5pm,0,0
+Ecuador,surge_A_2x_1pm,3,1
+Ecuador,surge_B_3x_1pm,3,1
+Ecuador,surge_C_2x_5pm,1,0
+Egypt,surge_A_2x_1pm,7,4
+Egypt,surge_B_3x_1pm,7,4
+Egypt,surge_C_2x_5pm,4,2
+El Salvador,surge_A_2x_1pm,0,0
+El Salvador,surge_B_3x_1pm,0,0
+El Salvador,surge_C_2x_5pm,0,0
+Equatorial Guinea,surge_A_2x_1pm,9,4
+Equatorial Guinea,surge_B_3x_1pm,9,4
+Equatorial Guinea,surge_C_2x_5pm,9,4
+Eritrea,surge_A_2x_1pm,8,3
+Eritrea,surge_B_3x_1pm,3,0
+Eritrea,surge_C_2x_5pm,8,3
+Estonia,surge_A_2x_1pm,10,5
+Estonia,surge_B_3x_1pm,8,4
+Estonia,surge_C_2x_5pm,5,1
+Eswatini,surge_A_2x_1pm,5,2
+Eswatini,surge_B_3x_1pm,5,2
+Eswatini,surge_C_2x_5pm,4,1
+Ethiopia,surge_A_2x_1pm,9,5
+Ethiopia,surge_B_3x_1pm,6,3
+Ethiopia,surge_C_2x_5pm,9,5
+Fiji,surge_A_2x_1pm,1,0
+Fiji,surge_B_3x_1pm,1,0
+Fiji,surge_C_2x_5pm,0,0
+Finland,surge_A_2x_1pm,2,0
+Finland,surge_B_3x_1pm,2,0
+Finland,surge_C_2x_5pm,1,0
+France,surge_A_2x_1pm,10,7
+France,surge_B_3x_1pm,10,7
+France,surge_C_2x_5pm,9,6
+French Polynesia,surge_A_2x_1pm,0,0
+French Polynesia,surge_B_3x_1pm,0,0
+French Polynesia,surge_C_2x_5pm,0,0
+Gabon,surge_A_2x_1pm,9,5
+Gabon,surge_B_3x_1pm,9,5
+Gabon,surge_C_2x_5pm,7,4
+Gambia,surge_A_2x_1pm,3,1
+Gambia,surge_B_3x_1pm,3,1
+Gambia,surge_C_2x_5pm,2,1
+Georgia,surge_A_2x_1pm,11,6
+Georgia,surge_B_3x_1pm,10,6
+Georgia,surge_C_2x_5pm,11,6
+Germany,surge_A_2x_1pm,7,1
+Germany,surge_B_3x_1pm,2,0
+Germany,surge_C_2x_5pm,6,0
+Ghana,surge_A_2x_1pm,7,3
+Ghana,surge_B_3x_1pm,6,2
+Ghana,surge_C_2x_5pm,6,2
+Greece,surge_A_2x_1pm,5,2
+Greece,surge_B_3x_1pm,5,2
+Greece,surge_C_2x_5pm,3,1
+Grenada,surge_A_2x_1pm,0,0
+Grenada,surge_B_3x_1pm,0,0
+Grenada,surge_C_2x_5pm,0,0
+Guam,surge_A_2x_1pm,1,0
+Guam,surge_B_3x_1pm,1,0
+Guam,surge_C_2x_5pm,1,0
+Guatemala,surge_A_2x_1pm,0,0
+Guatemala,surge_B_3x_1pm,0,0
+Guatemala,surge_C_2x_5pm,0,0
+Guinea,surge_A_2x_1pm,7,3
+Guinea,surge_B_3x_1pm,7,3
+Guinea,surge_C_2x_5pm,6,2
+Guinea-Bissau,surge_A_2x_1pm,7,2
+Guinea-Bissau,surge_B_3x_1pm,6,0
+Guinea-Bissau,surge_C_2x_5pm,7,2
+Guyana,surge_A_2x_1pm,0,0
+Guyana,surge_B_3x_1pm,0,0
+Guyana,surge_C_2x_5pm,0,0
+Haiti,surge_A_2x_1pm,0,0
+Haiti,surge_B_3x_1pm,0,0
+Haiti,surge_C_2x_5pm,0,0
+Honduras,surge_A_2x_1pm,0,0
+Honduras,surge_B_3x_1pm,0,0
+Honduras,surge_C_2x_5pm,0,0
+Hungary,surge_A_2x_1pm,3,1
+Hungary,surge_B_3x_1pm,3,1
+Hungary,surge_C_2x_5pm,0,0
+Iceland,surge_A_2x_1pm,4,1
+Iceland,surge_B_3x_1pm,4,1
+Iceland,surge_C_2x_5pm,3,0
+India,surge_A_2x_1pm,4,2
+India,surge_B_3x_1pm,4,2
+India,surge_C_2x_5pm,4,2
+Indonesia,surge_A_2x_1pm,4,1
+Indonesia,surge_B_3x_1pm,4,1
+Indonesia,surge_C_2x_5pm,4,1
+Iran (Islamic Republic of),surge_A_2x_1pm,9,3
+Iran (Islamic Republic of),surge_B_3x_1pm,7,3
+Iran (Islamic Republic of),surge_C_2x_5pm,4,0
+Iraq,surge_A_2x_1pm,8,4
+Iraq,surge_B_3x_1pm,7,3
+Iraq,surge_C_2x_5pm,8,4
+Ireland,surge_A_2x_1pm,5,2
+Ireland,surge_B_3x_1pm,3,1
+Ireland,surge_C_2x_5pm,5,2
+Israel,surge_A_2x_1pm,9,5
+Israel,surge_B_3x_1pm,8,4
+Israel,surge_C_2x_5pm,8,4
+Italy,surge_A_2x_1pm,4,1
+Italy,surge_B_3x_1pm,4,1
+Italy,surge_C_2x_5pm,4,1
+Jamaica,surge_A_2x_1pm,0,0
+Jamaica,surge_B_3x_1pm,0,0
+Jamaica,surge_C_2x_5pm,0,0
+Japan,surge_A_2x_1pm,2,0
+Japan,surge_B_3x_1pm,1,0
+Japan,surge_C_2x_5pm,1,0
+Jordan,surge_A_2x_1pm,4,1
+Jordan,surge_B_3x_1pm,3,1
+Jordan,surge_C_2x_5pm,2,0
+Kazakhstan,surge_A_2x_1pm,11,6
+Kazakhstan,surge_B_3x_1pm,11,6
+Kazakhstan,surge_C_2x_5pm,10,5
+Kenya,surge_A_2x_1pm,6,3
+Kenya,surge_B_3x_1pm,5,2
+Kenya,surge_C_2x_5pm,5,2
+Kiribati,surge_A_2x_1pm,1,0
+Kiribati,surge_B_3x_1pm,1,0
+Kiribati,surge_C_2x_5pm,1,0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),surge_A_2x_1pm,0,0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),surge_B_3x_1pm,0,0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),surge_C_2x_5pm,0,0
+Kuwait,surge_A_2x_1pm,2,0
+Kuwait,surge_B_3x_1pm,0,0
+Kuwait,surge_C_2x_5pm,2,0
+Kyrgyzstan,surge_A_2x_1pm,7,3
+Kyrgyzstan,surge_B_3x_1pm,7,3
+Kyrgyzstan,surge_C_2x_5pm,7,3
+Lao People's Democratic Republic,surge_A_2x_1pm,6,1
+Lao People's Democratic Republic,surge_B_3x_1pm,6,1
+Lao People's Democratic Republic,surge_C_2x_5pm,6,1
+Latvia,surge_A_2x_1pm,4,1
+Latvia,surge_B_3x_1pm,4,1
+Latvia,surge_C_2x_5pm,2,0
+Lebanon,surge_A_2x_1pm,8,5
+Lebanon,surge_B_3x_1pm,6,3
+Lebanon,surge_C_2x_5pm,8,5
+Lesotho,surge_A_2x_1pm,9,4
+Lesotho,surge_B_3x_1pm,7,4
+Lesotho,surge_C_2x_5pm,7,3
+Liberia,surge_A_2x_1pm,9,4
+Liberia,surge_B_3x_1pm,8,4
+Liberia,surge_C_2x_5pm,8,3
+Libya,surge_A_2x_1pm,3,1
+Libya,surge_B_3x_1pm,3,1
+Libya,surge_C_2x_5pm,3,1
+Lithuania,surge_A_2x_1pm,7,2
+Lithuania,surge_B_3x_1pm,7,2
+Lithuania,surge_C_2x_5pm,4,0
+Luxembourg,surge_A_2x_1pm,6,3
+Luxembourg,surge_B_3x_1pm,6,3
+Luxembourg,surge_C_2x_5pm,3,1
+Madagascar,surge_A_2x_1pm,6,2
+Madagascar,surge_B_3x_1pm,6,2
+Madagascar,surge_C_2x_5pm,6,2
+Malawi,surge_A_2x_1pm,6,2
+Malawi,surge_B_3x_1pm,6,2
+Malawi,surge_C_2x_5pm,5,2
+Malaysia,surge_A_2x_1pm,8,4
+Malaysia,surge_B_3x_1pm,7,3
+Malaysia,surge_C_2x_5pm,8,4
+Maldives,surge_A_2x_1pm,7,2
+Maldives,surge_B_3x_1pm,7,2
+Maldives,surge_C_2x_5pm,4,0
+Mali,surge_A_2x_1pm,6,3
+Mali,surge_B_3x_1pm,5,2
+Mali,surge_C_2x_5pm,6,3
+Malta,surge_A_2x_1pm,4,1
+Malta,surge_B_3x_1pm,3,1
+Malta,surge_C_2x_5pm,4,1
+Marshall Islands,surge_A_2x_1pm,1,0
+Marshall Islands,surge_B_3x_1pm,1,0
+Marshall Islands,surge_C_2x_5pm,1,0
+Mauritania,surge_A_2x_1pm,9,4
+Mauritania,surge_B_3x_1pm,7,3
+Mauritania,surge_C_2x_5pm,9,4
+Mauritius,surge_A_2x_1pm,0,0
+Mauritius,surge_B_3x_1pm,0,0
+Mauritius,surge_C_2x_5pm,0,0
+Mexico,surge_A_2x_1pm,2,0
+Mexico,surge_B_3x_1pm,2,0
+Mexico,surge_C_2x_5pm,1,0
+Micronesia (Federated States of),surge_A_2x_1pm,1,0
+Micronesia (Federated States of),surge_B_3x_1pm,1,0
+Micronesia (Federated States of),surge_C_2x_5pm,1,0
+Monaco,surge_A_2x_1pm,0,0
+Monaco,surge_B_3x_1pm,0,0
+Monaco,surge_C_2x_5pm,0,0
+Mongolia,surge_A_2x_1pm,6,3
+Mongolia,surge_B_3x_1pm,5,2
+Mongolia,surge_C_2x_5pm,5,1
+Montenegro,surge_A_2x_1pm,4,2
+Montenegro,surge_B_3x_1pm,4,2
+Montenegro,surge_C_2x_5pm,4,2
+Montserrat,surge_A_2x_1pm,0,0
+Montserrat,surge_B_3x_1pm,0,0
+Montserrat,surge_C_2x_5pm,0,0
+Morocco,surge_A_2x_1pm,0,0
+Morocco,surge_B_3x_1pm,0,0
+Morocco,surge_C_2x_5pm,0,0
+Mozambique,surge_A_2x_1pm,7,3
+Mozambique,surge_B_3x_1pm,5,1
+Mozambique,surge_C_2x_5pm,6,3
+Myanmar,surge_A_2x_1pm,6,4
+Myanmar,surge_B_3x_1pm,5,3
+Myanmar,surge_C_2x_5pm,6,4
+Namibia,surge_A_2x_1pm,8,3
+Namibia,surge_B_3x_1pm,8,3
+Namibia,surge_C_2x_5pm,8,3
+Naoero,surge_A_2x_1pm,0,0
+Naoero,surge_B_3x_1pm,0,0
+Naoero,surge_C_2x_5pm,0,0
+Nepal,surge_A_2x_1pm,3,1
+Nepal,surge_B_3x_1pm,3,1
+Nepal,surge_C_2x_5pm,3,1
+Netherlands (Kingdom of the),surge_A_2x_1pm,8,3
+Netherlands (Kingdom of the),surge_B_3x_1pm,7,2
+Netherlands (Kingdom of the),surge_C_2x_5pm,5,2
+New Caledonia,surge_A_2x_1pm,0,0
+New Caledonia,surge_B_3x_1pm,0,0
+New Caledonia,surge_C_2x_5pm,0,0
+New Zealand,surge_A_2x_1pm,3,0
+New Zealand,surge_B_3x_1pm,3,0
+New Zealand,surge_C_2x_5pm,3,0
+Nicaragua,surge_A_2x_1pm,0,0
+Nicaragua,surge_B_3x_1pm,0,0
+Nicaragua,surge_C_2x_5pm,0,0
+Niger,surge_A_2x_1pm,7,2
+Niger,surge_B_3x_1pm,5,1
+Niger,surge_C_2x_5pm,7,2
+Nigeria,surge_A_2x_1pm,7,1
+Nigeria,surge_B_3x_1pm,2,0
+Nigeria,surge_C_2x_5pm,7,1
+Niue,surge_A_2x_1pm,0,0
+Niue,surge_B_3x_1pm,0,0
+Niue,surge_C_2x_5pm,0,0
+North Macedonia,surge_A_2x_1pm,8,3
+North Macedonia,surge_B_3x_1pm,7,3
+North Macedonia,surge_C_2x_5pm,7,3
+Northern Mariana Islands,surge_A_2x_1pm,0,0
+Northern Mariana Islands,surge_B_3x_1pm,0,0
+Northern Mariana Islands,surge_C_2x_5pm,0,0
+Norway,surge_A_2x_1pm,5,1
+Norway,surge_B_3x_1pm,5,1
+Norway,surge_C_2x_5pm,1,0
+Oman,surge_A_2x_1pm,7,3
+Oman,surge_B_3x_1pm,5,2
+Oman,surge_C_2x_5pm,2,1
+Pakistan,surge_A_2x_1pm,8,5
+Pakistan,surge_B_3x_1pm,5,2
+Pakistan,surge_C_2x_5pm,8,5
+Palau,surge_A_2x_1pm,0,0
+Palau,surge_B_3x_1pm,0,0
+Palau,surge_C_2x_5pm,0,0
+Panama,surge_A_2x_1pm,1,0
+Panama,surge_B_3x_1pm,1,0
+Panama,surge_C_2x_5pm,0,0
+Papua New Guinea,surge_A_2x_1pm,6,3
+Papua New Guinea,surge_B_3x_1pm,5,3
+Papua New Guinea,surge_C_2x_5pm,1,0
+Paraguay,surge_A_2x_1pm,1,0
+Paraguay,surge_B_3x_1pm,1,0
+Paraguay,surge_C_2x_5pm,1,0
+Peru,surge_A_2x_1pm,1,0
+Peru,surge_B_3x_1pm,1,0
+Peru,surge_C_2x_5pm,0,0
+Philippines,surge_A_2x_1pm,11,7
+Philippines,surge_B_3x_1pm,10,5
+Philippines,surge_C_2x_5pm,10,5
+Poland,surge_A_2x_1pm,5,2
+Poland,surge_B_3x_1pm,5,2
+Poland,surge_C_2x_5pm,2,0
+Portugal,surge_A_2x_1pm,4,1
+Portugal,surge_B_3x_1pm,4,1
+Portugal,surge_C_2x_5pm,1,0
+Qatar,surge_A_2x_1pm,5,3
+Qatar,surge_B_3x_1pm,4,2
+Qatar,surge_C_2x_5pm,5,3
+Republic of Korea,surge_A_2x_1pm,5,1
+Republic of Korea,surge_B_3x_1pm,4,0
+Republic of Korea,surge_C_2x_5pm,1,0
+Republic of Moldova,surge_A_2x_1pm,5,2
+Republic of Moldova,surge_B_3x_1pm,5,2
+Republic of Moldova,surge_C_2x_5pm,4,1
+Romania,surge_A_2x_1pm,11,7
+Romania,surge_B_3x_1pm,10,6
+Romania,surge_C_2x_5pm,11,7
+Russian Federation,surge_A_2x_1pm,8,5
+Russian Federation,surge_B_3x_1pm,7,4
+Russian Federation,surge_C_2x_5pm,7,4
+Rwanda,surge_A_2x_1pm,9,5
+Rwanda,surge_B_3x_1pm,6,2
+Rwanda,surge_C_2x_5pm,8,3
+Saba,surge_A_2x_1pm,0,0
+Saba,surge_B_3x_1pm,0,0
+Saba,surge_C_2x_5pm,0,0
+Saint Kitts and Nevis,surge_A_2x_1pm,0,0
+Saint Kitts and Nevis,surge_B_3x_1pm,0,0
+Saint Kitts and Nevis,surge_C_2x_5pm,0,0
+Saint Lucia,surge_A_2x_1pm,0,0
+Saint Lucia,surge_B_3x_1pm,0,0
+Saint Lucia,surge_C_2x_5pm,0,0
+Saint Vincent and the Grenadines,surge_A_2x_1pm,0,0
+Saint Vincent and the Grenadines,surge_B_3x_1pm,0,0
+Saint Vincent and the Grenadines,surge_C_2x_5pm,0,0
+Samoa,surge_A_2x_1pm,2,0
+Samoa,surge_B_3x_1pm,2,0
+Samoa,surge_C_2x_5pm,2,0
+San Marino,surge_A_2x_1pm,3,0
+San Marino,surge_B_3x_1pm,3,0
+San Marino,surge_C_2x_5pm,3,0
+Sao Tome and Principe,surge_A_2x_1pm,1,0
+Sao Tome and Principe,surge_B_3x_1pm,1,0
+Sao Tome and Principe,surge_C_2x_5pm,1,0
+Saudi Arabia,surge_A_2x_1pm,10,4
+Saudi Arabia,surge_B_3x_1pm,6,1
+Saudi Arabia,surge_C_2x_5pm,10,4
+Senegal,surge_A_2x_1pm,7,3
+Senegal,surge_B_3x_1pm,5,2
+Senegal,surge_C_2x_5pm,7,3
+Serbia,surge_A_2x_1pm,10,5
+Serbia,surge_B_3x_1pm,10,5
+Serbia,surge_C_2x_5pm,9,4
+Seychelles,surge_A_2x_1pm,3,1
+Seychelles,surge_B_3x_1pm,3,1
+Seychelles,surge_C_2x_5pm,3,1
+Sierra Leone,surge_A_2x_1pm,5,3
+Sierra Leone,surge_B_3x_1pm,5,3
+Sierra Leone,surge_C_2x_5pm,5,3
+Singapore,surge_A_2x_1pm,3,1
+Singapore,surge_B_3x_1pm,2,1
+Singapore,surge_C_2x_5pm,3,1
+Sint Eustatius,surge_A_2x_1pm,0,0
+Sint Eustatius,surge_B_3x_1pm,0,0
+Sint Eustatius,surge_C_2x_5pm,0,0
+Sint Maarten (Dutch part),surge_A_2x_1pm,0,0
+Sint Maarten (Dutch part),surge_B_3x_1pm,0,0
+Sint Maarten (Dutch part),surge_C_2x_5pm,0,0
+Slovakia,surge_A_2x_1pm,4,2
+Slovakia,surge_B_3x_1pm,4,2
+Slovakia,surge_C_2x_5pm,2,1
+Slovenia,surge_A_2x_1pm,6,2
+Slovenia,surge_B_3x_1pm,5,1
+Slovenia,surge_C_2x_5pm,5,1
+Solomon Islands,surge_A_2x_1pm,0,0
+Solomon Islands,surge_B_3x_1pm,0,0
+Solomon Islands,surge_C_2x_5pm,0,0
+Somalia,surge_A_2x_1pm,5,2
+Somalia,surge_B_3x_1pm,3,1
+Somalia,surge_C_2x_5pm,5,2
+South Africa,surge_A_2x_1pm,8,5
+South Africa,surge_B_3x_1pm,6,3
+South Africa,surge_C_2x_5pm,6,4
+South Sudan,surge_A_2x_1pm,2,1
+South Sudan,surge_B_3x_1pm,1,0
+South Sudan,surge_C_2x_5pm,2,1
+Spain,surge_A_2x_1pm,6,3
+Spain,surge_B_3x_1pm,6,3
+Spain,surge_C_2x_5pm,5,2
+Sri Lanka,surge_A_2x_1pm,6,2
+Sri Lanka,surge_B_3x_1pm,5,2
+Sri Lanka,surge_C_2x_5pm,2,1
+Sudan,surge_A_2x_1pm,6,2
+Sudan,surge_B_3x_1pm,4,2
+Sudan,surge_C_2x_5pm,6,2
+Suriname,surge_A_2x_1pm,0,0
+Suriname,surge_B_3x_1pm,0,0
+Suriname,surge_C_2x_5pm,0,0
+Sweden,surge_A_2x_1pm,6,3
+Sweden,surge_B_3x_1pm,4,1
+Sweden,surge_C_2x_5pm,0,0
+Switzerland,surge_A_2x_1pm,5,1
+Switzerland,surge_B_3x_1pm,3,1
+Switzerland,surge_C_2x_5pm,5,1
+Syrian Arab Republic,surge_A_2x_1pm,7,3
+Syrian Arab Republic,surge_B_3x_1pm,6,3
+Syrian Arab Republic,surge_C_2x_5pm,7,3
+Tajikistan,surge_A_2x_1pm,7,1
+Tajikistan,surge_B_3x_1pm,7,1
+Tajikistan,surge_C_2x_5pm,6,1
+Thailand,surge_A_2x_1pm,4,1
+Thailand,surge_B_3x_1pm,2,0
+Thailand,surge_C_2x_5pm,4,1
+Timor-Leste,surge_A_2x_1pm,8,4
+Timor-Leste,surge_B_3x_1pm,6,3
+Timor-Leste,surge_C_2x_5pm,7,3
+Togo,surge_A_2x_1pm,7,3
+Togo,surge_B_3x_1pm,4,2
+Togo,surge_C_2x_5pm,7,3
+Tokelau,surge_A_2x_1pm,0,0
+Tokelau,surge_B_3x_1pm,0,0
+Tokelau,surge_C_2x_5pm,0,0
+Tonga,surge_A_2x_1pm,1,0
+Tonga,surge_B_3x_1pm,1,0
+Tonga,surge_C_2x_5pm,1,0
+Trinidad and Tobago,surge_A_2x_1pm,0,0
+Trinidad and Tobago,surge_B_3x_1pm,0,0
+Trinidad and Tobago,surge_C_2x_5pm,0,0
+Tunisia,surge_A_2x_1pm,3,1
+Tunisia,surge_B_3x_1pm,3,1
+Tunisia,surge_C_2x_5pm,1,0
+Turkmenistan,surge_A_2x_1pm,2,1
+Turkmenistan,surge_B_3x_1pm,2,1
+Turkmenistan,surge_C_2x_5pm,2,1
+Turks and Caicos Islands,surge_A_2x_1pm,1,0
+Turks and Caicos Islands,surge_B_3x_1pm,1,0
+Turks and Caicos Islands,surge_C_2x_5pm,1,0
+Tuvalu,surge_A_2x_1pm,0,0
+Tuvalu,surge_B_3x_1pm,0,0
+Tuvalu,surge_C_2x_5pm,0,0
+Türkiye,surge_A_2x_1pm,5,3
+Türkiye,surge_B_3x_1pm,5,3
+Türkiye,surge_C_2x_5pm,3,1
+Uganda,surge_A_2x_1pm,8,3
+Uganda,surge_B_3x_1pm,6,2
+Uganda,surge_C_2x_5pm,8,3
+Ukraine,surge_A_2x_1pm,7,4
+Ukraine,surge_B_3x_1pm,7,4
+Ukraine,surge_C_2x_5pm,6,3
+United Arab Emirates,surge_A_2x_1pm,2,1
+United Arab Emirates,surge_B_3x_1pm,2,1
+United Arab Emirates,surge_C_2x_5pm,2,1
+United Kingdom of Great Britain and Northern Ireland,surge_A_2x_1pm,9,5
+United Kingdom of Great Britain and Northern Ireland,surge_B_3x_1pm,7,2
+United Kingdom of Great Britain and Northern Ireland,surge_C_2x_5pm,9,5
+United Republic of Tanzania,surge_A_2x_1pm,5,2
+United Republic of Tanzania,surge_B_3x_1pm,4,1
+United Republic of Tanzania,surge_C_2x_5pm,4,1
+United States of America,surge_A_2x_1pm,2,0
+United States of America,surge_B_3x_1pm,2,0
+United States of America,surge_C_2x_5pm,0,0
+Uruguay,surge_A_2x_1pm,2,0
+Uruguay,surge_B_3x_1pm,2,0
+Uruguay,surge_C_2x_5pm,0,0
+Uzbekistan,surge_A_2x_1pm,10,6
+Uzbekistan,surge_B_3x_1pm,9,4
+Uzbekistan,surge_C_2x_5pm,7,3
+Vanuatu,surge_A_2x_1pm,3,1
+Vanuatu,surge_B_3x_1pm,3,1
+Vanuatu,surge_C_2x_5pm,3,1
+Venezuela (Bolivarian Republic of),surge_A_2x_1pm,4,2
+Venezuela (Bolivarian Republic of),surge_B_3x_1pm,4,2
+Venezuela (Bolivarian Republic of),surge_C_2x_5pm,2,1
+Viet Nam,surge_A_2x_1pm,8,3
+Viet Nam,surge_B_3x_1pm,8,3
+Viet Nam,surge_C_2x_5pm,8,3
+Wallis and Futuna,surge_A_2x_1pm,0,0
+Wallis and Futuna,surge_B_3x_1pm,0,0
+Wallis and Futuna,surge_C_2x_5pm,0,0
+Yemen,surge_A_2x_1pm,10,6
+Yemen,surge_B_3x_1pm,9,5
+Yemen,surge_C_2x_5pm,10,6
+Zambia,surge_A_2x_1pm,8,5
+Zambia,surge_B_3x_1pm,8,5
+Zambia,surge_C_2x_5pm,7,3
+Zimbabwe,surge_A_2x_1pm,5,3
+Zimbabwe,surge_B_3x_1pm,5,3
+Zimbabwe,surge_C_2x_5pm,5,3
+"occupied Palestinian territory, including east Jerusalem",surge_A_2x_1pm,1,0
+"occupied Palestinian territory, including east Jerusalem",surge_B_3x_1pm,1,0
+"occupied Palestinian territory, including east Jerusalem",surge_C_2x_5pm,1,0

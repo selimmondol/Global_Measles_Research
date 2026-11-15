@@ -1,0 +1,3 @@
+cohort,train_n,train_events,validation_n,validation_events,missing_vaccination_train,missing_vaccination_validation
+matched_complete_vaccination,1295,222,346,67,0,0
+all_eligible_imputed_vaccination,2144,389,396,87,849,50

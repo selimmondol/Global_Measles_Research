@@ -1,0 +1,203 @@
+Country,holdout_status,eligible_years
+Ecuador,unseen_country,23
+Oman,unseen_country,19
+Bulgaria,unseen_country,23
+Turks and Caicos Islands,unseen_country,7
+Bolivia (Plurinational State of),unseen_country,23
+Bahrain,unseen_country,19
+Czechia,unseen_country,23
+Albania,unseen_country,10
+Israel,unseen_country,20
+"China, Macao SAR",unseen_country,8
+Azerbaijan,unseen_country,19
+Barbados,unseen_country,23
+Sierra Leone,unseen_country,23
+Serbia,unseen_country,23
+Guinea-Bissau,unseen_country,18
+Saudi Arabia,unseen_country,22
+Netherlands (Kingdom of the),unseen_country,21
+Democratic People's Republic of Korea,unseen_country,16
+Eswatini,unseen_country,23
+Republic of Korea,unseen_country,19
+Ireland,unseen_country,22
+Benin,unseen_country,23
+Northern Mariana Islands,unseen_country,2
+Madagascar,unseen_country,19
+Switzerland,unseen_country,16
+British Virgin Islands,unseen_country,3
+Croatia,unseen_country,19
+Jordan,unseen_country,18
+Saint Kitts and Nevis,unseen_country,23
+Algeria,unseen_country,17
+Angola,unseen_country,23
+Argentina,unseen_country,21
+Greece,unseen_country,16
+Saint Vincent and the Grenadines,unseen_country,20
+Austria,unseen_country,16
+Burkina Faso,unseen_country,19
+Vanuatu,unseen_country,14
+Lesotho,unseen_country,19
+Indonesia,unseen_country,23
+New Caledonia,unseen_country,4
+Dominica,development_country,23
+Bhutan,development_country,18
+Cuba,development_country,19
+Antigua and Barbuda,development_country,23
+Democratic Republic of the Congo,development_country,23
+Kuwait,development_country,9
+Tuvalu,development_country,9
+South Africa,development_country,23
+Spain,development_country,21
+Congo,development_country,23
+United States of America,development_country,16
+Senegal,development_country,23
+Sri Lanka,development_country,19
+Belarus,development_country,23
+Burundi,development_country,21
+Romania,development_country,23
+Italy,development_country,14
+Trinidad and Tobago,development_country,19
+Bermuda,development_country,6
+Chile,development_country,23
+Cyprus,development_country,21
+Mozambique,development_country,19
+Portugal,development_country,17
+Philippines,development_country,23
+Ukraine,development_country,14
+Nigeria,development_country,23
+China,development_country,23
+Germany,development_country,22
+Lebanon,development_country,18
+Peru,development_country,23
+Japan,development_country,13
+Cambodia,development_country,23
+Guyana,development_country,23
+Palau,development_country,12
+Mauritius,development_country,11
+Zimbabwe,development_country,21
+Morocco,development_country,9
+Mali,development_country,23
+Colombia,development_country,23
+Sweden,development_country,23
+Nepal,development_country,23
+Belize,development_country,23
+Uganda,development_country,23
+Tunisia,development_country,23
+Slovakia,development_country,23
+Micronesia (Federated States of),development_country,8
+Qatar,development_country,19
+Hungary,development_country,23
+Saint Lucia,development_country,23
+Estonia,development_country,23
+Botswana,development_country,23
+United Kingdom of Great Britain and Northern Ireland,development_country,23
+Gambia,development_country,19
+Ghana,development_country,23
+Côte d'Ivoire,development_country,23
+Bosnia and Herzegovina,development_country,12
+Dominican Republic,development_country,23
+Yemen,development_country,22
+Kiribati,development_country,7
+Togo,development_country,23
+Namibia,development_country,23
+Cayman Islands,development_country,4
+Malta,development_country,18
+Turkmenistan,development_country,23
+Guatemala,development_country,23
+Luxembourg,development_country,13
+Comoros,development_country,21
+Naoero,development_country,3
+Zambia,development_country,22
+French Polynesia,development_country,7
+Iceland,development_country,20
+Cabo Verde,development_country,15
+Venezuela (Bolivarian Republic of),development_country,23
+Tajikistan,development_country,19
+North Macedonia,development_country,23
+United Arab Emirates,development_country,12
+Samoa,development_country,8
+Cameroon,development_country,23
+Türkiye,development_country,18
+Thailand,development_country,14
+Poland,development_country,12
+Grenada,development_country,19
+Brunei Darussalam,development_country,11
+Montenegro,development_country,12
+Uzbekistan,development_country,19
+Australia,development_country,19
+Singapore,development_country,11
+Seychelles,development_country,18
+Solomon Islands,development_country,11
+"occupied Palestinian territory, including east Jerusalem",development_country,2
+Mauritania,development_country,22
+Pakistan,development_country,23
+Nicaragua,development_country,23
+Timor-Leste,development_country,17
+Suriname,development_country,23
+Sudan,development_country,19
+Armenia,development_country,23
+Maldives,development_country,23
+Malaysia,development_country,23
+Republic of Moldova,development_country,17
+India,development_country,23
+Haiti,development_country,16
+Brazil,development_country,19
+Papua New Guinea,development_country,23
+Andorra,development_country,23
+Tonga,development_country,12
+Guam,development_country,6
+El Salvador,development_country,19
+"China, Hong Kong SAR",development_country,16
+Mexico,development_country,23
+Malawi,development_country,23
+France,development_country,15
+Lithuania,development_country,23
+Panama,development_country,20
+Lao People's Democratic Republic,development_country,23
+Canada,development_country,23
+Georgia,development_country,23
+Viet Nam,development_country,23
+Norway,development_country,19
+Fiji,development_country,3
+Liberia,development_country,23
+Djibouti,development_country,14
+Sao Tome and Principe,development_country,17
+Central African Republic,development_country,23
+Ethiopia,development_country,23
+United Republic of Tanzania,development_country,23
+Slovenia,development_country,22
+Equatorial Guinea,development_country,18
+San Marino,development_country,10
+Belgium,development_country,16
+Bahamas,development_country,23
+Iraq,development_country,15
+Guinea,development_country,23
+Jamaica,development_country,23
+Russian Federation,development_country,23
+Myanmar,development_country,23
+Rwanda,development_country,23
+Syrian Arab Republic,development_country,23
+Iran (Islamic Republic of),development_country,23
+Somalia,development_country,19
+Afghanistan,development_country,23
+Marshall Islands,development_country,6
+Kyrgyzstan,development_country,17
+Bangladesh,development_country,23
+Denmark,development_country,23
+Egypt,development_country,23
+Honduras,development_country,19
+Gabon,development_country,19
+Kazakhstan,development_country,23
+South Sudan,development_country,8
+New Zealand,development_country,16
+Niger,development_country,23
+Paraguay,development_country,23
+Eritrea,development_country,23
+Libya,development_country,6
+Latvia,development_country,19
+Chad,development_country,23
+Mongolia,development_country,19
+Uruguay,development_country,23
+Finland,development_country,16
+Kenya,development_country,19
+Costa Rica,development_country,19

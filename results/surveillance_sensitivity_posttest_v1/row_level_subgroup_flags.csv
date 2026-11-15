@@ -1,0 +1,625 @@
+partition,Country,Year,y,vaccination_availability,high_national_coverage,historical_reporting_proxy,prior_6y_reporting_fraction,covid_year_in_prior_3y,zero_prior_median,sel10_coverage_shortfall_rank,sel10_vaccination_only,sel10_combined,sel10_rf_regularized,sel10_xgb_regularized
+test,Afghanistan,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,True,True
+test,Afghanistan,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Afghanistan,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Afghanistan,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,False,False,False
+test,Andorra,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Andorra,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Andorra,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Andorra,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Antigua and Barbuda,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Antigua and Barbuda,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Antigua and Barbuda,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Antigua and Barbuda,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Armenia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Armenia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Armenia,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,True,True
+test,Armenia,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Australia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Australia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Australia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Australia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Bahamas,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Bahamas,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Bahamas,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Bahamas,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Bangladesh,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Bangladesh,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Bangladesh,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Bangladesh,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Belarus,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Belarus,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Belarus,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Belarus,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Belgium,2022,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Belgium,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Belgium,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Belgium,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+test,Belize,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Belize,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Belize,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Belize,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Bermuda,2022,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Bermuda,2023,0,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Bermuda,2024,1,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Bermuda,2025,0,both_missing,unknown,six_of_six_reported,1.0,False,True,False,False,False,True,True
+test,Bhutan,2025,0,both_available,both_at_least_95,one_or_more_gaps,0.6666666666666666,False,False,False,False,False,False,False
+test,Bosnia and Herzegovina,2025,1,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,False,False,False,False,True,True,True
+test,Botswana,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Botswana,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Botswana,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,False
+test,Botswana,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Brazil,2022,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Brazil,2023,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Brazil,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Brazil,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Brunei Darussalam,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Brunei Darussalam,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Brunei Darussalam,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Brunei Darussalam,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Burundi,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Burundi,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Burundi,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Burundi,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Cabo Verde,2024,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Cabo Verde,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,True,False,False,False,False,False
+test,Cambodia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Cambodia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Cambodia,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Cambodia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+test,Cameroon,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Cameroon,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Cameroon,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Cameroon,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,False,False,False,False
+test,Canada,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Canada,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Canada,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Canada,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Cayman Islands,2023,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Cayman Islands,2024,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Cayman Islands,2025,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,False,True,False,False,False,False,False
+test,Central African Republic,2022,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,False,False,False
+test,Central African Republic,2023,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Central African Republic,2024,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Central African Republic,2025,1,one_missing,unknown,six_of_six_reported,1.0,False,False,False,True,True,False,False
+test,Chad,2022,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Chad,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Chad,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Chad,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,False,False,False,False
+test,Chile,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Chile,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Chile,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Chile,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,China,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,China,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,China,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,China,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,"China, Hong Kong SAR",2022,0,both_missing,unknown,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,"China, Hong Kong SAR",2023,0,both_missing,unknown,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,"China, Hong Kong SAR",2024,0,both_missing,unknown,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,"China, Hong Kong SAR",2025,0,both_missing,unknown,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Colombia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Colombia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Colombia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Colombia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Comoros,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,False,False,False,False
+test,Comoros,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,True,True
+test,Comoros,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,True,True
+test,Comoros,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,True,False,False
+test,Congo,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,True,True
+test,Congo,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,True,False,False
+test,Congo,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Congo,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Costa Rica,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Costa Rica,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Costa Rica,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Costa Rica,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Cuba,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Cuba,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Cuba,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Cuba,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Cyprus,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Cyprus,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Cyprus,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Cyprus,2025,1,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Côte d'Ivoire,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,True
+test,Côte d'Ivoire,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Côte d'Ivoire,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Côte d'Ivoire,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,False,False,False,False
+test,Democratic Republic of the Congo,2022,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,False,False,False
+test,Democratic Republic of the Congo,2023,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,False,False,False
+test,Democratic Republic of the Congo,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Democratic Republic of the Congo,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,True,False,False,False
+test,Denmark,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Denmark,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Denmark,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Denmark,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Djibouti,2024,0,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,True,False,False,False,False,False,False
+test,Djibouti,2025,0,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,False,False,False,False,False,False,False
+test,Dominica,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Dominica,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Dominica,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Dominica,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Dominican Republic,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Dominican Republic,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Dominican Republic,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Dominican Republic,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Egypt,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Egypt,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Egypt,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Egypt,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,El Salvador,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,El Salvador,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,El Salvador,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,El Salvador,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Equatorial Guinea,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Equatorial Guinea,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Equatorial Guinea,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Equatorial Guinea,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,False,False,False
+test,Eritrea,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Eritrea,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Eritrea,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Eritrea,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Estonia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Estonia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Estonia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Estonia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Ethiopia,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ethiopia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Ethiopia,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ethiopia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Finland,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Finland,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Finland,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Finland,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,France,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,France,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,France,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,France,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,French Polynesia,2023,0,both_missing,unknown,one_or_more_gaps,0.5,True,True,False,False,False,False,False
+test,French Polynesia,2024,0,both_missing,unknown,one_or_more_gaps,0.6666666666666666,True,True,False,False,False,False,False
+test,French Polynesia,2025,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,False,True,False,False,False,False,False
+test,Gabon,2022,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,False,True,True,True
+test,Gabon,2023,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Gabon,2024,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,False,False,False
+test,Gabon,2025,0,one_missing,unknown,six_of_six_reported,1.0,False,False,False,True,False,False,False
+test,Gambia,2024,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Gambia,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+test,Georgia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Georgia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Georgia,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Georgia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Germany,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Germany,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Germany,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Germany,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Ghana,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ghana,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Ghana,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ghana,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Grenada,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,True,False,False,False,False,False
+test,Guatemala,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Guatemala,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Guatemala,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Guatemala,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Guinea,2022,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Guinea,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Guinea,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Guinea,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,True,False,False
+test,Guyana,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Guyana,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Guyana,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Guyana,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Haiti,2022,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,True,True,False,True,False,False
+test,Hungary,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Hungary,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Hungary,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Hungary,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Iceland,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Iceland,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Iceland,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Iceland,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,India,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,India,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,India,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,India,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Iran (Islamic Republic of),2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Iran (Islamic Republic of),2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Iran (Islamic Republic of),2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Iran (Islamic Republic of),2025,1,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Iraq,2024,1,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,True,True
+test,Iraq,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+test,Italy,2022,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Italy,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Italy,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Italy,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Jamaica,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Jamaica,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Jamaica,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Jamaica,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Kazakhstan,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Kazakhstan,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Kazakhstan,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,True,True
+test,Kazakhstan,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,True,False,False,False
+test,Kenya,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,False
+test,Kenya,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Kenya,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Kenya,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Kuwait,2024,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Kuwait,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+test,Lao People's Democratic Republic,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,False,False
+test,Lao People's Democratic Republic,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,False,False
+test,Lao People's Democratic Republic,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,False,False
+test,Lao People's Democratic Republic,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,True,True,False,False
+test,Latvia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Latvia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Latvia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Latvia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Liberia,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Liberia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Liberia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Liberia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Lithuania,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Lithuania,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Lithuania,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Lithuania,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,True
+test,Luxembourg,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Luxembourg,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Luxembourg,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Luxembourg,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Malawi,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malawi,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malawi,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malawi,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+test,Malaysia,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malaysia,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malaysia,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Malaysia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Maldives,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Maldives,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Maldives,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Maldives,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Mali,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,True,True
+test,Mali,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Mali,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Mali,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,False,False,False,False
+test,Malta,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malta,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Malta,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Malta,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Mauritania,2022,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Mauritania,2023,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Mauritania,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Mauritania,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Mauritius,2024,0,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,True,True,False,False,False,False,False
+test,Mauritius,2025,0,both_available,both_at_least_95,one_or_more_gaps,0.8333333333333334,False,True,False,False,False,False,False
+test,Mexico,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Mexico,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Mexico,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Mexico,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Mongolia,2025,1,both_available,both_at_least_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+test,Montenegro,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,True,True,False,False
+test,Montenegro,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,True,True,False,False
+test,Montenegro,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,True,True,False,False
+test,Montenegro,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,True,True,True,True,True,True
+test,Mozambique,2022,1,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,True,True,True
+test,Mozambique,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,True,False,False
+test,Mozambique,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,False,False
+test,Mozambique,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,False,True,False,False
+test,Myanmar,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Myanmar,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Myanmar,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Myanmar,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,True,False,False
+test,Namibia,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Namibia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Namibia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Namibia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Nepal,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Nepal,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Nepal,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Nepal,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,New Zealand,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Nicaragua,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Nicaragua,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Nicaragua,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Nicaragua,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Niger,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Niger,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Niger,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Niger,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Nigeria,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Nigeria,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Nigeria,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Nigeria,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,True,False,False
+test,North Macedonia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,North Macedonia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,True,False,False
+test,North Macedonia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,False,False
+test,North Macedonia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,True,True,False
+test,Norway,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Norway,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Norway,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Norway,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Pakistan,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Pakistan,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Pakistan,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Pakistan,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Palau,2025,0,both_available,not_both_95,one_or_more_gaps,0.5,False,True,False,False,False,False,False
+test,Panama,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Papua New Guinea,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Papua New Guinea,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+test,Papua New Guinea,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,True,True,False,False
+test,Papua New Guinea,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,True,True,True
+test,Paraguay,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Paraguay,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,True,True,False,False
+test,Paraguay,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Paraguay,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Peru,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Peru,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Peru,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Peru,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Philippines,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Philippines,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Philippines,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Philippines,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Poland,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Poland,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Poland,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Poland,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Portugal,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Portugal,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Portugal,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Portugal,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Qatar,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Qatar,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Qatar,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Qatar,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Romania,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Romania,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Romania,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Romania,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Russian Federation,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Russian Federation,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Russian Federation,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Russian Federation,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Rwanda,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Rwanda,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Rwanda,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Rwanda,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Saint Lucia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Saint Lucia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Saint Lucia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Saint Lucia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Samoa,2022,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,False,False,False,False,False,False
+test,Samoa,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Samoa,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Samoa,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,San Marino,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,San Marino,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,San Marino,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,San Marino,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,True,True
+test,Senegal,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Senegal,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Senegal,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Senegal,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Seychelles,2022,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Seychelles,2023,0,both_available,both_at_least_95,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Seychelles,2024,1,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+test,Seychelles,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Slovakia,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Slovakia,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Slovakia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Slovakia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Slovenia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Slovenia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Slovenia,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Slovenia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Somalia,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Somalia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Somalia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Somalia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,False,False,False
+test,South Africa,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,South Africa,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,South Africa,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,South Africa,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,South Sudan,2025,0,one_missing,unknown,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+test,Spain,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Spain,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Spain,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Spain,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Sri Lanka,2025,0,both_available,both_at_least_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+test,Sudan,2025,1,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,True,True,True,False,False
+test,Suriname,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,True,True,False,False
+test,Suriname,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Suriname,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Suriname,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Sweden,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Sweden,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Sweden,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Sweden,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Syrian Arab Republic,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Syrian Arab Republic,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,True,True,True,True
+test,Syrian Arab Republic,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,True
+test,Syrian Arab Republic,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Tajikistan,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,False
+test,Tajikistan,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Tajikistan,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Tajikistan,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Thailand,2025,1,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,False,False,False,False,False,True,True
+test,Timor-Leste,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,True,True,True
+test,Togo,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Togo,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Togo,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Togo,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Tunisia,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Tunisia,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Tunisia,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Tunisia,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Turkmenistan,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Turkmenistan,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Turkmenistan,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Turkmenistan,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Türkiye,2025,0,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,False,False,False,False,False,False,False
+test,Uganda,2022,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Uganda,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Uganda,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,False,False
+test,Uganda,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+test,Ukraine,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ukraine,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ukraine,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Ukraine,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,United Arab Emirates,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Arab Emirates,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Arab Emirates,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Arab Emirates,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,United Kingdom of Great Britain and Northern Ireland,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Kingdom of Great Britain and Northern Ireland,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Kingdom of Great Britain and Northern Ireland,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Kingdom of Great Britain and Northern Ireland,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+test,United Republic of Tanzania,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,United Republic of Tanzania,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,United Republic of Tanzania,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,United Republic of Tanzania,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Uruguay,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Uruguay,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Uruguay,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Uruguay,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+test,Uzbekistan,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Uzbekistan,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Uzbekistan,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Uzbekistan,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+test,Venezuela (Bolivarian Republic of),2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+test,Venezuela (Bolivarian Republic of),2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,True,True,False,False
+test,Venezuela (Bolivarian Republic of),2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,False,True,False,False
+test,Venezuela (Bolivarian Republic of),2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,True,False,False
+test,Viet Nam,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Viet Nam,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Viet Nam,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Viet Nam,2025,1,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+test,Yemen,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,True,True,False,True
+test,Yemen,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,True,False,False,False
+test,Yemen,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+test,Yemen,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,False,False,False
+test,Zambia,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Zambia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Zambia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+test,Zimbabwe,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+test,Zimbabwe,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+unseen_country_test,Albania,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,True,True
+unseen_country_test,Algeria,2025,1,both_available,not_both_95,one_or_more_gaps,0.6666666666666666,False,False,False,False,False,False,False
+unseen_country_test,Angola,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+unseen_country_test,Angola,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+unseen_country_test,Angola,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+unseen_country_test,Angola,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,False,False,False
+unseen_country_test,Argentina,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Argentina,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Austria,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Austria,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Austria,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Austria,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Azerbaijan,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Azerbaijan,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Azerbaijan,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,True,True,True
+unseen_country_test,Azerbaijan,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Bahrain,2022,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Bahrain,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Bahrain,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Bahrain,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Barbados,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Barbados,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Barbados,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Barbados,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+unseen_country_test,Benin,2022,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,False,True,True,True
+unseen_country_test,Benin,2023,1,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,True,True
+unseen_country_test,Benin,2024,0,one_missing,unknown,six_of_six_reported,1.0,True,False,False,True,True,False,False
+unseen_country_test,Benin,2025,0,one_missing,unknown,six_of_six_reported,1.0,False,False,False,True,True,False,False
+unseen_country_test,Bolivia (Plurinational State of),2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Bolivia (Plurinational State of),2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,False,False,False,False
+unseen_country_test,Bolivia (Plurinational State of),2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Bolivia (Plurinational State of),2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,True,False,False
+unseen_country_test,British Virgin Islands,2024,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+unseen_country_test,British Virgin Islands,2025,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,False,True,False,False,False,False,False
+unseen_country_test,Bulgaria,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Bulgaria,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Bulgaria,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Bulgaria,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Burkina Faso,2025,1,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,False,False,False,False,False
+unseen_country_test,"China, Macao SAR",2022,0,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,"China, Macao SAR",2023,0,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,"China, Macao SAR",2024,0,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,"China, Macao SAR",2025,0,both_missing,unknown,six_of_six_reported,1.0,False,True,False,False,False,False,False
+unseen_country_test,Croatia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Croatia,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Croatia,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Croatia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Czechia,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Czechia,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Czechia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Czechia,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Democratic People's Republic of Korea,2025,0,both_available,both_at_least_95,one_or_more_gaps,0.6666666666666666,False,True,False,False,False,False,False
+unseen_country_test,Ecuador,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Ecuador,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Ecuador,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Ecuador,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+unseen_country_test,Eswatini,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Eswatini,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,True,True
+unseen_country_test,Eswatini,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Eswatini,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Greece,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Greece,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Greece,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Greece,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+unseen_country_test,Guinea-Bissau,2025,0,both_available,not_both_95,one_or_more_gaps,0.8333333333333334,False,False,True,False,False,False,False
+unseen_country_test,Indonesia,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,False,False,True,True
+unseen_country_test,Indonesia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+unseen_country_test,Indonesia,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Indonesia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Ireland,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Ireland,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Ireland,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Ireland,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+unseen_country_test,Israel,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Lesotho,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Lesotho,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Lesotho,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+unseen_country_test,Lesotho,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Madagascar,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,False,False,False
+unseen_country_test,Madagascar,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,False,False
+unseen_country_test,Madagascar,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,True,True,True,True,True
+unseen_country_test,Madagascar,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,True,True,True,False,False
+unseen_country_test,Netherlands (Kingdom of the),2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Netherlands (Kingdom of the),2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Netherlands (Kingdom of the),2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Netherlands (Kingdom of the),2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Oman,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Oman,2023,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Oman,2024,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Oman,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Saint Kitts and Nevis,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Saint Kitts and Nevis,2023,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Saint Kitts and Nevis,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Saint Kitts and Nevis,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,True,False,False,False,False,False
+unseen_country_test,Saint Vincent and the Grenadines,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Saudi Arabia,2022,0,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Saudi Arabia,2023,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Saudi Arabia,2024,1,both_available,both_at_least_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Saudi Arabia,2025,0,both_available,both_at_least_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Serbia,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Serbia,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Serbia,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Serbia,2025,1,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,True,True
+unseen_country_test,Sierra Leone,2022,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,True,True
+unseen_country_test,Sierra Leone,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Sierra Leone,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Sierra Leone,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Switzerland,2022,0,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Switzerland,2023,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Switzerland,2024,1,both_available,not_both_95,six_of_six_reported,1.0,True,False,False,False,False,False,False
+unseen_country_test,Switzerland,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,False,False,False,False,False,False
+unseen_country_test,Turks and Caicos Islands,2022,0,both_missing,unknown,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+unseen_country_test,Turks and Caicos Islands,2023,0,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Turks and Caicos Islands,2024,1,both_missing,unknown,six_of_six_reported,1.0,True,True,False,False,False,False,False
+unseen_country_test,Turks and Caicos Islands,2025,0,both_missing,unknown,six_of_six_reported,1.0,False,True,False,False,False,True,True
+unseen_country_test,Vanuatu,2022,0,one_missing,unknown,one_or_more_gaps,0.6666666666666666,True,True,False,True,True,False,False
+unseen_country_test,Vanuatu,2023,0,one_missing,unknown,one_or_more_gaps,0.8333333333333334,True,True,False,False,False,False,False
+unseen_country_test,Vanuatu,2024,0,both_available,not_both_95,six_of_six_reported,1.0,True,True,True,False,False,False,False
+unseen_country_test,Vanuatu,2025,0,both_available,not_both_95,six_of_six_reported,1.0,False,True,True,True,True,False,False

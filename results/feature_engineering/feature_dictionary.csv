@@ -1,0 +1,25 @@
+Feature,Definition,Permitted_temporal_window
+incidence_lag1,Reported incidence per million at t-1,t-1 or earlier
+incidence_lag2,Reported incidence per million at t-2,t-1 or earlier
+incidence_lag3,Reported incidence per million at t-3,t-1 or earlier
+incidence_median_3y,"Median of t-1, t-2 and t-3 incidence; complete history only",t-1 or earlier
+incidence_mean_3y,Mean of the three prior annual incidences,t-1 or earlier
+incidence_std_3y,Population standard deviation of the three prior annual incidences,t-1 or earlier
+incidence_max_3y,Maximum incidence among t-1 through t-3,t-1 or earlier
+incidence_change_1y,Incidence(t-1) minus incidence(t-2),t-1 or earlier
+incidence_history_zero_median,"Whether the three-year median is zero, if observed",t-1 or earlier
+mcv1_lag1,Current-revision WUENIC MCV1 coverage (%) assigned to t-1,t-1 or earlier
+mcv1_lag2,Current-revision WUENIC MCV1 coverage (%) assigned to t-2,t-1 or earlier
+mcv2_lag1,Current-revision WUENIC MCV2 coverage (%) assigned to t-1,t-1 or earlier
+mcv2_lag2,Current-revision WUENIC MCV2 coverage (%) assigned to t-2,t-1 or earlier
+mcv1_shortfall_lag1,100 minus MCV1 coverage at t-1 (percentage points),t-1 or earlier
+mcv2_shortfall_lag1,100 minus MCV2 coverage at t-1 (percentage points),t-1 or earlier
+mcv1_change_prior,MCV1(t-1) minus MCV1(t-2),t-1 or earlier
+mcv2_change_prior,MCV2(t-1) minus MCV2(t-2),t-1 or earlier
+dose_coverage_gap_lag1,MCV1(t-1) minus MCV2(t-1),t-1 or earlier
+both_doses_ge95_lag1,1 if both preceding-year national coverage estimates >=95%,t-1 or earlier
+population_log_lag1,Natural log of WB population at t-1,t-1 or earlier
+mcv1_lag1_missing,1 if prior-year MCV1 unavailable,t-1 or earlier
+mcv2_lag1_missing,1 if prior-year MCV2 unavailable,t-1 or earlier
+incidence_lag1_missing,1 if prior-year incidence unavailable,t-1 or earlier
+incidence_history_3y_complete,1 if three consecutive prior incidence years observed,t-1 or earlier

@@ -1,0 +1,15 @@
+outcome,partition,C1_new1,C1_new0,C0_new1,C0_new0,rows_excluded
+C_primary_frozen,test,143,0,0,362,0
+C_primary_frozen,unseen_country_test,33,0,0,86,0
+A_broad_2x_1pm,test,143,0,36,326,0
+A_broad_2x_1pm,unseen_country_test,33,0,12,74,0
+B_strict_3x_1pm,test,124,19,28,334,0
+B_strict_3x_1pm,unseen_country_test,31,2,8,78,0
+C_exclude_zero_median,test,124,0,0,209,172
+C_exclude_zero_median,unseen_country_test,27,0,0,45,47
+strict_new_C_onset,test,73,65,0,347,20
+strict_new_C_onset,unseen_country_test,18,13,0,82,6
+C_threshold_2pm,test,143,0,19,343,0
+C_threshold_2pm,unseen_country_test,33,0,9,77,0
+C_threshold_10pm,test,123,20,0,362,0
+C_threshold_10pm,unseen_country_test,29,4,0,86,0

@@ -1,0 +1,218 @@
+Country,ISO3,years,years_cases,years_mcv1,years_mcv2,years_population,years_incidence
+Anguilla,,26,12,0,0,0,0
+Bonaire,,26,2,0,0,0,0
+Cook Islands,COK,26,15,26,26,0,0
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),,26,4,0,0,0,0
+Montserrat,,26,10,0,0,0,0
+Niue,NIU,26,16,26,26,0,0
+Saba,,26,1,0,0,0,0
+Sint Eustatius,,26,1,0,0,0,0
+Tokelau,,26,14,0,0,0,0
+Wallis and Futuna,,26,6,0,0,0,0
+Sint Maarten (Dutch part),SXM,26,2,0,0,26,2
+Curaçao,CUW,26,3,0,0,26,3
+Aruba,ABW,26,6,0,0,26,6
+American Samoa,ASM,26,7,0,0,26,7
+Monaco,MCO,26,8,26,12,26,8
+"occupied Palestinian territory, including east Jerusalem",PSE,26,9,26,26,26,9
+British Virgin Islands,VGB,26,12,0,0,26,12
+Cayman Islands,CYM,26,12,0,0,26,12
+Bermuda,BMU,26,13,0,0,26,13
+Turks and Caicos Islands,TCA,26,13,0,0,26,13
+Tuvalu,TUV,26,13,26,25,26,13
+Fiji,FJI,26,14,26,21,26,14
+French Polynesia,PYF,26,14,0,0,26,14
+Naoero,NRU,26,14,26,25,26,14
+Northern Mariana Islands,MNP,26,14,0,0,26,14
+South Sudan,SSD,26,14,15,1,26,14
+Marshall Islands,MHL,26,16,26,26,26,16
+Morocco,MAR,26,16,26,16,26,16
+New Caledonia,NCL,26,16,0,0,26,16
+Samoa,WSM,26,17,26,24,26,17
+Kuwait,KWT,26,18,26,21,26,18
+Libya,LBY,26,18,26,25,26,18
+Montenegro,MNE,26,18,20,19,26,18
+Singapore,SGP,26,18,26,26,26,18
+Guam,GUM,26,19,0,0,26,19
+Micronesia (Federated States of),FSM,26,19,26,26,26,19
+Solomon Islands,SLB,26,19,26,8,26,19
+Kiribati,KIR,26,20,26,17,26,20
+Palau,PLW,26,20,26,26,26,20
+San Marino,SMR,26,20,26,23,26,20
+Sao Tome and Principe,STP,26,21,26,12,26,21
+Tonga,TON,26,21,26,23,26,21
+United Arab Emirates,ARE,26,21,26,26,26,21
+Albania,ALB,26,22,26,25,26,22
+Bosnia and Herzegovina,BIH,26,22,26,26,26,22
+Brunei Darussalam,BRN,26,22,26,26,26,22
+"China, Hong Kong SAR",HKG,26,22,0,0,26,22
+"China, Macao SAR",MAC,26,22,0,0,26,22
+Italy,ITA,26,22,26,13,26,22
+Japan,JPN,26,22,26,18,26,22
+Luxembourg,LUX,26,22,26,14,26,22
+Mauritius,MUS,26,22,26,22,26,22
+Poland,POL,26,22,26,26,26,22
+United States of America,USA,26,22,26,26,26,22
+Algeria,DZA,26,23,26,26,26,23
+Austria,AUT,26,23,26,26,26,23
+Belgium,BEL,26,23,26,20,26,23
+Democratic People's Republic of Korea,PRK,26,23,26,18,26,23
+Djibouti,DJI,26,23,26,14,26,23
+Finland,FIN,26,23,26,10,26,23
+France,FRA,26,23,26,16,26,23
+Iraq,IRQ,26,23,26,25,26,23
+Israel,ISR,26,23,26,25,26,23
+Switzerland,CHE,26,23,26,21,26,23
+Thailand,THA,26,23,26,26,26,23
+Timor-Leste,TLS,26,23,24,10,26,23
+Ukraine,UKR,26,23,26,26,26,23
+Vanuatu,VUT,26,23,26,3,26,23
+Bhutan,BTN,26,24,26,18,26,24
+Cabo Verde,CPV,26,24,26,15,26,24
+Comoros,COM,26,24,26,5,26,24
+Equatorial Guinea,GNQ,26,24,26,5,26,24
+Greece,GRC,26,24,26,19,26,24
+Guinea-Bissau,GNB,26,24,26,4,26,24
+Haiti,HTI,26,24,26,10,26,24
+Honduras,HND,26,24,26,8,26,24
+Jordan,JOR,26,24,26,26,26,24
+Kyrgyzstan,KGZ,26,24,26,26,26,24
+Latvia,LVA,26,24,26,26,26,24
+Lebanon,LBN,26,24,26,26,26,24
+Malta,MLT,26,24,26,23,26,24
+New Zealand,NZL,26,24,26,15,26,24
+Portugal,PRT,26,24,26,26,26,24
+Republic of Moldova,MDA,26,24,26,24,26,24
+Seychelles,SYC,26,24,26,25,26,24
+Türkiye,TUR,26,24,26,25,26,24
+Argentina,ARG,26,25,26,26,26,25
+Australia,AUS,26,25,26,22,26,25
+Azerbaijan,AZE,26,25,26,25,26,25
+Bahrain,BHR,26,25,26,26,26,25
+Brazil,BRA,26,25,26,26,26,25
+Burkina Faso,BFA,26,25,26,12,26,25
+Burundi,BDI,26,25,26,13,26,25
+Costa Rica,CRI,26,25,26,18,26,25
+Croatia,HRV,26,25,26,26,26,25
+Cuba,CUB,26,25,26,21,26,25
+Cyprus,CYP,26,25,26,19,26,25
+El Salvador,SLV,26,25,26,23,26,25
+Gabon,GAB,26,25,26,0,26,25
+Gambia,GMB,26,25,26,14,26,25
+Germany,DEU,26,25,26,24,26,25
+Grenada,GRD,26,25,26,24,26,25
+Iceland,ISL,26,25,26,23,26,25
+Ireland,IRL,26,25,26,12,26,25
+Kenya,KEN,26,25,26,11,26,25
+Lesotho,LSO,26,25,26,25,26,25
+Madagascar,MDG,26,25,26,6,26,25
+Mauritania,MRT,26,25,26,3,26,25
+Mongolia,MNG,26,25,26,26,26,25
+Mozambique,MOZ,26,25,26,10,26,25
+Netherlands (Kingdom of the),NLD,26,25,26,24,26,25
+Norway,NOR,26,25,26,26,26,25
+Oman,OMN,26,25,26,26,26,25
+Panama,PAN,26,25,26,26,26,25
+Qatar,QAT,26,25,26,24,26,25
+Republic of Korea,KOR,26,25,26,26,26,25
+Saint Vincent and the Grenadines,VCT,26,25,26,25,26,25
+Saudi Arabia,SAU,26,25,26,25,26,25
+Slovenia,SVN,26,25,26,26,26,25
+Somalia,SOM,26,25,26,5,26,25
+Spain,ESP,26,25,26,22,26,25
+Sri Lanka,LKA,26,25,26,25,26,25
+Sudan,SDN,26,25,26,14,26,25
+Tajikistan,TJK,26,25,26,26,26,25
+Trinidad and Tobago,TTO,26,25,26,25,26,25
+Uzbekistan,UZB,26,25,26,26,26,25
+Yemen,YEM,26,25,26,21,26,25
+Zambia,ZMB,26,25,26,12,26,25
+Zimbabwe,ZWE,26,25,26,10,26,25
+Afghanistan,AFG,26,26,26,22,26,26
+Andorra,AND,26,26,26,19,26,26
+Angola,AGO,26,26,26,11,26,26
+Antigua and Barbuda,ATG,26,26,26,21,26,26
+Armenia,ARM,26,26,26,26,26,26
+Bahamas,BHS,26,26,26,22,26,26
+Bangladesh,BGD,26,26,26,14,26,26
+Barbados,BRB,26,26,26,25,26,26
+Belarus,BLR,26,26,26,26,26,26
+Belize,BLZ,26,26,26,21,26,26
+Benin,BEN,26,26,26,1,26,26
+Bolivia (Plurinational State of),BOL,26,26,26,8,26,26
+Botswana,BWA,26,26,26,13,26,26
+Bulgaria,BGR,26,26,26,26,26,26
+Cambodia,KHM,26,26,26,14,26,26
+Cameroon,CMR,26,26,26,6,26,26
+Canada,CAN,26,26,26,14,26,26
+Central African Republic,CAF,26,26,26,0,26,26
+Chad,TCD,26,26,26,4,26,26
+Chile,CHL,26,26,26,22,26,26
+China,CHN,26,26,26,21,26,26
+Colombia,COL,26,26,26,26,26,26
+Congo,COG,26,26,26,7,26,26
+Czechia,CZE,26,26,26,26,26,26
+Côte d'Ivoire,CIV,26,26,26,5,26,26
+Democratic Republic of the Congo,COD,26,26,26,3,26,26
+Denmark,DNK,26,26,26,25,26,26
+Dominica,DMA,26,26,26,25,26,26
+Dominican Republic,DOM,26,26,26,8,26,26
+Ecuador,ECU,26,26,26,17,26,26
+Egypt,EGY,26,26,26,26,26,26
+Eritrea,ERI,26,26,26,11,26,26
+Estonia,EST,26,26,26,26,26,26
+Eswatini,SWZ,26,26,26,24,26,26
+Ethiopia,ETH,26,26,26,7,26,26
+Georgia,GEO,26,26,26,25,26,26
+Ghana,GHA,26,26,26,14,26,26
+Guatemala,GTM,26,26,26,10,26,26
+Guinea,GIN,26,26,26,4,26,26
+Guyana,GUY,26,26,26,25,26,26
+Hungary,HUN,26,26,26,26,26,26
+India,IND,26,26,26,15,26,26
+Indonesia,IDN,26,26,26,23,26,26
+Iran (Islamic Republic of),IRN,26,26,26,26,26,26
+Jamaica,JAM,26,26,26,25,26,26
+Kazakhstan,KAZ,26,26,26,26,26,26
+Lao People's Democratic Republic,LAO,26,26,26,9,26,26
+Liberia,LBR,26,26,26,7,26,26
+Lithuania,LTU,26,26,26,26,26,26
+Malawi,MWI,26,26,26,11,26,26
+Malaysia,MYS,26,26,26,21,26,26
+Maldives,MDV,26,26,26,19,26,26
+Mali,MLI,26,26,26,7,26,26
+Mexico,MEX,26,26,26,26,26,26
+Myanmar,MMR,26,26,26,18,26,26
+Namibia,NAM,26,26,26,9,26,26
+Nepal,NPL,26,26,26,10,26,26
+Nicaragua,NIC,26,26,26,9,26,26
+Niger,NER,26,26,26,12,26,26
+Nigeria,NGA,26,26,26,7,26,26
+North Macedonia,MKD,26,26,26,26,26,26
+Pakistan,PAK,26,26,26,17,26,26
+Papua New Guinea,PNG,26,26,26,7,26,26
+Paraguay,PRY,26,26,26,21,26,26
+Peru,PER,26,26,26,19,26,26
+Philippines,PHL,26,26,26,17,26,26
+Romania,ROU,26,26,26,26,26,26
+Russian Federation,RUS,26,26,26,26,26,26
+Rwanda,RWA,26,26,26,11,26,26
+Saint Kitts and Nevis,KNA,26,26,26,26,26,26
+Saint Lucia,LCA,26,26,26,26,26,26
+Senegal,SEN,26,26,26,12,26,26
+Serbia,SRB,26,26,26,26,26,26
+Sierra Leone,SLE,26,26,26,11,26,26
+Slovakia,SVK,26,26,26,26,26,26
+South Africa,ZAF,26,26,26,26,26,26
+Suriname,SUR,26,26,26,13,26,26
+Sweden,SWE,26,26,26,26,26,26
+Syrian Arab Republic,SYR,26,26,26,26,26,26
+Togo,TGO,26,26,26,7,26,26
+Tunisia,TUN,26,26,26,26,26,26
+Turkmenistan,TKM,26,26,26,26,26,26
+Uganda,UGA,26,26,26,4,26,26
+United Kingdom of Great Britain and Northern Ireland,GBR,26,26,26,26,26,26
+United Republic of Tanzania,TZA,26,26,26,12,26,26
+Uruguay,URY,26,26,26,13,26,26
+Venezuela (Bolivarian Republic of),VEN,26,26,26,17,26,26
+Viet Nam,VNM,26,26,26,19,26,26

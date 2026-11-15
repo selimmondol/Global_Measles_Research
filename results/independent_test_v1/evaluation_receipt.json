@@ -1,0 +1,9 @@
+{
+  "executed_utc": "2026-11-10T20:38:40.805724+00:00",
+  "frozen_protocol_sha256": "43975245ba1335f17d20210e425e8be6d2492902c5cf7db4517659437f85eb56",
+  "frozen_manifest_files_checked": 28,
+  "model_refit_policy": "2003-2018 TRAIN ONLY; no validation rows in fit",
+  "test_access": "2022-2025 partition labels evaluated exactly once in this run",
+  "eligibility_note": "Ranking limited to retrospectively outcome-evaluable country-years",
+  "not_realtime": "WUENIC historical revisions not known to be available at prediction time"
+}

@@ -1,0 +1,11 @@
+model,feature
+vaccination_only,mcv1_lag1
+vaccination_only,mcv2_lag1
+incidence_history,incidence_lag1
+incidence_history,incidence_median_3y
+incidence_history,incidence_std_3y
+combined,mcv1_lag1
+combined,mcv2_lag1
+combined,incidence_lag1
+combined,incidence_median_3y
+combined,incidence_std_3y

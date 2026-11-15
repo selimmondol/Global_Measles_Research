@@ -1,0 +1,13 @@
+Check,Result
+Countries/territories,217
+Country-year records,5642
+Zero reported cases (observed),1674
+Missing reported cases (not zero),717
+Negative reported case records,0
+Noninteger reported case records,0
+Vaccination records outside 0–100%,0
+Population <= 0 records,0
+Missing ISO3 records,208
+Duplicate country-year records,0
+Recalculated incidence inconsistencies,0
+Previous Step 4 comparison,"Previous Step 4 compared; 4 availability differences, 0 value differences"

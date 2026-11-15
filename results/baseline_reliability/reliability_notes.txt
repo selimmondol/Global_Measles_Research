@@ -1,0 +1,13 @@
+STEP 9: VALIDATION-ONLY BASELINE RELIABILITY AUDIT
+Target C is researcher-defined annual reported-incidence surge, NOT confirmed measles outbreaks.
+Only 2019-2021 validation predictions; no test data or test predictions loaded.
+Bootstrap resamples entire countries (with replacement), retaining their years.
+Intervals are percentile 95% descriptive confidence intervals, not causal intervals.
+All models compared on identical country-years within each cohort.
+Recall@10% selects top 10% of country-YEAR rows; repeated countries possible.
+Calibration bins are fixed 0.2-width; small bins are unstable.
+High coverage: national, prior-year WUENIC MCV1 AND MCV2 >=95%; not immunity.
+WUENIC current-revision values may not have been available at prediction time.
+Missing coverage subgroup is descriptive and may be nonrandom.
+Do not select models or operating points using any future/unseen-country test.
+Bootstrap confidence intervals alone do not adjust for all global time shocks.

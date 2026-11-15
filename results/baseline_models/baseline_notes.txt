@@ -1,0 +1,15 @@
+STEP 8: BASELINE LOGISTIC REGRESSION — DEVELOPMENT-ONLY EVALUATION
+Target: researcher-defined annual incidence surge C, not WHO outbreak status.
+The outcome is provisional, so results are exploratory, not a publication finding.
+Development: 2003–2018 training; 2019–2021 validation.
+Future test 2022–2025 and unseen-country test NEVER loaded into model data.
+Primary comparison: matched complete MCV1+MCV2 vaccination records across all models.
+Secondary comparison: all eligible development records, training-only median imputation.
+Train-only imputation and standardization; same cohort for all three models.
+LogisticRegression default regularization C=1, no validation-tuned hyperparameters.
+Recall@10% selects ceil(10% of validation country-years); repeated countries possible.
+Threshold 0.5 is descriptive, not a chosen policy operating point.
+No confidence intervals yet; observations within country are dependent.
+WUENIC series are current-revision historical estimates, not proven vintage-available forecasts.
+A historical incidence feature enters the surge outcome definition; interpret predictive comparisons cautiously.
+No country- or year-based random splitting. No test metrics generated.

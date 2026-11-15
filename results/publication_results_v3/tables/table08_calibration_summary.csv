@@ -1,0 +1,9 @@
+partition,model,n,events,mean_predicted,observed_rate,brier_score
+test,vaccination_only,505,143,0.184352854,0.283168317,0.210689301
+test,combined,505,143,0.186720526,0.283168317,0.206848138
+test,rf_regularized,505,143,0.201723975,0.283168317,0.166957191
+test,xgb_regularized,505,143,0.203892847,0.283168317,0.162530544
+unseen_country_test,vaccination_only,119,33,0.185593016,0.277310924,0.204957869
+unseen_country_test,combined,119,33,0.200680991,0.277310924,0.197647081
+unseen_country_test,rf_regularized,119,33,0.206440606,0.277310924,0.174693542
+unseen_country_test,xgb_regularized,119,33,0.218212205,0.277310924,0.172503431

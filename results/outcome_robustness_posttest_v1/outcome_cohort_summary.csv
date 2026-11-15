@@ -1,0 +1,15 @@
+outcome,partition,evaluated,excluded_from_frozen_cohort,events,non_events,event_rate
+C_primary_frozen,test,505,0,143,362,0.28316831683168314
+C_primary_frozen,unseen_country_test,119,0,33,86,0.2773109243697479
+A_broad_2x_1pm,test,505,0,179,326,0.35445544554455444
+A_broad_2x_1pm,unseen_country_test,119,0,45,74,0.37815126050420167
+B_strict_3x_1pm,test,505,0,152,353,0.300990099009901
+B_strict_3x_1pm,unseen_country_test,119,0,39,80,0.3277310924369748
+C_exclude_zero_median,test,333,172,124,209,0.37237237237237236
+C_exclude_zero_median,unseen_country_test,72,47,27,45,0.375
+strict_new_C_onset,test,485,20,73,412,0.15051546391752577
+strict_new_C_onset,unseen_country_test,113,6,18,95,0.1592920353982301
+C_threshold_2pm,test,505,0,162,343,0.3207920792079208
+C_threshold_2pm,unseen_country_test,119,0,42,77,0.35294117647058826
+C_threshold_10pm,test,505,0,123,382,0.24356435643564356
+C_threshold_10pm,unseen_country_test,119,0,29,90,0.24369747899159663

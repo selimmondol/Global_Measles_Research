@@ -1,0 +1,8 @@
+VALIDATION ONLY (2019-2021); the test partitions are not read.
+Bootstrapping re-ranks sampled country copies within each year.
+Intervals are descriptive and do not account for common global year shocks with only three years.
+Recall@10% is annual country-year event detection, not a proof of intervention effect.
+Vaccination shortfall is a simple benchmark, not the WHO official risk tool.
+Vaccination missingness is ranked last in the conventional benchmark.
+High coverage (both WUENIC doses >=95%) is a national estimate, not immunity.
+Prior to test: freeze this protocol AND operational target definition; avoid retrospective tuning.

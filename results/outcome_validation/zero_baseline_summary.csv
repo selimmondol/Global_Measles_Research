@@ -1,0 +1,8 @@
+Group,Rows
+Eligible total,3764
+Eligible with zero historical median,1201
+Eligible with positive historical median,2563
+surge_A_2x_1pm: events at zero baseline,156
+surge_B_3x_1pm: events at zero baseline,156
+surge_C_2x_5pm: events at zero baseline,90
+surge_D_2x_5pm_2increase: events at zero baseline,90

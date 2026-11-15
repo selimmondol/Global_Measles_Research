@@ -1,0 +1,3 @@
+cohort,n,events,unique_countries,same_keys_and_labels_all_models
+matched_complete_vaccination,346,67,132,True
+all_eligible_imputed_vaccination,396,87,147,True

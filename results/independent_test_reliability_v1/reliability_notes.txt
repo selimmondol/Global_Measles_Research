@@ -1,0 +1,14 @@
+STEP 16: POST-TEST DESCRIPTIVE RELIABILITY AUDIT
+
+No models were fitted, tuned or recalibrated. No frozen files modified.
+The independent tests have ALREADY been opened at Step 15; these are post-test analyses, not a new confirmation.
+Bootstrap: sample countries with replacement WITHIN each partition; retain their annual observations; recompute per-year top-K.
+Small number of calendar years (4) and shared global shocks are NOT accounted for by country-only bootstrap.
+Country bootstrap duplicates are treated as sampled copies; inference is conditional on the evaluated-country population.
+Risk ranking is restricted to retrospectively outcome-evaluable country-years.
+Higher dose coverage uses >=95% prior-year national WUENIC estimates, not measured immunity.
+High-vaccination detection is computed AFTER overall annual prioritization (no subgroup-specific K).
+Definition C is researcher-defined incidence surge, not WHO-confirmed outbreak.
+Other endpoint robustness (A/B/onset/zero-baseline excluded) requires joining frozen predictions to
+original labels WITHOUT model changes; it is not estimated by this script.
+No claims of prospective performance; WUENIC current revision is retrospective.

@@ -1,0 +1,12 @@
+STEP 18: POST-TEST EXPLORATORY SURVEILLANCE / MISSINGNESS SENSITIVITY
+Only frozen test predictions and prior source-derived variables used; no model retraining/tuning.
+Subgroup recall uses the ORIGINAL annual top-10% country selections, NOT subgroup-specific reranking.
+Historical reporting completeness proxy = WHO case value PRESENT in each of prior 6 annual records.
+This is NOT verified completeness, sensitivity, case ascertainment, or surveillance accuracy.
+Only annual WHO reporting, not actual outbreak confirmation; missing != zero.
+COVID-overlap means 2020 or 2021 falls in the prior 3 calendar years. It is NOT causal inference.
+WHO/WUENIC revisions and what was known historically CANNOT be measured with one vintage.
+Small subgroups and clustered years limit inference. This analysis is post-test exploratory.
+Eligibility/rankings depend retrospectively on observed target years, not feasible prospective deployment.
+National WUENIC MCV1+MCV2 >=95% does NOT measure immunity or local vaccine gaps.
+Pre-2022 predictions are NEVER loaded. Frozen model probabilities unchanged.

@@ -1,0 +1,16 @@
+STEP 7: PROVISIONAL VALIDATION DESIGN (NO MODEL TRAINING)
+Target is researcher-defined annual reported-incidence surge, NOT WHO-confirmed outbreak.
+Training 2003-2018; tuning/validation 2019-2021; locked future test 2022-2025.
+A deterministic 20% of countries with eligible history are reserved from ALL model development.
+Their 2022-2025 eligible outcomes form a separate unseen-country future-year evaluation.
+Holdout selection: SHA256 of fixed salt + exact country name; sorted; first rounded 20%.
+Salt: measles-country-holdout-v1-fixed-before-modeling; reserved 40 of 202 countries with eligible labels.
+Never tune models, thresholds, preprocessing or feature selection on either test partition.
+Train-only imputation/scaling/encoding; fit calibration on validation or training folds only.
+Annual labels and serial observations are dependent within country; report country-cluster uncertainty.
+2020-2021 surveillance and vaccination disruptions warrant sensitivity analyses.
+Current-revision WUENIC values are not proven to have been available in historical real time.
+Resurgence definition is provisional; lock protocol and time splits before fitting models.
+Pre-specified country holdout checks geographical transfer, NOT fully independent contemporaneous
+global shocks or true cross-border epidemiological transportability.
+No predictor values were imputed and no modelling performed.

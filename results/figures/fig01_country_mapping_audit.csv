@@ -1,0 +1,203 @@
+Country,ISO3,holdout_status,Group
+Ecuador,ECU,unseen_country,Held-out countries
+Oman,OMN,unseen_country,Held-out countries
+Bulgaria,BGR,unseen_country,Held-out countries
+Turks and Caicos Islands,TCA,unseen_country,Held-out countries
+Bolivia (Plurinational State of),BOL,unseen_country,Held-out countries
+Bahrain,BHR,unseen_country,Held-out countries
+Czechia,CZE,unseen_country,Held-out countries
+Albania,ALB,unseen_country,Held-out countries
+Israel,ISR,unseen_country,Held-out countries
+"China, Macao SAR",MAC,unseen_country,Held-out countries
+Azerbaijan,AZE,unseen_country,Held-out countries
+Barbados,BRB,unseen_country,Held-out countries
+Sierra Leone,SLE,unseen_country,Held-out countries
+Serbia,SRB,unseen_country,Held-out countries
+Guinea-Bissau,GNB,unseen_country,Held-out countries
+Saudi Arabia,SAU,unseen_country,Held-out countries
+Netherlands (Kingdom of the),NLD,unseen_country,Held-out countries
+Democratic People's Republic of Korea,PRK,unseen_country,Held-out countries
+Eswatini,SWZ,unseen_country,Held-out countries
+Republic of Korea,KOR,unseen_country,Held-out countries
+Ireland,IRL,unseen_country,Held-out countries
+Benin,BEN,unseen_country,Held-out countries
+Northern Mariana Islands,MNP,unseen_country,Held-out countries
+Madagascar,MDG,unseen_country,Held-out countries
+Switzerland,CHE,unseen_country,Held-out countries
+British Virgin Islands,VGB,unseen_country,Held-out countries
+Croatia,HRV,unseen_country,Held-out countries
+Jordan,JOR,unseen_country,Held-out countries
+Saint Kitts and Nevis,KNA,unseen_country,Held-out countries
+Algeria,DZA,unseen_country,Held-out countries
+Angola,AGO,unseen_country,Held-out countries
+Argentina,ARG,unseen_country,Held-out countries
+Greece,GRC,unseen_country,Held-out countries
+Saint Vincent and the Grenadines,VCT,unseen_country,Held-out countries
+Austria,AUT,unseen_country,Held-out countries
+Burkina Faso,BFA,unseen_country,Held-out countries
+Vanuatu,VUT,unseen_country,Held-out countries
+Lesotho,LSO,unseen_country,Held-out countries
+Indonesia,IDN,unseen_country,Held-out countries
+New Caledonia,NCL,unseen_country,Held-out countries
+Dominica,DMA,development_country,Development countries
+Bhutan,BTN,development_country,Development countries
+Cuba,CUB,development_country,Development countries
+Antigua and Barbuda,ATG,development_country,Development countries
+Democratic Republic of the Congo,COD,development_country,Development countries
+Kuwait,KWT,development_country,Development countries
+Tuvalu,TUV,development_country,Development countries
+South Africa,ZAF,development_country,Development countries
+Spain,ESP,development_country,Development countries
+Congo,COG,development_country,Development countries
+United States of America,USA,development_country,Development countries
+Senegal,SEN,development_country,Development countries
+Sri Lanka,LKA,development_country,Development countries
+Belarus,BLR,development_country,Development countries
+Burundi,BDI,development_country,Development countries
+Romania,ROU,development_country,Development countries
+Italy,ITA,development_country,Development countries
+Trinidad and Tobago,TTO,development_country,Development countries
+Bermuda,BMU,development_country,Development countries
+Chile,CHL,development_country,Development countries
+Cyprus,CYP,development_country,Development countries
+Mozambique,MOZ,development_country,Development countries
+Portugal,PRT,development_country,Development countries
+Philippines,PHL,development_country,Development countries
+Ukraine,UKR,development_country,Development countries
+Nigeria,NGA,development_country,Development countries
+China,CHN,development_country,Development countries
+Germany,DEU,development_country,Development countries
+Lebanon,LBN,development_country,Development countries
+Peru,PER,development_country,Development countries
+Japan,JPN,development_country,Development countries
+Cambodia,KHM,development_country,Development countries
+Guyana,GUY,development_country,Development countries
+Palau,PLW,development_country,Development countries
+Mauritius,MUS,development_country,Development countries
+Zimbabwe,ZWE,development_country,Development countries
+Morocco,MAR,development_country,Development countries
+Mali,MLI,development_country,Development countries
+Colombia,COL,development_country,Development countries
+Sweden,SWE,development_country,Development countries
+Nepal,NPL,development_country,Development countries
+Belize,BLZ,development_country,Development countries
+Uganda,UGA,development_country,Development countries
+Tunisia,TUN,development_country,Development countries
+Slovakia,SVK,development_country,Development countries
+Micronesia (Federated States of),FSM,development_country,Development countries
+Qatar,QAT,development_country,Development countries
+Hungary,HUN,development_country,Development countries
+Saint Lucia,LCA,development_country,Development countries
+Estonia,EST,development_country,Development countries
+Botswana,BWA,development_country,Development countries
+United Kingdom of Great Britain and Northern Ireland,GBR,development_country,Development countries
+Gambia,GMB,development_country,Development countries
+Ghana,GHA,development_country,Development countries
+Côte d'Ivoire,CIV,development_country,Development countries
+Bosnia and Herzegovina,BIH,development_country,Development countries
+Dominican Republic,DOM,development_country,Development countries
+Yemen,YEM,development_country,Development countries
+Kiribati,KIR,development_country,Development countries
+Togo,TGO,development_country,Development countries
+Namibia,NAM,development_country,Development countries
+Cayman Islands,CYM,development_country,Development countries
+Malta,MLT,development_country,Development countries
+Turkmenistan,TKM,development_country,Development countries
+Guatemala,GTM,development_country,Development countries
+Luxembourg,LUX,development_country,Development countries
+Comoros,COM,development_country,Development countries
+Naoero,NRU,development_country,Development countries
+Zambia,ZMB,development_country,Development countries
+French Polynesia,PYF,development_country,Development countries
+Iceland,ISL,development_country,Development countries
+Cabo Verde,CPV,development_country,Development countries
+Venezuela (Bolivarian Republic of),VEN,development_country,Development countries
+Tajikistan,TJK,development_country,Development countries
+North Macedonia,MKD,development_country,Development countries
+United Arab Emirates,ARE,development_country,Development countries
+Samoa,WSM,development_country,Development countries
+Cameroon,CMR,development_country,Development countries
+Türkiye,TUR,development_country,Development countries
+Thailand,THA,development_country,Development countries
+Poland,POL,development_country,Development countries
+Grenada,GRD,development_country,Development countries
+Brunei Darussalam,BRN,development_country,Development countries
+Montenegro,MNE,development_country,Development countries
+Uzbekistan,UZB,development_country,Development countries
+Australia,AUS,development_country,Development countries
+Singapore,SGP,development_country,Development countries
+Seychelles,SYC,development_country,Development countries
+Solomon Islands,SLB,development_country,Development countries
+"occupied Palestinian territory, including east Jerusalem",PSE,development_country,Development countries
+Mauritania,MRT,development_country,Development countries
+Pakistan,PAK,development_country,Development countries
+Nicaragua,NIC,development_country,Development countries
+Timor-Leste,TLS,development_country,Development countries
+Suriname,SUR,development_country,Development countries
+Sudan,SDN,development_country,Development countries
+Armenia,ARM,development_country,Development countries
+Maldives,MDV,development_country,Development countries
+Malaysia,MYS,development_country,Development countries
+Republic of Moldova,MDA,development_country,Development countries
+India,IND,development_country,Development countries
+Haiti,HTI,development_country,Development countries
+Brazil,BRA,development_country,Development countries
+Papua New Guinea,PNG,development_country,Development countries
+Andorra,AND,development_country,Development countries
+Tonga,TON,development_country,Development countries
+Guam,GUM,development_country,Development countries
+El Salvador,SLV,development_country,Development countries
+"China, Hong Kong SAR",HKG,development_country,Development countries
+Mexico,MEX,development_country,Development countries
+Malawi,MWI,development_country,Development countries
+France,FRA,development_country,Development countries
+Lithuania,LTU,development_country,Development countries
+Panama,PAN,development_country,Development countries
+Lao People's Democratic Republic,LAO,development_country,Development countries
+Canada,CAN,development_country,Development countries
+Georgia,GEO,development_country,Development countries
+Viet Nam,VNM,development_country,Development countries
+Norway,NOR,development_country,Development countries
+Fiji,FJI,development_country,Development countries
+Liberia,LBR,development_country,Development countries
+Djibouti,DJI,development_country,Development countries
+Sao Tome and Principe,STP,development_country,Development countries
+Central African Republic,CAF,development_country,Development countries
+Ethiopia,ETH,development_country,Development countries
+United Republic of Tanzania,TZA,development_country,Development countries
+Slovenia,SVN,development_country,Development countries
+Equatorial Guinea,GNQ,development_country,Development countries
+San Marino,SMR,development_country,Development countries
+Belgium,BEL,development_country,Development countries
+Bahamas,BHS,development_country,Development countries
+Iraq,IRQ,development_country,Development countries
+Guinea,GIN,development_country,Development countries
+Jamaica,JAM,development_country,Development countries
+Russian Federation,RUS,development_country,Development countries
+Myanmar,MMR,development_country,Development countries
+Rwanda,RWA,development_country,Development countries
+Syrian Arab Republic,SYR,development_country,Development countries
+Iran (Islamic Republic of),IRN,development_country,Development countries
+Somalia,SOM,development_country,Development countries
+Afghanistan,AFG,development_country,Development countries
+Marshall Islands,MHL,development_country,Development countries
+Kyrgyzstan,KGZ,development_country,Development countries
+Bangladesh,BGD,development_country,Development countries
+Denmark,DNK,development_country,Development countries
+Egypt,EGY,development_country,Development countries
+Honduras,HND,development_country,Development countries
+Gabon,GAB,development_country,Development countries
+Kazakhstan,KAZ,development_country,Development countries
+South Sudan,SSD,development_country,Development countries
+New Zealand,NZL,development_country,Development countries
+Niger,NER,development_country,Development countries
+Paraguay,PRY,development_country,Development countries
+Eritrea,ERI,development_country,Development countries
+Libya,LBY,development_country,Development countries
+Latvia,LVA,development_country,Development countries
+Chad,TCD,development_country,Development countries
+Mongolia,MNG,development_country,Development countries
+Uruguay,URY,development_country,Development countries
+Finland,FIN,development_country,Development countries
+Kenya,KEN,development_country,Development countries
+Costa Rica,CRI,development_country,Development countries

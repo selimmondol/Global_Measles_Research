@@ -1,0 +1,5 @@
+partition,capacity_pct,model_a,model_b,observed_difference,lower_95pct,upper_95pct,bootstrap_draws
+test,10,rf_regularized,coverage_shortfall_rank,0.16783217,0.086943103,0.23265635,200
+test,10,xgb_regularized,coverage_shortfall_rank,0.16783217,0.092415936,0.2368563,200
+unseen_country_test,10,rf_regularized,coverage_shortfall_rank,0.090909091,-0.047744361,0.2858631,200
+unseen_country_test,10,xgb_regularized,coverage_shortfall_rank,0.090909091,-0.055637255,0.2858631,200

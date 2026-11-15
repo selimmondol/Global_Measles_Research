@@ -1,0 +1,4 @@
+Group,Country_year_rows,Outcome_eligible,Outcome_ineligible,surge_A_2x_1pm_eligible,surge_A_2x_1pm_events,surge_A_2x_1pm_event_rate_pct,surge_B_3x_1pm_eligible,surge_B_3x_1pm_events,surge_B_3x_1pm_event_rate_pct,surge_C_2x_5pm_eligible,surge_C_2x_5pm_events,surge_C_2x_5pm_event_rate_pct,surge_D_2x_5pm_2increase_eligible,surge_D_2x_5pm_2increase_events,surge_D_2x_5pm_2increase_event_rate_pct
+All country-years,5642,3764,1878,3764,941,25.0,3764,792,21.04,3764,764,20.3,3764,764,20.3
+Prior-year MCV1 & MCV2 observed,3444,2667,777,2667,686,25.72,2667,591,22.16,2667,532,19.95,2667,532,19.95
+Prior-year MCV1 & MCV2 >=95%,955,724,231,724,182,25.14,724,158,21.82,724,121,16.71,724,121,16.71

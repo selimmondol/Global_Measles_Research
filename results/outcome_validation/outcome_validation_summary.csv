@@ -1,0 +1,11 @@
+Metric,Value
+Input country-year rows,5642
+Outcome eligible,3764
+Unique ineligible,1878
+Eligible zero-median rows,1201
+Definition A events,941
+Definition B events,792
+Definition C events,764
+Definition D events,764
+C vs D disagreement rows,0
+Definition C provisional consecutive-year runs,470

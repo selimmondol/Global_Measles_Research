@@ -1,0 +1,611 @@
+Country,Year,observed_surge_label,high_coverage,approach,capacity_pct
+Papua New Guinea,2019,0,False,vaccination_only,10
+Central African Republic,2019,1,False,vaccination_only,10
+Chad,2019,1,False,vaccination_only,10
+Montenegro,2019,0,False,vaccination_only,10
+Guinea,2019,1,False,vaccination_only,10
+Somalia,2019,0,False,vaccination_only,10
+Yemen,2019,1,False,vaccination_only,10
+Equatorial Guinea,2019,0,False,vaccination_only,10
+Nigeria,2019,1,False,vaccination_only,10
+Gabon,2019,0,False,vaccination_only,10
+Cameroon,2019,1,False,vaccination_only,10
+South Sudan,2019,1,False,vaccination_only,10
+Ethiopia,2019,0,False,vaccination_only,10
+Democratic Republic of the Congo,2019,1,False,vaccination_only,10
+Papua New Guinea,2019,0,False,combined,10
+Montenegro,2019,0,False,combined,10
+Chad,2019,1,False,combined,10
+Central African Republic,2019,1,False,combined,10
+Guinea,2019,1,False,combined,10
+Yemen,2019,1,False,combined,10
+Equatorial Guinea,2019,0,False,combined,10
+Nigeria,2019,1,False,combined,10
+Ethiopia,2019,0,False,combined,10
+Cameroon,2019,1,False,combined,10
+South Sudan,2019,1,False,combined,10
+Mali,2019,1,False,combined,10
+Bosnia and Herzegovina,2019,1,False,combined,10
+Côte d'Ivoire,2019,1,False,combined,10
+Libya,2019,1,False,rf_regularized,10
+Slovakia,2019,1,True,rf_regularized,10
+Chad,2019,1,False,rf_regularized,10
+Montenegro,2019,0,False,rf_regularized,10
+Kyrgyzstan,2019,1,True,rf_regularized,10
+Republic of Moldova,2019,1,False,rf_regularized,10
+Mali,2019,1,False,rf_regularized,10
+Kazakhstan,2019,1,False,rf_regularized,10
+France,2019,1,False,rf_regularized,10
+Côte d'Ivoire,2019,1,False,rf_regularized,10
+Togo,2019,0,False,rf_regularized,10
+Yemen,2019,1,False,rf_regularized,10
+Lao People's Democratic Republic,2019,1,False,rf_regularized,10
+Belarus,2019,1,True,rf_regularized,10
+Libya,2019,1,False,xgb_regularized,10
+Montenegro,2019,0,False,xgb_regularized,10
+Chad,2019,1,False,xgb_regularized,10
+Slovakia,2019,1,True,xgb_regularized,10
+Kyrgyzstan,2019,1,True,xgb_regularized,10
+Republic of Moldova,2019,1,False,xgb_regularized,10
+Mali,2019,1,False,xgb_regularized,10
+Kazakhstan,2019,1,False,xgb_regularized,10
+Côte d'Ivoire,2019,1,False,xgb_regularized,10
+Yemen,2019,1,False,xgb_regularized,10
+Togo,2019,0,False,xgb_regularized,10
+France,2019,1,False,xgb_regularized,10
+Belarus,2019,1,True,xgb_regularized,10
+Papua New Guinea,2019,0,False,xgb_regularized,10
+Dominican Republic,2019,0,False,coverage_shortfall_rank,10
+Suriname,2019,0,False,coverage_shortfall_rank,10
+Venezuela (Bolivarian Republic of),2019,0,False,coverage_shortfall_rank,10
+Yemen,2019,1,False,coverage_shortfall_rank,10
+Montenegro,2019,0,False,coverage_shortfall_rank,10
+Afghanistan,2019,0,False,coverage_shortfall_rank,10
+Micronesia (Federated States of),2019,0,False,coverage_shortfall_rank,10
+Niger,2019,1,False,coverage_shortfall_rank,10
+Namibia,2019,0,False,coverage_shortfall_rank,10
+Kenya,2019,1,False,coverage_shortfall_rank,10
+Timor-Leste,2019,1,False,coverage_shortfall_rank,10
+Senegal,2019,1,False,coverage_shortfall_rank,10
+Lao People's Democratic Republic,2019,1,False,coverage_shortfall_rank,10
+Lebanon,2019,1,False,coverage_shortfall_rank,10
+Central African Republic,2020,1,False,vaccination_only,10
+Montenegro,2020,0,False,vaccination_only,10
+Papua New Guinea,2020,0,False,vaccination_only,10
+Chad,2020,0,False,vaccination_only,10
+Guinea,2020,0,False,vaccination_only,10
+Somalia,2020,0,False,vaccination_only,10
+Yemen,2020,0,False,vaccination_only,10
+Equatorial Guinea,2020,1,False,vaccination_only,10
+Afghanistan,2020,0,False,vaccination_only,10
+Nigeria,2020,0,False,vaccination_only,10
+Cameroon,2020,0,False,vaccination_only,10
+Gabon,2020,0,False,vaccination_only,10
+Democratic Republic of the Congo,2020,0,False,vaccination_only,10
+South Sudan,2020,1,False,vaccination_only,10
+Samoa,2020,1,False,combined,10
+Montenegro,2020,0,False,combined,10
+Papua New Guinea,2020,0,False,combined,10
+Chad,2020,0,False,combined,10
+Equatorial Guinea,2020,1,False,combined,10
+Central African Republic,2020,1,False,combined,10
+Gabon,2020,0,False,combined,10
+Cameroon,2020,0,False,combined,10
+Yemen,2020,0,False,combined,10
+Afghanistan,2020,0,False,combined,10
+South Sudan,2020,1,False,combined,10
+Suriname,2020,0,False,combined,10
+Guinea,2020,0,False,combined,10
+Ethiopia,2020,0,False,combined,10
+Lao People's Democratic Republic,2020,1,False,rf_regularized,10
+Comoros,2020,0,False,rf_regularized,10
+Cambodia,2020,1,False,rf_regularized,10
+New Zealand,2020,0,False,rf_regularized,10
+Tunisia,2020,0,True,rf_regularized,10
+Timor-Leste,2020,0,False,rf_regularized,10
+San Marino,2020,0,False,rf_regularized,10
+Uzbekistan,2020,1,True,rf_regularized,10
+Ghana,2020,0,False,rf_regularized,10
+Luxembourg,2020,0,False,rf_regularized,10
+Togo,2020,0,False,rf_regularized,10
+Namibia,2020,0,False,rf_regularized,10
+Senegal,2020,1,False,rf_regularized,10
+Poland,2020,0,False,rf_regularized,10
+Lao People's Democratic Republic,2020,1,False,xgb_regularized,10
+Comoros,2020,0,False,xgb_regularized,10
+Uzbekistan,2020,1,True,xgb_regularized,10
+San Marino,2020,0,False,xgb_regularized,10
+Tunisia,2020,0,True,xgb_regularized,10
+New Zealand,2020,0,False,xgb_regularized,10
+Cambodia,2020,1,False,xgb_regularized,10
+Ghana,2020,0,False,xgb_regularized,10
+Timor-Leste,2020,0,False,xgb_regularized,10
+Luxembourg,2020,0,False,xgb_regularized,10
+Poland,2020,0,False,xgb_regularized,10
+Senegal,2020,1,False,xgb_regularized,10
+Slovenia,2020,0,False,xgb_regularized,10
+Kiribati,2020,0,False,xgb_regularized,10
+Mali,2020,0,False,coverage_shortfall_rank,10
+Congo,2020,0,False,coverage_shortfall_rank,10
+Nigeria,2020,0,False,coverage_shortfall_rank,10
+Liberia,2020,0,False,coverage_shortfall_rank,10
+Venezuela (Bolivarian Republic of),2020,0,False,coverage_shortfall_rank,10
+Papua New Guinea,2020,0,False,coverage_shortfall_rank,10
+Suriname,2020,0,False,coverage_shortfall_rank,10
+Afghanistan,2020,0,False,coverage_shortfall_rank,10
+Montenegro,2020,0,False,coverage_shortfall_rank,10
+Yemen,2020,0,False,coverage_shortfall_rank,10
+Haiti,2020,0,False,coverage_shortfall_rank,10
+Ethiopia,2020,0,False,coverage_shortfall_rank,10
+Lao People's Democratic Republic,2020,1,False,coverage_shortfall_rank,10
+Mexico,2020,0,False,coverage_shortfall_rank,10
+Montenegro,2021,0,False,vaccination_only,10
+Central African Republic,2021,0,False,vaccination_only,10
+Chad,2021,0,False,vaccination_only,10
+Papua New Guinea,2021,0,False,vaccination_only,10
+Suriname,2021,0,False,vaccination_only,10
+Guinea,2021,0,False,vaccination_only,10
+Somalia,2021,1,False,vaccination_only,10
+Gabon,2021,1,False,vaccination_only,10
+Yemen,2021,1,False,vaccination_only,10
+Equatorial Guinea,2021,1,False,vaccination_only,10
+Afghanistan,2021,1,False,vaccination_only,10
+Democratic Republic of the Congo,2021,0,False,vaccination_only,10
+Nigeria,2021,0,False,vaccination_only,10
+Montenegro,2021,0,False,combined,10
+Papua New Guinea,2021,0,False,combined,10
+Suriname,2021,0,False,combined,10
+Gabon,2021,1,False,combined,10
+Guinea,2021,0,False,combined,10
+Equatorial Guinea,2021,1,False,combined,10
+Chad,2021,0,False,combined,10
+Côte d'Ivoire,2021,1,False,combined,10
+Afghanistan,2021,1,False,combined,10
+Yemen,2021,1,False,combined,10
+Lao People's Democratic Republic,2021,0,False,combined,10
+Mali,2021,1,False,combined,10
+Syrian Arab Republic,2021,0,False,combined,10
+Burundi,2021,1,False,rf_regularized,10
+Mozambique,2021,1,False,rf_regularized,10
+Congo,2021,1,False,rf_regularized,10
+Equatorial Guinea,2021,1,False,rf_regularized,10
+Gabon,2021,1,False,rf_regularized,10
+Togo,2021,0,False,rf_regularized,10
+Maldives,2021,0,True,rf_regularized,10
+Tajikistan,2021,0,False,rf_regularized,10
+Syrian Arab Republic,2021,0,False,rf_regularized,10
+Zambia,2021,0,False,rf_regularized,10
+Papua New Guinea,2021,0,False,rf_regularized,10
+Malawi,2021,0,False,rf_regularized,10
+India,2021,0,False,rf_regularized,10
+Equatorial Guinea,2021,1,False,xgb_regularized,10
+Burundi,2021,1,False,xgb_regularized,10
+Mozambique,2021,1,False,xgb_regularized,10
+Gabon,2021,1,False,xgb_regularized,10
+Congo,2021,1,False,xgb_regularized,10
+Maldives,2021,0,True,xgb_regularized,10
+Tajikistan,2021,0,False,xgb_regularized,10
+Togo,2021,0,False,xgb_regularized,10
+Zambia,2021,0,False,xgb_regularized,10
+Malawi,2021,0,False,xgb_regularized,10
+Syrian Arab Republic,2021,0,False,xgb_regularized,10
+India,2021,0,False,xgb_regularized,10
+Papua New Guinea,2021,0,False,xgb_regularized,10
+Nigeria,2021,0,False,coverage_shortfall_rank,10
+Cameroon,2021,0,False,coverage_shortfall_rank,10
+Montenegro,2021,0,False,coverage_shortfall_rank,10
+Suriname,2021,0,False,coverage_shortfall_rank,10
+Mali,2021,1,False,coverage_shortfall_rank,10
+Papua New Guinea,2021,0,False,coverage_shortfall_rank,10
+Venezuela (Bolivarian Republic of),2021,0,False,coverage_shortfall_rank,10
+Congo,2021,1,False,coverage_shortfall_rank,10
+Liberia,2021,0,False,coverage_shortfall_rank,10
+Yemen,2021,1,False,coverage_shortfall_rank,10
+Afghanistan,2021,1,False,coverage_shortfall_rank,10
+Haiti,2021,0,False,coverage_shortfall_rank,10
+Brazil,2021,0,False,coverage_shortfall_rank,10
+Papua New Guinea,2019,0,False,vaccination_only,20
+Central African Republic,2019,1,False,vaccination_only,20
+Chad,2019,1,False,vaccination_only,20
+Montenegro,2019,0,False,vaccination_only,20
+Guinea,2019,1,False,vaccination_only,20
+Somalia,2019,0,False,vaccination_only,20
+Yemen,2019,1,False,vaccination_only,20
+Equatorial Guinea,2019,0,False,vaccination_only,20
+Nigeria,2019,1,False,vaccination_only,20
+Gabon,2019,0,False,vaccination_only,20
+Cameroon,2019,1,False,vaccination_only,20
+South Sudan,2019,1,False,vaccination_only,20
+Ethiopia,2019,0,False,vaccination_only,20
+Democratic Republic of the Congo,2019,1,False,vaccination_only,20
+Afghanistan,2019,0,False,vaccination_only,20
+Bosnia and Herzegovina,2019,1,False,vaccination_only,20
+Mali,2019,1,False,vaccination_only,20
+Côte d'Ivoire,2019,1,False,vaccination_only,20
+Libya,2019,1,False,vaccination_only,20
+Comoros,2019,1,False,vaccination_only,20
+Liberia,2019,0,False,vaccination_only,20
+Micronesia (Federated States of),2019,0,False,vaccination_only,20
+Syrian Arab Republic,2019,0,False,vaccination_only,20
+North Macedonia,2019,1,False,vaccination_only,20
+Congo,2019,0,False,vaccination_only,20
+Togo,2019,0,False,vaccination_only,20
+Venezuela (Bolivarian Republic of),2019,0,False,vaccination_only,20
+Lao People's Democratic Republic,2019,1,False,vaccination_only,20
+Papua New Guinea,2019,0,False,combined,20
+Montenegro,2019,0,False,combined,20
+Chad,2019,1,False,combined,20
+Central African Republic,2019,1,False,combined,20
+Guinea,2019,1,False,combined,20
+Yemen,2019,1,False,combined,20
+Equatorial Guinea,2019,0,False,combined,20
+Nigeria,2019,1,False,combined,20
+Ethiopia,2019,0,False,combined,20
+Cameroon,2019,1,False,combined,20
+South Sudan,2019,1,False,combined,20
+Mali,2019,1,False,combined,20
+Bosnia and Herzegovina,2019,1,False,combined,20
+Côte d'Ivoire,2019,1,False,combined,20
+Comoros,2019,1,False,combined,20
+Libya,2019,1,False,combined,20
+Togo,2019,0,False,combined,20
+North Macedonia,2019,1,False,combined,20
+Afghanistan,2019,0,False,combined,20
+Micronesia (Federated States of),2019,0,False,combined,20
+Lao People's Democratic Republic,2019,1,False,combined,20
+Syrian Arab Republic,2019,0,False,combined,20
+Mauritania,2019,1,False,combined,20
+Timor-Leste,2019,1,False,combined,20
+Venezuela (Bolivarian Republic of),2019,0,False,combined,20
+South Africa,2019,0,False,combined,20
+Congo,2019,0,False,combined,20
+Suriname,2019,0,False,combined,20
+Libya,2019,1,False,rf_regularized,20
+Slovakia,2019,1,True,rf_regularized,20
+Chad,2019,1,False,rf_regularized,20
+Montenegro,2019,0,False,rf_regularized,20
+Kyrgyzstan,2019,1,True,rf_regularized,20
+Republic of Moldova,2019,1,False,rf_regularized,20
+Mali,2019,1,False,rf_regularized,20
+Kazakhstan,2019,1,False,rf_regularized,20
+France,2019,1,False,rf_regularized,20
+Côte d'Ivoire,2019,1,False,rf_regularized,20
+Togo,2019,0,False,rf_regularized,20
+Yemen,2019,1,False,rf_regularized,20
+Lao People's Democratic Republic,2019,1,False,rf_regularized,20
+Belarus,2019,1,True,rf_regularized,20
+Viet Nam,2019,1,False,rf_regularized,20
+Papua New Guinea,2019,0,False,rf_regularized,20
+Kenya,2019,1,False,rf_regularized,20
+Russian Federation,2019,1,True,rf_regularized,20
+Malta,2019,1,True,rf_regularized,20
+Latvia,2019,0,False,rf_regularized,20
+Portugal,2019,0,True,rf_regularized,20
+Iraq,2019,1,False,rf_regularized,20
+Antigua and Barbuda,2019,0,True,rf_regularized,20
+Nepal,2019,0,False,rf_regularized,20
+North Macedonia,2019,1,False,rf_regularized,20
+Namibia,2019,0,False,rf_regularized,20
+Cyprus,2019,0,False,rf_regularized,20
+New Zealand,2019,1,False,rf_regularized,20
+Libya,2019,1,False,xgb_regularized,20
+Montenegro,2019,0,False,xgb_regularized,20
+Chad,2019,1,False,xgb_regularized,20
+Slovakia,2019,1,True,xgb_regularized,20
+Kyrgyzstan,2019,1,True,xgb_regularized,20
+Republic of Moldova,2019,1,False,xgb_regularized,20
+Mali,2019,1,False,xgb_regularized,20
+Kazakhstan,2019,1,False,xgb_regularized,20
+Côte d'Ivoire,2019,1,False,xgb_regularized,20
+Yemen,2019,1,False,xgb_regularized,20
+Togo,2019,0,False,xgb_regularized,20
+France,2019,1,False,xgb_regularized,20
+Belarus,2019,1,True,xgb_regularized,20
+Papua New Guinea,2019,0,False,xgb_regularized,20
+Lao People's Democratic Republic,2019,1,False,xgb_regularized,20
+Iraq,2019,1,False,xgb_regularized,20
+Viet Nam,2019,1,False,xgb_regularized,20
+Kenya,2019,1,False,xgb_regularized,20
+Cyprus,2019,0,False,xgb_regularized,20
+North Macedonia,2019,1,False,xgb_regularized,20
+Venezuela (Bolivarian Republic of),2019,0,False,xgb_regularized,20
+Russian Federation,2019,1,True,xgb_regularized,20
+Estonia,2019,1,False,xgb_regularized,20
+New Zealand,2019,1,False,xgb_regularized,20
+Portugal,2019,0,True,xgb_regularized,20
+Türkiye,2019,1,False,xgb_regularized,20
+Lebanon,2019,1,False,xgb_regularized,20
+Philippines,2019,1,False,xgb_regularized,20
+Dominican Republic,2019,0,False,coverage_shortfall_rank,20
+Suriname,2019,0,False,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2019,0,False,coverage_shortfall_rank,20
+Yemen,2019,1,False,coverage_shortfall_rank,20
+Montenegro,2019,0,False,coverage_shortfall_rank,20
+Afghanistan,2019,0,False,coverage_shortfall_rank,20
+Micronesia (Federated States of),2019,0,False,coverage_shortfall_rank,20
+Niger,2019,1,False,coverage_shortfall_rank,20
+Namibia,2019,0,False,coverage_shortfall_rank,20
+Kenya,2019,1,False,coverage_shortfall_rank,20
+Timor-Leste,2019,1,False,coverage_shortfall_rank,20
+Senegal,2019,1,False,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2019,1,False,coverage_shortfall_rank,20
+Lebanon,2019,1,False,coverage_shortfall_rank,20
+Cambodia,2019,1,False,coverage_shortfall_rank,20
+Philippines,2019,1,False,coverage_shortfall_rank,20
+Syrian Arab Republic,2019,0,False,coverage_shortfall_rank,20
+Zambia,2019,0,False,coverage_shortfall_rank,20
+Pakistan,2019,0,False,coverage_shortfall_rank,20
+Peru,2019,0,False,coverage_shortfall_rank,20
+Bosnia and Herzegovina,2019,1,False,coverage_shortfall_rank,20
+Saint Lucia,2019,0,False,coverage_shortfall_rank,20
+United Republic of Tanzania,2019,0,False,coverage_shortfall_rank,20
+Bahamas,2019,1,False,coverage_shortfall_rank,20
+Nepal,2019,0,False,coverage_shortfall_rank,20
+Gambia,2019,0,False,coverage_shortfall_rank,20
+Libya,2019,1,False,coverage_shortfall_rank,20
+Malawi,2019,0,False,coverage_shortfall_rank,20
+Central African Republic,2020,1,False,vaccination_only,20
+Montenegro,2020,0,False,vaccination_only,20
+Papua New Guinea,2020,0,False,vaccination_only,20
+Chad,2020,0,False,vaccination_only,20
+Guinea,2020,0,False,vaccination_only,20
+Somalia,2020,0,False,vaccination_only,20
+Yemen,2020,0,False,vaccination_only,20
+Equatorial Guinea,2020,1,False,vaccination_only,20
+Afghanistan,2020,0,False,vaccination_only,20
+Nigeria,2020,0,False,vaccination_only,20
+Cameroon,2020,0,False,vaccination_only,20
+Gabon,2020,0,False,vaccination_only,20
+Democratic Republic of the Congo,2020,0,False,vaccination_only,20
+South Sudan,2020,1,False,vaccination_only,20
+Suriname,2020,0,False,vaccination_only,20
+Ethiopia,2020,0,False,vaccination_only,20
+Liberia,2020,0,False,vaccination_only,20
+Lao People's Democratic Republic,2020,1,False,vaccination_only,20
+Côte d'Ivoire,2020,0,False,vaccination_only,20
+Mali,2020,0,False,vaccination_only,20
+Mexico,2020,0,False,vaccination_only,20
+North Macedonia,2020,0,False,vaccination_only,20
+Mauritania,2020,0,False,vaccination_only,20
+Congo,2020,0,False,vaccination_only,20
+Haiti,2020,0,False,vaccination_only,20
+Timor-Leste,2020,0,False,vaccination_only,20
+Comoros,2020,0,False,vaccination_only,20
+Samoa,2020,1,False,combined,20
+Montenegro,2020,0,False,combined,20
+Papua New Guinea,2020,0,False,combined,20
+Chad,2020,0,False,combined,20
+Equatorial Guinea,2020,1,False,combined,20
+Central African Republic,2020,1,False,combined,20
+Gabon,2020,0,False,combined,20
+Cameroon,2020,0,False,combined,20
+Yemen,2020,0,False,combined,20
+Afghanistan,2020,0,False,combined,20
+South Sudan,2020,1,False,combined,20
+Suriname,2020,0,False,combined,20
+Guinea,2020,0,False,combined,20
+Ethiopia,2020,0,False,combined,20
+Côte d'Ivoire,2020,0,False,combined,20
+Lao People's Democratic Republic,2020,1,False,combined,20
+North Macedonia,2020,0,False,combined,20
+Nigeria,2020,0,False,combined,20
+Comoros,2020,0,False,combined,20
+Mexico,2020,0,False,combined,20
+Mauritania,2020,0,False,combined,20
+Timor-Leste,2020,0,False,combined,20
+Haiti,2020,0,False,combined,20
+Kazakhstan,2020,1,False,combined,20
+Syrian Arab Republic,2020,0,False,combined,20
+Bahamas,2020,0,False,combined,20
+Mali,2020,0,False,combined,20
+Lao People's Democratic Republic,2020,1,False,rf_regularized,20
+Comoros,2020,0,False,rf_regularized,20
+Cambodia,2020,1,False,rf_regularized,20
+New Zealand,2020,0,False,rf_regularized,20
+Tunisia,2020,0,True,rf_regularized,20
+Timor-Leste,2020,0,False,rf_regularized,20
+San Marino,2020,0,False,rf_regularized,20
+Uzbekistan,2020,1,True,rf_regularized,20
+Ghana,2020,0,False,rf_regularized,20
+Luxembourg,2020,0,False,rf_regularized,20
+Togo,2020,0,False,rf_regularized,20
+Namibia,2020,0,False,rf_regularized,20
+Senegal,2020,1,False,rf_regularized,20
+Poland,2020,0,False,rf_regularized,20
+Kiribati,2020,0,False,rf_regularized,20
+Samoa,2020,1,False,rf_regularized,20
+Lithuania,2020,0,False,rf_regularized,20
+Slovenia,2020,0,False,rf_regularized,20
+Bahamas,2020,0,False,rf_regularized,20
+Estonia,2020,0,False,rf_regularized,20
+Gabon,2020,0,False,rf_regularized,20
+Iceland,2020,0,False,rf_regularized,20
+Cyprus,2020,0,False,rf_regularized,20
+"China, Hong Kong SAR",2020,0,False,rf_regularized,20
+Burundi,2020,1,False,rf_regularized,20
+Papua New Guinea,2020,0,False,rf_regularized,20
+Kenya,2020,0,False,rf_regularized,20
+Lao People's Democratic Republic,2020,1,False,xgb_regularized,20
+Comoros,2020,0,False,xgb_regularized,20
+Uzbekistan,2020,1,True,xgb_regularized,20
+San Marino,2020,0,False,xgb_regularized,20
+Tunisia,2020,0,True,xgb_regularized,20
+New Zealand,2020,0,False,xgb_regularized,20
+Cambodia,2020,1,False,xgb_regularized,20
+Ghana,2020,0,False,xgb_regularized,20
+Timor-Leste,2020,0,False,xgb_regularized,20
+Luxembourg,2020,0,False,xgb_regularized,20
+Poland,2020,0,False,xgb_regularized,20
+Senegal,2020,1,False,xgb_regularized,20
+Slovenia,2020,0,False,xgb_regularized,20
+Kiribati,2020,0,False,xgb_regularized,20
+Mauritania,2020,0,False,xgb_regularized,20
+Namibia,2020,0,False,xgb_regularized,20
+Gabon,2020,0,False,xgb_regularized,20
+Togo,2020,0,False,xgb_regularized,20
+Samoa,2020,1,False,xgb_regularized,20
+Cyprus,2020,0,False,xgb_regularized,20
+Lithuania,2020,0,False,xgb_regularized,20
+"China, Hong Kong SAR",2020,0,False,xgb_regularized,20
+Burundi,2020,1,False,xgb_regularized,20
+Bahamas,2020,0,False,xgb_regularized,20
+Malta,2020,0,True,xgb_regularized,20
+"occupied Palestinian territory, including east Jerusalem",2020,1,True,xgb_regularized,20
+Iceland,2020,0,False,xgb_regularized,20
+Mali,2020,0,False,coverage_shortfall_rank,20
+Congo,2020,0,False,coverage_shortfall_rank,20
+Nigeria,2020,0,False,coverage_shortfall_rank,20
+Liberia,2020,0,False,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2020,0,False,coverage_shortfall_rank,20
+Papua New Guinea,2020,0,False,coverage_shortfall_rank,20
+Suriname,2020,0,False,coverage_shortfall_rank,20
+Afghanistan,2020,0,False,coverage_shortfall_rank,20
+Montenegro,2020,0,False,coverage_shortfall_rank,20
+Yemen,2020,0,False,coverage_shortfall_rank,20
+Haiti,2020,0,False,coverage_shortfall_rank,20
+Ethiopia,2020,0,False,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2020,1,False,coverage_shortfall_rank,20
+Mexico,2020,0,False,coverage_shortfall_rank,20
+Mozambique,2020,1,False,coverage_shortfall_rank,20
+Togo,2020,0,False,coverage_shortfall_rank,20
+Namibia,2020,0,False,coverage_shortfall_rank,20
+Niger,2020,0,False,coverage_shortfall_rank,20
+Samoa,2020,1,False,coverage_shortfall_rank,20
+Dominican Republic,2020,0,False,coverage_shortfall_rank,20
+Kenya,2020,0,False,coverage_shortfall_rank,20
+Lebanon,2020,0,False,coverage_shortfall_rank,20
+Senegal,2020,1,False,coverage_shortfall_rank,20
+Timor-Leste,2020,0,False,coverage_shortfall_rank,20
+Syrian Arab Republic,2020,0,False,coverage_shortfall_rank,20
+Peru,2020,0,False,coverage_shortfall_rank,20
+Philippines,2020,0,False,coverage_shortfall_rank,20
+Montenegro,2021,0,False,vaccination_only,20
+Central African Republic,2021,0,False,vaccination_only,20
+Chad,2021,0,False,vaccination_only,20
+Papua New Guinea,2021,0,False,vaccination_only,20
+Suriname,2021,0,False,vaccination_only,20
+Guinea,2021,0,False,vaccination_only,20
+Somalia,2021,1,False,vaccination_only,20
+Gabon,2021,1,False,vaccination_only,20
+Yemen,2021,1,False,vaccination_only,20
+Equatorial Guinea,2021,1,False,vaccination_only,20
+Afghanistan,2021,1,False,vaccination_only,20
+Democratic Republic of the Congo,2021,0,False,vaccination_only,20
+Nigeria,2021,0,False,vaccination_only,20
+Liberia,2021,0,False,vaccination_only,20
+Côte d'Ivoire,2021,1,False,vaccination_only,20
+North Macedonia,2021,0,False,vaccination_only,20
+Mali,2021,1,False,vaccination_only,20
+Lao People's Democratic Republic,2021,0,False,vaccination_only,20
+Cameroon,2021,0,False,vaccination_only,20
+Samoa,2021,0,False,vaccination_only,20
+Ethiopia,2021,0,False,vaccination_only,20
+Congo,2021,1,False,vaccination_only,20
+Kazakhstan,2021,0,False,vaccination_only,20
+Syrian Arab Republic,2021,0,False,vaccination_only,20
+Mozambique,2021,1,False,vaccination_only,20
+Comoros,2021,0,False,vaccination_only,20
+Montenegro,2021,0,False,combined,20
+Papua New Guinea,2021,0,False,combined,20
+Suriname,2021,0,False,combined,20
+Gabon,2021,1,False,combined,20
+Guinea,2021,0,False,combined,20
+Equatorial Guinea,2021,1,False,combined,20
+Chad,2021,0,False,combined,20
+Côte d'Ivoire,2021,1,False,combined,20
+Afghanistan,2021,1,False,combined,20
+Yemen,2021,1,False,combined,20
+Lao People's Democratic Republic,2021,0,False,combined,20
+Mali,2021,1,False,combined,20
+Syrian Arab Republic,2021,0,False,combined,20
+Ethiopia,2021,0,False,combined,20
+Nigeria,2021,0,False,combined,20
+Somalia,2021,1,False,combined,20
+Comoros,2021,0,False,combined,20
+North Macedonia,2021,0,False,combined,20
+Congo,2021,1,False,combined,20
+Mozambique,2021,1,False,combined,20
+Cameroon,2021,0,False,combined,20
+Haiti,2021,0,False,combined,20
+Peru,2021,0,False,combined,20
+Panama,2021,0,False,combined,20
+Togo,2021,0,False,combined,20
+Paraguay,2021,0,False,combined,20
+Burundi,2021,1,False,rf_regularized,20
+Mozambique,2021,1,False,rf_regularized,20
+Congo,2021,1,False,rf_regularized,20
+Equatorial Guinea,2021,1,False,rf_regularized,20
+Gabon,2021,1,False,rf_regularized,20
+Togo,2021,0,False,rf_regularized,20
+Maldives,2021,0,True,rf_regularized,20
+Tajikistan,2021,0,False,rf_regularized,20
+Syrian Arab Republic,2021,0,False,rf_regularized,20
+Zambia,2021,0,False,rf_regularized,20
+Papua New Guinea,2021,0,False,rf_regularized,20
+Malawi,2021,0,False,rf_regularized,20
+India,2021,0,False,rf_regularized,20
+Ghana,2021,0,False,rf_regularized,20
+Afghanistan,2021,1,False,rf_regularized,20
+Côte d'Ivoire,2021,1,False,rf_regularized,20
+Eritrea,2021,1,False,rf_regularized,20
+New Zealand,2021,0,False,rf_regularized,20
+Ethiopia,2021,0,False,rf_regularized,20
+Lao People's Democratic Republic,2021,0,False,rf_regularized,20
+Tunisia,2021,0,True,rf_regularized,20
+Slovenia,2021,0,False,rf_regularized,20
+United Republic of Tanzania,2021,0,False,rf_regularized,20
+Portugal,2021,0,True,rf_regularized,20
+Botswana,2021,0,False,rf_regularized,20
+Cameroon,2021,0,False,rf_regularized,20
+Equatorial Guinea,2021,1,False,xgb_regularized,20
+Burundi,2021,1,False,xgb_regularized,20
+Mozambique,2021,1,False,xgb_regularized,20
+Gabon,2021,1,False,xgb_regularized,20
+Congo,2021,1,False,xgb_regularized,20
+Maldives,2021,0,True,xgb_regularized,20
+Tajikistan,2021,0,False,xgb_regularized,20
+Togo,2021,0,False,xgb_regularized,20
+Zambia,2021,0,False,xgb_regularized,20
+Malawi,2021,0,False,xgb_regularized,20
+Syrian Arab Republic,2021,0,False,xgb_regularized,20
+India,2021,0,False,xgb_regularized,20
+Papua New Guinea,2021,0,False,xgb_regularized,20
+Afghanistan,2021,1,False,xgb_regularized,20
+Ghana,2021,0,False,xgb_regularized,20
+Lao People's Democratic Republic,2021,0,False,xgb_regularized,20
+Côte d'Ivoire,2021,1,False,xgb_regularized,20
+Cameroon,2021,0,False,xgb_regularized,20
+Eritrea,2021,1,False,xgb_regularized,20
+Ethiopia,2021,0,False,xgb_regularized,20
+New Zealand,2021,0,False,xgb_regularized,20
+Samoa,2021,0,False,xgb_regularized,20
+Tunisia,2021,0,True,xgb_regularized,20
+United Republic of Tanzania,2021,0,False,xgb_regularized,20
+Namibia,2021,0,False,xgb_regularized,20
+Slovenia,2021,0,False,xgb_regularized,20
+Nigeria,2021,0,False,coverage_shortfall_rank,20
+Cameroon,2021,0,False,coverage_shortfall_rank,20
+Montenegro,2021,0,False,coverage_shortfall_rank,20
+Suriname,2021,0,False,coverage_shortfall_rank,20
+Mali,2021,1,False,coverage_shortfall_rank,20
+Papua New Guinea,2021,0,False,coverage_shortfall_rank,20
+Venezuela (Bolivarian Republic of),2021,0,False,coverage_shortfall_rank,20
+Congo,2021,1,False,coverage_shortfall_rank,20
+Liberia,2021,0,False,coverage_shortfall_rank,20
+Yemen,2021,1,False,coverage_shortfall_rank,20
+Afghanistan,2021,1,False,coverage_shortfall_rank,20
+Haiti,2021,0,False,coverage_shortfall_rank,20
+Brazil,2021,0,False,coverage_shortfall_rank,20
+Mozambique,2021,1,False,coverage_shortfall_rank,20
+Togo,2021,0,False,coverage_shortfall_rank,20
+Ethiopia,2021,0,False,coverage_shortfall_rank,20
+Lao People's Democratic Republic,2021,0,False,coverage_shortfall_rank,20
+Peru,2021,0,False,coverage_shortfall_rank,20
+Dominican Republic,2021,0,False,coverage_shortfall_rank,20
+Kiribati,2021,1,False,coverage_shortfall_rank,20
+Samoa,2021,0,False,coverage_shortfall_rank,20
+Niger,2021,0,False,coverage_shortfall_rank,20
+Namibia,2021,0,False,coverage_shortfall_rank,20
+North Macedonia,2021,0,False,coverage_shortfall_rank,20
+Senegal,2021,0,False,coverage_shortfall_rank,20
+Syrian Arab Republic,2021,0,False,coverage_shortfall_rank,20

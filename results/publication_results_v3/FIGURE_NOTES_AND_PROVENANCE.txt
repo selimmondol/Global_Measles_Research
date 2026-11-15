@@ -1,0 +1,24 @@
+Step 19 v3 — read-only visual package
+Frozen test cohort: 505 future + 119 unseen-country rows.
+No training, tuning, recalibration, threshold selection or protocol modification.
+Figures use researcher-defined REPORTED-INCIDENCE SURGES; not WHO outbreak confirmation.
+Figures are POST-TEST descriptions, not independent replication.
+Figure 1 counts from the locked Step 14/15 design and preceding data processing.
+Figure 2 reports point estimates only; no uncomputed AUROC/AP confidence intervals are implied.
+Figure 3 reports paired country-cluster bootstrap 95% intervals for RF minus coverage ranking only, not intervals for all bars.
+Figure 3 uses annual top-10% and top-20% selection on outcome-evaluable rows.
+Figure 4 uses up to 5 within-model quantile bins for descriptive visualization; the frozen probability predictions are unchanged. Bin counts are shown for RF.
+Figure 5 unseen countries share the same future calendar shocks; not a separate historical period.
+Figure 6 shows the original cohort sizes and event counts for each alternative outcome; changed cohorts mean recall values are not directly matched.
+Strict NEW onset results are negative and deliberately shown.
+Historical WUENIC revisions and incomplete surveillance prevent a prospective claim.
+Input SHA256:
+6364b9191b957dc916bbdc4b12bffc14ad5366047c800881d64afe9e3c2123b8  results/independent_test_v1/test_predictions.csv
+ca38ce77a8d9470fe7bb539967bb81d3cf5e529e8c4404fc4618f8a726777afb  results/independent_test_v1/test_classification_metrics.csv
+1133e11684ef1bf7c2394113e2752812536a93f11e27913591fb2b6359a9d839  results/independent_test_v1/annual_decision_metrics.csv
+ee7f882c639a8f89bf4bc8e8c4326d5f85cfda2f0e74a6317dce2ee3eddf58f9  results/independent_test_v1/pooled_decision_summary.csv
+c95da1bf02f12856118fba24b3487fe31728ab5a00e4d87cd90f62629f50a3a1  results/outcome_robustness_posttest_v1/decision_metrics_by_outcome.csv
+34e89bc9caeca5e6b13c9769340aeb32e19586747390eeb0ea208f9c0ef5c2be  results/outcome_robustness_posttest_v1/outcome_cohort_summary.csv
+fa577d77bf7d5869bdeb2618474f7c35b02c8c16b3e8215f1d20c15ea3866026  results/surveillance_sensitivity_posttest_v1/subgroup_sensitivity_summary.csv
+2f19bc17a699ee5534332048b956abb26f5d1dc2de8f7b0e97312a075f4a973a  results/independent_test_reliability_v1/paired_bootstrap_differences.csv
+f2f3f4db47bd90be004b19df4632a68a6f445d38a4b9e5115fd14de07ddebe48  results/independent_test_v1/evaluation_receipt.json

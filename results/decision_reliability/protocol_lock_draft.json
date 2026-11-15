@@ -1,0 +1,21 @@
+{
+  "script": "13_decision_reliability.py",
+  "prediction_years": [
+    2019,
+    2020,
+    2021
+  ],
+  "cohort": "all_eligible_imputed_vaccination",
+  "primary_operating_capacity_pct": 10,
+  "secondary_capacity_pct": 20,
+  "primary_model": "rf_regularized",
+  "secondary_model": "xgb_regularized",
+  "statistical_baseline": "combined",
+  "conventional_comparator": "coverage_shortfall_rank",
+  "primary_metric": "pooled annual recall at 10% per-year selected countries",
+  "selection_rule": "Per year ceil(10% of eligible countries), descending score; country ascending on ties",
+  "endpoint": "Provisional reported annual measles incidence surge Definition C; not WHO outbreak",
+  "bootstrap": "500 country-cluster draws; calendar shocks not independently captured",
+  "test_rule": "Do not access 2022-2025 future or unseen-country test until protocol frozen",
+  "caution": "WUENIC revised current-vintage estimates are retrospective; no real-time performance claim"
+}

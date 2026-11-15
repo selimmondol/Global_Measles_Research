@@ -1,0 +1,9 @@
+partition,model,n,events,AUROC,average_precision,brier_score
+test,vaccination_only,505,143,0.580313333,0.344281502,0.210689301
+test,combined,505,143,0.621537302,0.374681217,0.206848138
+test,rf_regularized,505,143,0.791619982,0.639050937,0.166957191
+test,xgb_regularized,505,143,0.789562647,0.642725158,0.162530541
+unseen_country_test,vaccination_only,119,33,0.591085271,0.381636914,0.204957869
+unseen_country_test,combined,119,33,0.615398168,0.413328785,0.197647081
+unseen_country_test,rf_regularized,119,33,0.740838619,0.542910297,0.174693542
+unseen_country_test,xgb_regularized,119,33,0.757223397,0.542148961,0.172503442

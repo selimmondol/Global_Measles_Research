@@ -1,0 +1,7 @@
+split,eligible_rows,both_vaccines_available_eligible,both_vaccines_missing_or_partial_eligible,high_vaccination_eligible
+train,2144,1295,849,398
+validation,396,346,50,74
+test,505,475,30,85
+unseen_country_test,119,103,16,16
+reserved_not_used,600,448,152,151
+prehistory,0,0,0,0

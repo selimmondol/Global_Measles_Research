@@ -1,0 +1,7 @@
+Annual reported-incidence surge (researcher-defined Definition C), NOT WHO-confirmed measles outbreaks.
+Test rankings use retrospectively eligible outcome rows; deployment selection may differ.
+Current-vintage WUENIC series are retrospectively revised. No prospective prediction claim.
+The holdout is country-held-out plus future-year; temporal/global shocks may affect both tests.
+Only 2003–2018 training fitted. No tuning or post-test model modification permitted.
+The 40 unseen countries were reserved entirely, including historical observations.
+Inference, CI, onset and missingness sensitivities require separately labelled analyses.

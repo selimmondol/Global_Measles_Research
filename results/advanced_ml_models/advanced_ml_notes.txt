@@ -1,0 +1,13 @@
+STEP 10: DEVELOPMENT-ONLY ADVANCED ML COMPARISON
+Primary target is provisional research-defined country-year reported-incidence surge C, NOT a WHO outbreak.
+Train 2003–2018; validation 2019–2021. Test 2022–2025 and unseen countries NOT used.
+Two prespecified cohorts: complete observed MCV1/MCV2 and all eligible with train-only median imputation.
+Random Forest and XGBoost have a SMALL predeclared configuration list: do not selectively report the winner.
+All four configurations are reported. If selecting one based on validation, its validation score is selection-biased.
+All model fitting and preprocessing use only training rows. No global scaling or imputation.
+The small fixed validation cohort is reused across baseline and ML comparisons: beware repeated-tuning optimism.
+Recall@10% ranks country-YEAR rows, not distinct countries, with repeated-country selection possible.
+No temporal or group-bootstrap confidence intervals are computed in this script.
+Historical WUENIC values reflect revisions, not necessarily the data available then.
+Historic incidence is embedded in surge definition; label and predictor definitions are mathematically linked.
+No causal claims and no claims of WHO-confirmed outbreak prediction.

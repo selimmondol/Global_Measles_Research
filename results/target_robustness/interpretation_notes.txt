@@ -1,0 +1,13 @@
+TARGET ROBUSTNESS — PROVISIONAL REPORTED INCIDENCE SURGES ONLY
+Primary candidate C: incidence >= 5 per million, >= 2x prior three-year median,
+and increase >= 0.5 per million. This is a researcher-defined threshold,
+NOT a WHO outbreak definition and NOT yet a final prespecified endpoint.
+Zero-baseline sensitivity excludes zero-median rows; it does not recode them as 0.
+Strict onset needs a verified previous-year negative label; an unknown previous
+year is neither assumed negative nor counted as a strict onset.
+Consecutive positive labels are not independent outbreaks.
+Threshold grid is descriptive and not intended for cherry-picking results.
+High MCV: national prior-year WUENIC >=95% for both doses; not true immunity.
+Reported incidence depends on surveillance completeness. Revised historical
+WUENIC estimates do not establish what was available in each historical year.
+No models trained; original files and labels unchanged.

@@ -1,0 +1,9 @@
+STEP 4 / OUTCOME VALIDATION
+These are researcher-defined reported-incidence surge labels, NOT WHO-confirmed outbreaks.
+All categories in eligibility_exclusive.csv are mutually exclusive.
+Cases with a zero historical median need special care; ratio-based rules can be misleading.
+Consecutive-year runs summarize adjacent positive labels; they are NOT validated outbreak episodes.
+Vaccination >=95% is NATIONAL prior-year WUENIC coverage, not proof of individual immunity.
+Study limitations include reporting heterogeneity, current-revision WUENIC estimates,
+missing population for some territories and repeated within-country observations.
+No definition is established here as the final primary endpoint.

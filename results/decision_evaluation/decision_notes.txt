@@ -1,0 +1,16 @@
+VALIDATION ONLY: 2019–2021. Test and unseen-country partitions not accessed.
+Annual top-K selects CEIL(10% or 20% of eligible countries) separately each year.
+Pooled recall = sum detected / sum events across years; not average annual recall.
+Tie breaking: descending score, ascending country name.
+Coverage-shortfall ranking uses 100 - min(previous-year MCV1, MCV2);
+missing coverage is ranked last, not assigned coverage=0. This is a simple
+research comparator, NOT the WHO risk-assessment framework.
+Fixed <95% coverage screen uses only countries with both vaccines observed;
+no imputation of vaccine coverage for this rule. Capacity is not fixed.
+Per-year target is a researcher-defined annual incidence surge, NOT
+WHO-defined outbreak onset. Reported cases are surveillance-dependent.
+All 2019–2021 comparisons are validation/exploratory, used repeatedly in
+development. Do not claim unbiased out-of-sample improvement or significance.
+Present-day WUENIC revisions do not imply historical real-time availability.
+Country-year observations across calendar years are dependent.
+Selection by validation performance must be frozen before 2022–2025 test.

@@ -1,0 +1,7 @@
+split,calendar_years,country_count,all_rows,eligible_rows,positive_events,negative_events,event_rate_pct,both_vaccines_available_eligible,both_vaccines_missing_or_partial_eligible,complete_incidence_lags_eligible,high_vaccination_eligible,high_vaccination_positive
+train,2003–2018,177,2832,2144,389,1755,18.14,1295,849,2144,398,68
+validation,2019–2021,177,531,396,87,309,21.97,346,50,396,74,13
+test,2022–2025,177,708,505,143,362,28.32,475,30,505,85,17
+unseen_country_test,2022–2025,40,160,119,33,86,27.73,103,16,119,16,3
+reserved_not_used,2003–2021,40,760,600,112,488,18.67,448,152,600,151,20
+prehistory,2000–2002,217,651,0,0,0,,0,0,0,0,0
