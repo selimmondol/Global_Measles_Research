@@ -52,3 +52,7 @@ Tables.xlsx
 *.pem
 credentials.json
 secrets.json
+
+# Protect lowercase data paths on case-sensitive systems
+/data/raw/
+/data/processed/
