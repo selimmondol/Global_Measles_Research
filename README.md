@@ -138,4 +138,4 @@ No repository-wide software or data redistribution license is currently declared
 
 ## Contact
 
-For correspondence about this study, contact **Md Selim Mondol** at [md.selim.mondol@hhu.de](mailto:md.selim.mondol@hhu.de).
+For correspondence about this study, contact **Md Selim Mondol** at [selimmondol2@gmail.com](mailto:selimmondol2@gmail.com).
